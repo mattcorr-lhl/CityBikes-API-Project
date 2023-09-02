@@ -1,1057 +1,518 @@
 name,category_names,address
-Wilson Street Pantry,"['Café', 'Restaurant']",6 Wilson St
-The Dhabba,['Indian Restaurant'],44 Candleriggs
-Merchant Square,"['Bar', 'Restaurant']",71-73 Albion St
-City Halls,"['Concert Hall', 'Theater']",
-Spitfire Espresso,"['Coffee Shop', 'Restaurant']",127 Candleriggs
-Britannia Panopticon Music Hall Trust,['Charity'],113-117 Trongate
-iCafe,['Internet Cafe'],72 Ingram St
-Italian Kitchen,['Italian Restaurant'],64 Ingram St
-Tinderbox,"['Café', 'Coffee Shop', 'Restaurant']",118 Ingram St
-DogHouse Merchant City,"['Arts and Entertainment', 'Beer Bar', 'BBQ Joint']",99 Hutcheson St
-Glasgow Botanic Gardens,['Park'],730 Great Western Rd
-Cail Bruich,"['Greek Restaurant', 'Scottish Restaurant']",725 Great Western Rd
-Loop & Scoop,"['Ice Cream Parlor', 'Restaurant']",665 Great Western Rd
-Ka Pao,['Asian Restaurant'],Botanic Gardens Garage
-Hillhead Bookclub,"['Cocktail Bar', 'Wine Bar', 'Restaurant']",17 Vinicombe St
-The Belle,['Bar'],617 Great Western Rd
-Papercup Coffee Company,['Coffee Shop'],603 Great Western Rd
-Black Pine Coffee Co,"['Coffee Shop', 'Restaurant']",518 Great Western Rd
-The Hanoi Bike Shop,['Vietnamese Restaurant'],8 Ruthven Lane
-Ubiquitous Chip,"['Bar', 'Scottish Restaurant']",12 Ashton Lane
-Bon Accord,"['Whisky Bar', 'Restaurant']",153 North St
-Chinaskis,"['Beer Garden', 'Restaurant']",239 North St
-Shenaz,['Indian Restaurant'],17 Granville St
-King's Theatre,"['Concert Hall', 'Music Venue', 'Theater']",297 Bath St
-Nice N Sleazy,"['Night Club', 'Bar', 'Restaurant']",421 Sauchiehall St
-The State Bar,['Bar'],148-148A Holland St
-Five March,['Mediterranean Restaurant'],138 Elderslie St
-Tiki Bar & Kitsch Inn,"['Cocktail Bar', 'Thai Restaurant']",214 Bath St
-Two Fat Ladies,['Restaurant'],652-654 Argyle St
-The Shandon Belles,['Restaurant'],652 Argyle St
-The Howgait,"['Arts and Entertainment', 'Bar', 'Gastropub']",100 St James’ Rd
-Oaka Supercity,['Grocery Store'],130 George St
-Italian Kitchen,['Italian Restaurant'],64 Ingram St
-Merchant Chippie,"['Fish and Chips Shop', 'Seafood Restaurant']",155 High St
-Spitfire Espresso,"['Coffee Shop', 'Restaurant']",127 Candleriggs
-iCafe,['Internet Cafe'],72 Ingram St
-Tinderbox,"['Café', 'Coffee Shop', 'Restaurant']",118 Ingram St
-Cathedral Square,['Park'],Cathedral Precinct
-Saturday School,['Education'],Cathedral St
-YO! Sushi,['Sushi Restaurant'],
-O2 Academy Glasgow,"['Concert Hall', 'Music Venue', 'Theater']",121 Eglinton St
-Citizens Theatre,"['Music Venue', 'Theater']",119 Gorbals St
-MacSorleys,"['Pub', 'Restaurant']",42 Jamaica St
-The Clutha Bar,"['Beer Bar', 'Pub', 'Restaurant']",167-169 Stockwell St
-Sub Club,"['Night Club', 'Bar']",22 Jamaica St
-House of Sher,['Warehouse or Wholesale Store'],201-211 Wallace St
-Waterstone's,['Bookstore'],174-176 Argyle St
-Scotia Bar,"['Bar', 'Restaurant']",112 Stockwell St
-Fopp,['Retail'],19 Union St
-"The Atrium, Radisson Blu",['Hotel Bar'],
-TK Maxx,['Department Store'],36-48 Argyle St
-Britannia Panopticon Music Hall Trust,['Charity'],113-117 Trongate
-Paesano Pizza,"['Pizzeria', 'Italian Restaurant']",94 Miller St
-DogHouse Merchant City,"['Arts and Entertainment', 'Beer Bar', 'BBQ Joint']",99 Hutcheson St
-Max's Bar and Grill,"['Cocktail Bar', 'Wine Bar', 'Fast Food Restaurant']",73 Queen St
-Wilson Street Pantry,"['Café', 'Restaurant']",6 Wilson St
-The Dhabba,['Indian Restaurant'],44 Candleriggs
-Tempo Tea Bar,"['Tea Room', 'Restaurant']",83 Queen St
-Scotia Bar,"['Bar', 'Restaurant']",112 Stockwell St
-Hotel Chocolat,"['Dessert Shop', 'Restaurant']",42 Buchanan St
-Cineworld,['Movie Theater'],7 Renfrew St
-Clarins John Lewis Glasgow,['Department Store'],Buchanan St
-The LEGO Store Glasgow,['Toy Store'],220 Buchanan St
-Poundland,['Discount Store'],72-74 Sauchiehall St
-Yiamas Greek Taverna,['Greek Restaurant'],16-20 Bath St
-WHSmith,['Bookstore'],Killermont St
-Buchanan Galleries,['Shopping Mall'],220 Buchanan St
-Ardnamurchan,"['Whisky Bar', 'Scottish Restaurant']",325 Hope St
-The Raven,"['Bar', 'Restaurant']",81-85 Renfield St
-Tiso Glasgow Outdoor Experience,['Bicycle Store'],50 Couper St
-"WEST Brewery, Bar & Restaurant","['Brewery', 'Bar']","Templeton Building, Glasgow Green"
-Glasgow Green Football Centre,['Gym and Studio'],28 Kings Dr
-Bridgeton Post Office,['Post Office'],Main St
-People's Palace,['History Museum'],Glasgow Green
-Glasgow City Council,['Primary and Secondary School'],35 David St
-Saint Luke’s,"['Music Venue', 'Bar']",17 Bain Square
-The Doulton Fountain,['Landmarks and Outdoors'],Glasgow Green
-Winter Gardens,"['History Museum', 'Community and Government', 'Garden']",Glasgow Green
-Ursa Gates,['Security and Safety'],27 Fordneuk St
-Glasgow Green,['Park'],Greendyke St
-Citizens Theatre,"['Music Venue', 'Theater']",119 Gorbals St
-On Call Care Service,['Government Department'],117 Old Rutherglen Rd
-Oncall Hub,['Government Department'],117 Old Rutherglen Rd
-The Clutha Bar,"['Beer Bar', 'Pub', 'Restaurant']",167-169 Stockwell St
-Glasgow Green,['Park'],Greendyke St
-Billy Bilsland Cycles,['Bicycle Store'],176 Saltmarket
-Co-op Food - Glasgow - Crown Street,['Grocery Store'],190 Crown St
-Gorbals Recycles Project,['Government Department'],203 Old Rutherglen Rd
-Scotia Bar,"['Bar', 'Restaurant']",112 Stockwell St
-The Adelphi Tria Cafe,['Café'],The Adelphi Centre
-La Fiorentina,['Italian Restaurant'],2 Paisley Rd West
-Nando's,['Restaurant'],Paisley Rd West
-India Quay,['Indian Restaurant'],181 Finnieston St
-Cook & Indi's World Buffet,['Buffet'],251 Paisley Rd
-Berkeley 2,"['Music Venue', 'Arts and Entertainment']",93 Lancefield St
-The SSE Hydro,"['Concert Hall', 'Theater', 'Bar']",Exhibition Way
-Glasgow Golf Centre,['Golf Driving Range'],124 Portman St
-House of Sher,['Warehouse or Wholesale Store'],201-211 Wallace St
-Star For a Day,['Recording Studio'],542 Scotland St West
-Scotland Street School Museum,['History Museum'],225 Scotland St
-Oro,['Italian Restaurant'],85 Kilmarnock Rd
-Deli Zola Glasgow,['Deli'],"11 Skirving St, Shawlands"
-D'nisi,"['Café', 'Coffee Shop', 'Restaurant']",265 Kilmarnock Rd
-Cafe Strange Brew,"['Café', 'Restaurant']",1109 Pollokshaws Rd
-Salt & Vinegar,"['Fish and Chips Shop', 'Fast Food Restaurant', 'Seafood Restaurant']",1044 Pollokshaws Rd
-Brooklyn Cafe,"['Café', 'Restaurant']",21-23 Minard Rd
-Newlands Post Office,['Post Office'],174 Kilmarnock Rd
-The Glad Cafe,"['Music Venue', 'Café', 'Restaurant']",1006a Pollokshaws Rd
-Loks Bar & Kitchen,['Restaurant'],16 Newlandsfield Rd
-Langside Cafe,['Barbershop'],33 Langside Pl
-Pollok Country Park,['Park'],2060 Pollokshaws Rd
-Oro,['Italian Restaurant'],85 Kilmarnock Rd
-Deli Zola Glasgow,['Deli'],"11 Skirving St, Shawlands"
-Glasgow Parkrun,['Gym and Studio'],
-Pollok Golf Club,['Golf Course'],90 Barrhead Rd
-Celino's,"['Deli', 'Italian Restaurant']",622 Alexandra Parade
-Alexandra Park,['Park'],10 Sannox Gardens
-Dennistoun Bar-B-Que,"['BBQ Joint', 'Burger Joint', 'American Restaurant']",585 Duke St
-Coia's Cafe,"['Café', 'Coffee Shop', 'Italian Restaurant']",473 Duke St
-Tibo,"['Bistro', 'Cafe, Coffee, and Tea House', 'English Restaurant']",443 Duke St
-The Duchess of Duke Street,"['Pub', 'Restaurant']",380 Duke St
-Tapa Organic,['Bakery'],21 Whitehill St
-Greggs,['Bakery'],543/545 Duke St
-Subway,"['Deli', 'Fast Food Restaurant']",433 Alexandra Parade
-Co-op Food - Dennistoun,['Grocery Store'],447 Alexandra Parade
-Dennistoun Bar-B-Que,"['BBQ Joint', 'Burger Joint', 'American Restaurant']",585 Duke St
-Coia's Cafe,"['Café', 'Coffee Shop', 'Italian Restaurant']",473 Duke St
-The Duchess of Duke Street,"['Pub', 'Restaurant']",380 Duke St
-Tibo,"['Bistro', 'Cafe, Coffee, and Tea House', 'English Restaurant']",443 Duke St
-Greggs,['Bakery'],543/545 Duke St
-Tapa Organic,['Bakery'],21 Whitehill St
-Celino's,"['Deli', 'Italian Restaurant']",622 Alexandra Parade
-Home Bargains,['Discount Store'],Forge Retail Park
-B&M Home Store with Garden Centre,['Discount Store'],11 Biggar St
-Redmond's,"['Pub', 'Restaurant']",304 Duke St
-Nando's,['Restaurant'],Paisley Rd West
-Cook & Indi's World Buffet,['Buffet'],251 Paisley Rd
-La Fiorentina,['Italian Restaurant'],2 Paisley Rd West
-House of Sher,['Warehouse or Wholesale Store'],201-211 Wallace St
-India Quay,['Indian Restaurant'],181 Finnieston St
-Berkeley 2,"['Music Venue', 'Arts and Entertainment']",93 Lancefield St
-Two Fat Ladies,['Restaurant'],652-654 Argyle St
-The Shandon Belles,['Restaurant'],652 Argyle St
-Scotland Street School Museum,['History Museum'],225 Scotland St
-The Buttery,['Restaurant'],652 Argyle St
-Glasgow Film Theatre,['Indie Movie Theater'],12 Rose St
-The Butterfly & the Pig,"['Bar', 'Gastropub']",153 Bath St
-Nando's,['Restaurant'],263 Sauchiehall St
-Smile Cafe Central,"['Café', 'Coffee Shop', 'Restaurant']",121 Douglas St
-Red Onion,['Restaurant'],257 West Campbell St
-Tiki Bar & Kitsch Inn,"['Cocktail Bar', 'Thai Restaurant']",214 Bath St
-Primark,['Clothing Store'],171 Sauchiehall St
-Waterstone's,['Bookstore'],153-157 Sauchiehall St
-The State Bar,['Bar'],148-148A Holland St
-Gamba,['Seafood Restaurant'],225a West George St
-Battlefield Rest,['Italian Restaurant'],55 Battlefield Rd
-Grain and Grind,"['Coffee Shop', 'Restaurant']",50 Battlefield Rd
-Asda,['Grocery Store'],555 Prospecthill Rd
-See Woo Restaurant,"['Cantonese Restaurant', 'Dim Sum Restaurant']","The Point, 29 Saracen St"
-Bilis Electric Mopeds,[],"The Whisky Bond - Distillery, 2, Dawson Rd"
-Ic Mobile Lab,[],The Whisky Bond
-Elmwood,['Manufacturer'],25 Eagle St
-R D Tyre Service,"['Automotive Repair Shop', 'Tire Repair Shop']",460 Pinkston Rd
-Sound & Vision a V,['Audiovisual Service'],100 Borron St
-Ocho,"['Café', 'Restaurant']",8 Speirs Wharf
-Breedon Aggregates,[],Highcraighall Rd
-Keppoch Nursery School,['Nursery School'],65 Stonyhurst St
-Rockvilla Pizza,['Pizzeria'],6 Possil Rd
-Cafe D’Jaconelli,"['Café', 'Restaurant']",570 Maryhill Rd
-Firhill Stadium,['Stadium'],80 Firhill Rd
-Strathmore Bar,"['Pub', 'Restaurant']",775 Maryhill Rd
-Inn Deep,"['Beer Bar', 'Restaurant']",445 Great Western Rd
-Morello,"['Pizzeria', 'Fast Food Restaurant', 'Middle Eastern Restaurant']",253 Great Western Rd
-Paesano Pizza,"['Pizzeria', 'Italian Restaurant']",471 Great Western Rd
-The Hug and Pint,"['Pub', 'Restaurant']",Great Western Rd 171
-Black Pine Coffee Co,"['Coffee Shop', 'Restaurant']",518 Great Western Rd
-Cottonrake Bakery,"['Bakery', 'Restaurant']",497 Great Western Rd
-Roots Fruits & Flowers,['Flower Store'],451-457 Great Western Rd
-Strathmore Bar,"['Pub', 'Restaurant']",775 Maryhill Rd
-Maryhill Post Office,['Post Office'],1201 Maryhill Rd
-McDonald's,"['Burger Joint', 'Fast Food Restaurant']",1200 Maryhill Rd
-Cafe D’Jaconelli,"['Café', 'Restaurant']",570 Maryhill Rd
-Glasgow Botanic Gardens,['Park'],730 Great Western Rd
-Cail Bruich,"['Greek Restaurant', 'Scottish Restaurant']",725 Great Western Rd
-Loop & Scoop,"['Ice Cream Parlor', 'Restaurant']",665 Great Western Rd
-Papercup Coffee Company,['Coffee Shop'],603 Great Western Rd
-The Belle,['Bar'],617 Great Western Rd
-Ruchill Park,['Park'],
-See Woo Restaurant,"['Cantonese Restaurant', 'Dim Sum Restaurant']","The Point, 29 Saracen St"
-William Hill,['Casino'],238 Saracen St
-BM Metals,['Metals Supplier'],33 Balmore Rd
-Zayns Tandoori,"['Fast Food Restaurant', 'Indian Restaurant']",267 Saracen St
-Keppoch Nursery School,['Nursery School'],65 Stonyhurst St
-Home Bargains,['Discount Store'],20 Stronend St
-"World Mission Agency - Winner's Chapel International, Scotland",['Spiritual Center'],41 Ashfield St
-Lidl,['Grocery Store'],109 Balmore Rd
-Allander Surgery,"[""Doctor's Office""]",191 Denmark St
-Bilis Electric Mopeds,[],"The Whisky Bond - Distillery, 2, Dawson Rd"
-Costa Coffee,['Coffee Shop'],1221 Gallowgate Glasgow
-Celtic Park,['Sporting Goods Retail'],18 Kerrydale St
-B&M Home Store with Garden Centre,['Discount Store'],11 Biggar St
-Aerials Alert,['Telecommunication Service'],1201 Duke St
-Glasgow Rocks Pro Basketball,['Basketball Court'],1000 London Rd
-Sign Image Glasgow,['Print Store'],317-349 Shettleston Rd
-Parkhead Community Nursery,['Nursery School'],61 Crail St
-Eastfields PARK,['Park'],
-Parkhead Community Nursery,['Nursery School'],17 Pharonhill St
-Westmuir High School,['High School'],255 Rigby St
-House of Sher,['Warehouse or Wholesale Store'],201-211 Wallace St
-Cast Iron Grill,['Restaurant'],500 Argyle St
-Nando's,['Restaurant'],Paisley Rd West
-Two Fat Ladies,['Restaurant'],652-654 Argyle St
-Cook & Indi's World Buffet,['Buffet'],251 Paisley Rd
-The Shandon Belles,['Restaurant'],652 Argyle St
-"The Atrium, Radisson Blu",['Hotel Bar'],
-The Buttery,['Restaurant'],652 Argyle St
-La Lanterna,['Italian Restaurant'],35 Hope St
-Berkeley 2,"['Music Venue', 'Arts and Entertainment']",93 Lancefield St
-Britannia Panopticon Music Hall Trust,['Charity'],113-117 Trongate
-Billy Bilsland Cycles,['Bicycle Store'],176 Saltmarket
-Scotia Bar,"['Bar', 'Restaurant']",112 Stockwell St
-The Clutha Bar,"['Beer Bar', 'Pub', 'Restaurant']",167-169 Stockwell St
-Wilson Street Pantry,"['Café', 'Restaurant']",6 Wilson St
-The Dhabba,['Indian Restaurant'],44 Candleriggs
-Merchant Square,"['Bar', 'Restaurant']",71-73 Albion St
-DogHouse Merchant City,"['Arts and Entertainment', 'Beer Bar', 'BBQ Joint']",99 Hutcheson St
-TK Maxx,['Department Store'],36-48 Argyle St
-City Halls,"['Concert Hall', 'Theater']",
-St Louis Cafe Bar,"['Wine Bar', 'Café', 'Restaurant']",734 Dumbarton Rd
-Bibi's,['Mexican Restaurant'],599 Dumbarton Rd
-Starbucks,['Coffee Shop'],290 Castlebank St
-Meadow Road Coffee,"['Coffee Shop', 'Restaurant']",579 Dumbarton Rd
-Basta,['Pizzeria'],561 Dumbarton Rd
-Kothel,"['Café', 'Restaurant']",300 Crow Rd
-Roastit Bubbly Jocks,['Scottish Restaurant'],450 Dumbarton Rd
-Sainsbury's,['Grocery Store'],80 Crow Rd
-Subway,"['Deli', 'Fast Food Restaurant']",Crow Rd
-Caffè Nero,"['Cafe, Coffee, and Tea House']",West End Retail Park
-Jelly Hill,"['Bistro', 'Café', 'Coffee Shop']",195 Hyndland Rd
-The Hyndland Cafe,"['Café', 'Sandwich Spot']",96 Clarence Dr
-Cafe Source Too,['Restaurant'],32 Hughenden Rd
-Caffe Parma,['Italian Restaurant'],30A Hyndland Rd
-Cafezique,"['Café', 'Deli', 'French Restaurant']",66 Hyndland St
-Delizique,['Gourmet Store'],66 Hyndland St
-My Home Bakery,"['Bakery', 'Deli']",59 Hyndland St
-Kaf Coffee,"['Bakery', 'Café', 'Restaurant']",5 Hyndland St
-Celino's Partick,"['Deli', 'Italian Restaurant']",235 Dumbarton Rd
-The Hanoi Bike Shop,['Vietnamese Restaurant'],8 Ruthven Lane
-The Clutha Bar,"['Beer Bar', 'Pub', 'Restaurant']",167-169 Stockwell St
-Scotia Bar,"['Bar', 'Restaurant']",112 Stockwell St
-TK Maxx,['Department Store'],36-48 Argyle St
-Billy Bilsland Cycles,['Bicycle Store'],176 Saltmarket
-Britannia Panopticon Music Hall Trust,['Charity'],113-117 Trongate
-MacSorleys,"['Pub', 'Restaurant']",42 Jamaica St
-Sub Club,"['Night Club', 'Bar']",22 Jamaica St
-Caffè Nero,"['Cafe, Coffee, and Tea House']","St Enoch Square, City Centre"
-Citizens Theatre,"['Music Venue', 'Theater']",119 Gorbals St
-Wilson Street Pantry,"['Café', 'Restaurant']",6 Wilson St
-Waterstone's,['Bookstore'],153-157 Sauchiehall St
-Red Onion,['Restaurant'],257 West Campbell St
-The Butterfly & the Pig,"['Bar', 'Gastropub']",153 Bath St
-Opium,"['Dim Sum Restaurant', 'Thai Restaurant']",191 Hope St
-The Pot Still,"['Whisky Bar', 'Wine Bar', 'Restaurant']",154 Hope St
-Primark,['Clothing Store'],171 Sauchiehall St
-Rishi's Indian Aroma,['Indian Restaurant'],61 Bath St
-Gin 71,"['Cocktail Bar', 'Wine Bar', 'Restaurant']",71 Renfield St
-Gamba,['Seafood Restaurant'],225a West George St
-Glasgow Film Theatre,['Indie Movie Theater'],12 Rose St
-Glasgow Film Theatre,['Indie Movie Theater'],12 Rose St
-Ardnamurchan,"['Whisky Bar', 'Scottish Restaurant']",325 Hope St
-Waterstone's,['Bookstore'],153-157 Sauchiehall St
-The State Bar,['Bar'],148-148A Holland St
-The Butterfly & the Pig,"['Bar', 'Gastropub']",153 Bath St
-Nando's,['Restaurant'],263 Sauchiehall St
-Tiki Bar & Kitsch Inn,"['Cocktail Bar', 'Thai Restaurant']",214 Bath St
-Rockvilla Pizza,['Pizzeria'],6 Possil Rd
-Smile Cafe Central,"['Café', 'Coffee Shop', 'Restaurant']",121 Douglas St
-Primark,['Clothing Store'],171 Sauchiehall St
-Redmond's,"['Pub', 'Restaurant']",304 Duke St
-Post Office,['Post Office'],1 Annfield Pl
-Tibo,"['Bistro', 'Cafe, Coffee, and Tea House', 'English Restaurant']",443 Duke St
-Nakodar Grill,['Indian Restaurant'],13 Annfield Pl
-Lidl,['Grocery Store'],285 Duke St
-Coia's Cafe,"['Café', 'Coffee Shop', 'Italian Restaurant']",473 Duke St
-Quickhits slot,['Casino'],Duke St
-Tapa Organic,['Bakery'],21 Whitehill St
-The Duchess of Duke Street,"['Pub', 'Restaurant']",380 Duke St
-Dennistoun Bar-B-Que,"['BBQ Joint', 'Burger Joint', 'American Restaurant']",585 Duke St
-Italian Kitchen,['Italian Restaurant'],64 Ingram St
-Merchant Chippie,"['Fish and Chips Shop', 'Seafood Restaurant']",155 High St
-iCafe,['Internet Cafe'],72 Ingram St
-Oaka Supercity,['Grocery Store'],130 George St
-Spitfire Espresso,"['Coffee Shop', 'Restaurant']",127 Candleriggs
-Tinderbox,"['Café', 'Coffee Shop', 'Restaurant']",118 Ingram St
-City Halls,"['Concert Hall', 'Theater']",
-Merchant Square,"['Bar', 'Restaurant']",71-73 Albion St
-Wilson Street Pantry,"['Café', 'Restaurant']",6 Wilson St
-The Dhabba,['Indian Restaurant'],44 Candleriggs
-"WEST Brewery, Bar & Restaurant","['Brewery', 'Bar']","Templeton Building, Glasgow Green"
-People's Palace,['History Museum'],Glasgow Green
-Glasgow Green Football Centre,['Gym and Studio'],28 Kings Dr
-Winter Gardens,"['History Museum', 'Community and Government', 'Garden']",Glasgow Green
-The Doulton Fountain,['Landmarks and Outdoors'],Glasgow Green
-Glasgow Green,['Park'],Greendyke St
-Saint Luke’s,"['Music Venue', 'Bar']",17 Bain Square
-Barras Art and Design,['Arts and Entertainment'],54 Calton Entry
-Barrowland Ballroom,"['Concert Hall', 'Music Venue', 'Theater']",244 Gallowgate
-Billy Bilsland Cycles,['Bicycle Store'],176 Saltmarket
-George Square,"['Bar', 'Seafood Restaurant']",40 George Square
-Anchor Line,"['Cocktail Bar', 'Wine Bar', 'Diner']",12-16 St Vincent Pl
-Paesano Pizza,"['Pizzeria', 'Italian Restaurant']",94 Miller St
-The Citizen Bar & Dining Rooms,"['Cocktail Bar', 'Restaurant']",24 St Vincent Pl
-DogHouse Merchant City,"['Arts and Entertainment', 'Beer Bar', 'BBQ Joint']",99 Hutcheson St
-Tempo Tea Bar,"['Tea Room', 'Restaurant']",83 Queen St
-Max's Bar and Grill,"['Cocktail Bar', 'Wine Bar', 'Fast Food Restaurant']",73 Queen St
-The LEGO Store Glasgow,['Toy Store'],220 Buchanan St
-Apple Glasgow,['Electronics Store'],147 Buchanan St
-Oaka Supercity,['Grocery Store'],130 George St
-Chinaskis,"['Beer Garden', 'Restaurant']",239 North St
-The State Bar,['Bar'],148-148A Holland St
-Five March,['Mediterranean Restaurant'],138 Elderslie St
-King's Theatre,"['Concert Hall', 'Music Venue', 'Theater']",297 Bath St
-Eusebi Deli,['Italian Restaurant'],152 Park Rd
-Glasgow Film Theatre,['Indie Movie Theater'],12 Rose St
-Tiki Bar & Kitsch Inn,"['Cocktail Bar', 'Thai Restaurant']",214 Bath St
-Inn Deep,"['Beer Bar', 'Restaurant']",445 Great Western Rd
-Bon Accord,"['Whisky Bar', 'Restaurant']",153 North St
-Stravaigin,['Gastropub'],28 Gibson St
-Tramway,"['Music Venue', 'Theater', 'Restaurant']",25 Albert Dr
-Ar Furnishings Group,[],"Studio 105 105, Albert Dr"
-Masjid Noor Muslim Mosque,['Mosque'],79 Forth St
-Ranjit's Kitchen,"['Café', 'North Indian Restaurant']",607 Pollokshaws Rd
-Allison Arms,"['Arts and Entertainment', 'Pub', 'Sports Bar']",720 Pollokshaws Rd
-Koelschip Yard,"['Beer Bar', 'Wine Bar']",686-688 Pollokshaws Rd
-Pot Luck,['Dining and Drinking'],
-Rum Shack,"['Cocktail Bar', 'Caribbean Restaurant']",657-659 Pollokshaws Rd
-The Bungo,"['Bar', 'Restaurant']",17-21 Nithsdale Rd
-Subway,"['Deli', 'Fast Food Restaurant']",38 Herriet St
-MacDonald Studio,['Photographer'],11 Buchanan Gardens 197
-Ainscough Crane Hire,[],2600 London Rd
-Mount Vernon Community Hall,['Community and Government'],Mount vernon park
-Mount Vernon Service Station,['Fuel Station'],299 Mount Vernon Ave
-Mount Vernon Primary School,['Elementary School'],Penryn Gardens
-City Plumbing Supplies,['Plumber'],2500 London Rd
-St Francis of Assisi,['Church'],Crown St
-Dogs Trust,['Pet Sitting and Boarding Service'],315 Hamilton Rd
-V K Timber,['Construction Supplies Store'],2430 London Rd
-The Woodend,"['Bar', 'Restaurant']",129 Hamilton Rd
-Domino's Pizza,"['Pizzeria', 'Fast Food Restaurant']",828 Crow Rd
-Costa Coffee,['Coffee Shop'],"Dr Thru, 870 Crow Rd"
-Post Office,['Post Office'],1606 Great Western Rd
-Currys,['Computers and Electronics Retail'],"Crow Rd, Anniesland Retail Park"
-Glamour Paws,"['Pet Grooming Service', 'Pet Sitting and Boarding Service', 'Pet Supplies Store']",1613 Great Western Rd
-Morrisons,['Grocery Store'],900 Crow Rd
-Chip Chik Inn,['Fish and Chips Shop'],37 Fulton St
-McDonald's,"['Burger Joint', 'Fast Food Restaurant']",1841 Great Western Rd
-Bawarchi Indian restaurant,['Indian Restaurant'],995 Crow St
-Scotia Stoves,['Professional Cleaning Service'],987 Crow Rd
-King Tut's Wah Wah Hut,"['Music Venue', 'Wine Bar', 'Restaurant']",272a St Vincent St
-Bavaria Brauhaus,"['Beer Bar', 'Restaurant']",30 Bothwell St
-Rhoderick Dhu,['Beer Bar'],21-23 Waterloo St
-Gamba,['Seafood Restaurant'],225a West George St
-The Smoking Fox,['Bar'],6-8 Waterloo St
-"The Atrium, Radisson Blu",['Hotel Bar'],
-La Lanterna,['Italian Restaurant'],35 Hope St
-Cast Iron Grill,['Restaurant'],500 Argyle St
-Alston Bar & Beef,"['Bar', 'American Restaurant', 'Steakhouse']",79 Gordon St
-The Butterfly & the Pig,"['Bar', 'Gastropub']",153 Bath St
-"The Atrium, Radisson Blu",['Hotel Bar'],
-La Lanterna,['Italian Restaurant'],35 Hope St
-MacSorleys,"['Pub', 'Restaurant']",42 Jamaica St
-Sub Club,"['Night Club', 'Bar']",22 Jamaica St
-Fopp,['Retail'],19 Union St
-Waterstone's,['Bookstore'],174-176 Argyle St
-The Smoking Fox,['Bar'],6-8 Waterloo St
-Rhoderick Dhu,['Beer Bar'],21-23 Waterloo St
-Alston Bar & Beef,"['Bar', 'American Restaurant', 'Steakhouse']",79 Gordon St
-House of Sher,['Warehouse or Wholesale Store'],201-211 Wallace St
-Inn Deep,"['Beer Bar', 'Restaurant']",445 Great Western Rd
-Paesano Pizza,"['Pizzeria', 'Italian Restaurant']",471 Great Western Rd
-Roots Fruits & Flowers,['Flower Store'],451-457 Great Western Rd
-Cottonrake Bakery,"['Bakery', 'Restaurant']",497 Great Western Rd
-Black Pine Coffee Co,"['Coffee Shop', 'Restaurant']",518 Great Western Rd
-Tiffney's Steakhouse,"['Cafe, Coffee, and Tea House', 'Scottish Restaurant', 'Steakhouse']",61 Otago St
-Tchai-Ovna House of Tea,"['Tea Room', 'Restaurant']",42 Otago Lane
-Stravaigin,['Gastropub'],28 Gibson St
-Eusebi Deli,['Italian Restaurant'],152 Park Rd
-Papercup Coffee Company,['Coffee Shop'],603 Great Western Rd
-Kelvingrove Art Gallery and Museum,['Art Gallery'],Argyle St
-Mother India's Cafe,['Indian Restaurant'],1355 Argyle St
-BrewDog Glasgow,"['Beer Bar', 'Burger Joint']",1397 Argyle St
-The Butchershop Bar & Grill,"['Wine Bar', 'Steakhouse']",1055 Sauchiehall St
-Roast,"['Café', 'Sandwich Spot']",1299 Argyle St
-Kelvingrove Bandstand,"['Music Venue', 'Theater']",Kelvingrove Park
-Grunting Growler,"['Beer Store', 'Liquor Store']",51 Old Dumbarton Rd
-Kelvingrove Park,['Park'],Kelvin Way
-Hunterian Museum,['Museum'],"University Of Glasgow, University Ave"
-The 78,"['Bar', 'Vegan and Vegetarian Restaurant']",10-14 Kelvinhaugh St
-Tempo Tea Bar,"['Tea Room', 'Restaurant']",83 Queen St
-Max's Bar and Grill,"['Cocktail Bar', 'Wine Bar', 'Fast Food Restaurant']",73 Queen St
-Paesano Pizza,"['Pizzeria', 'Italian Restaurant']",94 Miller St
-Anchor Line,"['Cocktail Bar', 'Wine Bar', 'Diner']",12-16 St Vincent Pl
-Hotel Chocolat,"['Dessert Shop', 'Restaurant']",42 Buchanan St
-The Citizen Bar & Dining Rooms,"['Cocktail Bar', 'Restaurant']",24 St Vincent Pl
-George Square,"['Bar', 'Seafood Restaurant']",40 George Square
-Republic Bier Halle,"['Beer Garden', 'Pub', 'Pizzeria']",9 Gordon St
-Miller & Carter Glasgow,['Steakhouse'],47 St Vincent St
-Apple Glasgow,['Electronics Store'],147 Buchanan St
-Eusebi Deli,['Italian Restaurant'],152 Park Rd
-Offshore,"['Café', 'Coffee Shop', 'Restaurant']",3-5 Gibson St
-Tchai-Ovna House of Tea,"['Tea Room', 'Restaurant']",42 Otago Lane
-Stravaigin,['Gastropub'],28 Gibson St
-Inn Deep,"['Beer Bar', 'Restaurant']",445 Great Western Rd
-Tiffney's Steakhouse,"['Cafe, Coffee, and Tea House', 'Scottish Restaurant', 'Steakhouse']",61 Otago St
-The Left Bank,"['Bar', 'Bistro']",33-35 Gibson St
-Paesano Pizza,"['Pizzeria', 'Italian Restaurant']",471 Great Western Rd
-Roots Fruits & Flowers,['Flower Store'],451-457 Great Western Rd
-Kelvingrove Park,['Park'],Kelvin Way
-Lidl,['Grocery Store'],Beith St
-Celino's Partick,"['Deli', 'Italian Restaurant']",235 Dumbarton Rd
-Kaf Coffee,"['Bakery', 'Café', 'Restaurant']",5 Hyndland St
-Riverside Museum,['History Museum'],Pointhouse Pl
-The Lismore,['Whisky Bar'],206 Dumbarton Rd
-My Home Bakery,"['Bakery', 'Deli']",59 Hyndland St
-Cafezique,"['Café', 'Deli', 'French Restaurant']",66 Hyndland St
-Basta,['Pizzeria'],561 Dumbarton Rd
-Meadow Road Coffee,"['Coffee Shop', 'Restaurant']",579 Dumbarton Rd
-Bibi's,['Mexican Restaurant'],599 Dumbarton Rd
-Lebowskis,"['Cocktail Bar', 'Gastropub']",1008 Argyle St
-The Finnieston,"['Bar', 'Gastropub', 'Seafood Restaurant']",1125 Argyle St
-Crabshakk,['Seafood Restaurant'],1114 Argyle St
-The Ben Nevis,['Whisky Bar'],1147 Argyle St
-The 78,"['Bar', 'Vegan and Vegetarian Restaurant']",10-14 Kelvinhaugh St
-Five March,['Mediterranean Restaurant'],138 Elderslie St
-The SSE Hydro,"['Concert Hall', 'Theater', 'Bar']",Exhibition Way
-Shenaz,['Indian Restaurant'],17 Granville St
-Bon Accord,"['Whisky Bar', 'Restaurant']",153 North St
-Kelvingrove Park,['Park'],Kelvin Way
-Saint Luke’s,"['Music Venue', 'Bar']",17 Bain Square
-Barrowland Ballroom,"['Concert Hall', 'Music Venue', 'Theater']",244 Gallowgate
-Glasgow Green,['Park'],Greendyke St
-"WEST Brewery, Bar & Restaurant","['Brewery', 'Bar']","Templeton Building, Glasgow Green"
-People's Palace,['History Museum'],Glasgow Green
-Merchant Chippie,"['Fish and Chips Shop', 'Seafood Restaurant']",155 High St
-The Doulton Fountain,['Landmarks and Outdoors'],Glasgow Green
-Winter Gardens,"['History Museum', 'Community and Government', 'Garden']",Glasgow Green
-Billy Bilsland Cycles,['Bicycle Store'],176 Saltmarket
-Italian Kitchen,['Italian Restaurant'],64 Ingram St
-Allison Arms,"['Arts and Entertainment', 'Pub', 'Sports Bar']",720 Pollokshaws Rd
-Rum Shack,"['Cocktail Bar', 'Caribbean Restaurant']",657-659 Pollokshaws Rd
-Koelschip Yard,"['Beer Bar', 'Wine Bar']",686-688 Pollokshaws Rd
-Ranjit's Kitchen,"['Café', 'North Indian Restaurant']",607 Pollokshaws Rd
-Gusto & Relish,"['Café', 'Deli']",729-731 Pollokshaws Rd
-The Bungo,"['Bar', 'Restaurant']",17-21 Nithsdale Rd
-Queens Park,['Park'],520 Langside Rd
-Pot Luck,['Dining and Drinking'],
-The Chicken Hut,['Indian Restaurant'],
-Annette Street Primary School,['Primary and Secondary School'],27 Annette St
-Gusto & Relish,"['Café', 'Deli']",729-731 Pollokshaws Rd
-The Bungo,"['Bar', 'Restaurant']",17-21 Nithsdale Rd
-Allison Arms,"['Arts and Entertainment', 'Pub', 'Sports Bar']",720 Pollokshaws Rd
-Pot Luck,['Dining and Drinking'],
-Rum Shack,"['Cocktail Bar', 'Caribbean Restaurant']",657-659 Pollokshaws Rd
-Koelschip Yard,"['Beer Bar', 'Wine Bar']",686-688 Pollokshaws Rd
-Queens Park,['Park'],520 Langside Rd
-Ranjit's Kitchen,"['Café', 'North Indian Restaurant']",607 Pollokshaws Rd
-The Glad Cafe,"['Music Venue', 'Café', 'Restaurant']",1006a Pollokshaws Rd
-Brooklyn Cafe,"['Café', 'Restaurant']",21-23 Minard Rd
-1051 Gwr,"['Bar', 'Restaurant']",1051 Great Western Rd
-Wrvs Coffee Shop,['Café'],Shelley Rd
-Homoeopathic Hospital,['Hospital'],1053 Great Western Rd
-Cafe Source Too,['Restaurant'],32 Hughenden Rd
-Caffe Parma,['Italian Restaurant'],30A Hyndland Rd
-Nuffield Health Glasgow Hospital,['Hospital'],1000 Great Western Rd
-111 by Nico,['Restaurant'],111 Cleveden Rd
-The Hyndland Cafe,"['Café', 'Sandwich Spot']",96 Clarence Dr
-Kelvindale Primary School,['Elementary School'],11 Dorchester Pl
-Jelly Hill,"['Bistro', 'Café', 'Coffee Shop']",195 Hyndland Rd
-Bon Accord,"['Whisky Bar', 'Restaurant']",153 North St
-King's Theatre,"['Concert Hall', 'Music Venue', 'Theater']",297 Bath St
-Chinaskis,"['Beer Garden', 'Restaurant']",239 North St
-Nice N Sleazy,"['Night Club', 'Bar', 'Restaurant']",421 Sauchiehall St
-The State Bar,['Bar'],148-148A Holland St
-Shenaz,['Indian Restaurant'],17 Granville St
-Tiki Bar & Kitsch Inn,"['Cocktail Bar', 'Thai Restaurant']",214 Bath St
-King Tut's Wah Wah Hut,"['Music Venue', 'Wine Bar', 'Restaurant']",272a St Vincent St
-Smile Cafe Central,"['Café', 'Coffee Shop', 'Restaurant']",121 Douglas St
-Two Fat Ladies,['Restaurant'],652-654 Argyle St
-The Ben Nevis,['Whisky Bar'],1147 Argyle St
-The 78,"['Bar', 'Vegan and Vegetarian Restaurant']",10-14 Kelvinhaugh St
-Crabshakk,['Seafood Restaurant'],1114 Argyle St
-The Finnieston,"['Bar', 'Gastropub', 'Seafood Restaurant']",1125 Argyle St
-The Butchershop Bar & Grill,"['Wine Bar', 'Steakhouse']",1055 Sauchiehall St
-Roast,"['Café', 'Sandwich Spot']",1299 Argyle St
-Lebowskis,"['Cocktail Bar', 'Gastropub']",1008 Argyle St
-Mother India's Cafe,['Indian Restaurant'],1355 Argyle St
-Kelvingrove Park,['Park'],Kelvin Way
-Kelvingrove Art Gallery and Museum,['Art Gallery'],Argyle St
-Baltic Street Adventure Playground,['Playground'],421 Baltic St
-Reeves Amusement Rides,['Amusement Park'],200 Swanston St
-London Cab Sales,['Used Car Dealership'],136 Boden St
-Glasgow Rocks Pro Basketball,['Basketball Court'],1000 London Rd
-Bridgeton Post Office,['Post Office'],Main St
-Moshe Safdie,['Business and Professional Services'],Cotton St Business Park
-Springstop,['Metals Supplier'],95 Boden St
-Glasgow Commonwealth Arena,"['Stadium', 'Gym and Studio']",Nuneaton St
-London Road Police Station,['Police Station'],851 London Rd
-Celtic Ticket Office,['Ticket Seller'],Kerrydale St
-Billy Bilsland Cycles,['Bicycle Store'],176 Saltmarket
-The Clutha Bar,"['Beer Bar', 'Pub', 'Restaurant']",167-169 Stockwell St
-Glasgow Green,['Park'],Greendyke St
-Scotia Bar,"['Bar', 'Restaurant']",112 Stockwell St
-Britannia Panopticon Music Hall Trust,['Charity'],113-117 Trongate
-Citizens Theatre,"['Music Venue', 'Theater']",119 Gorbals St
-Wilson Street Pantry,"['Café', 'Restaurant']",6 Wilson St
-The Dhabba,['Indian Restaurant'],44 Candleriggs
-TK Maxx,['Department Store'],36-48 Argyle St
-Merchant Square,"['Bar', 'Restaurant']",71-73 Albion St
-Nando's,['Restaurant'],Paisley Rd West
-Cook & Indi's World Buffet,['Buffet'],251 Paisley Rd
-House of Sher,['Warehouse or Wholesale Store'],201-211 Wallace St
-La Fiorentina,['Italian Restaurant'],2 Paisley Rd West
-India Quay,['Indian Restaurant'],181 Finnieston St
-Berkeley 2,"['Music Venue', 'Arts and Entertainment']",93 Lancefield St
-Two Fat Ladies,['Restaurant'],652-654 Argyle St
-The Shandon Belles,['Restaurant'],652 Argyle St
-The Buttery,['Restaurant'],652 Argyle St
-Cast Iron Grill,['Restaurant'],500 Argyle St
-Battlefield Rest,['Italian Restaurant'],55 Battlefield Rd
-Tinto Tapas Bar,['Tapas Restaurant'],138 Battlefield Rd
-Grain and Grind,"['Coffee Shop', 'Restaurant']",50 Battlefield Rd
-Frousoulla's Greek Restaurant,['Greek Restaurant'],
-Subway,"['Deli', 'Fast Food Restaurant']",128 Battlefield Rd
-Hooked Fish & Chips,['Fish and Chips Shop'],1027 Cathcart Rd
-Langside Cafe,['Barbershop'],33 Langside Pl
-Church on the Hill,"['Pub', 'Restaurant']",16 Algie St
-Clockwork Beer Co,"['Bar', 'Gastropub']",1153-1155 Cathcart Rd
-Keystore,['Convenience Store'],1101 Cathcart Rd
-Beirut Star,['Lebanese Restaurant'],450 Paisley Rd West
-Subway,"['Deli', 'Fast Food Restaurant']",468/470 Paisley Rd West
-Post Office,['Post Office'],9 North Gower St
-Ibrox Stadium,['Stadium'],150 Edmiston Dr
-Bite Me Sandwich Bar,"['Fast Food Restaurant', 'Sandwich Spot']",383 Paisley Rd West
-The Louden Tavern,"['Arts and Entertainment', 'Bar', 'Restaurant']",111 Copland Rd
-Co-op Food - Ibrox,['Grocery Store'],390-400 Paisley Rd West
-Georgie Porgies,['Caterer'],195 Brand St
-Manhattan Sandwich Bar,['Café'],
-The Hardware Store,['Hardware Store'],362 Paisley Rd West
-CineStore,[],126 Cornwall St South
-Transcool,"['Shipping, Freight, and Material Transportation Service']","Claremont Centre, 39 Durham St"
-Dlx,[],149 Vermont St
-Blue Sky Optical,['Eyecare Store'],119 Vermont St
-Wolseley Plumb & Parts,['Plumber'],and 4 Excelsor Industrial Estate
-Wonder World,['Indoor Play Area'],99 Middlesex St
-Clyde Importers,['Electrical Equipment Supplier'],17 Maclellan St
-Kubenet Limited,['Telecommunication Service'],"Academy Park, Gower St"
-Kinning Park Complex,['Community Center'],43 Cornwall St
-Glasgow Golf Centre,['Golf Driving Range'],124 Portman St
-Springburn Parish Church,['Church'],180 Springburn Way
-B&M Store,['Discount Store'],No 16
-Post Office,['Post Office'],230 Springburn Way
-Subway,"['Deli', 'Fast Food Restaurant']",230 Springburn Way
-Experiential Play,['Education'],110 Flemington St
-Costco Glasgow,['Warehouse or Wholesale Store'],15 Cobden Rd
-Scotia Surface Hardening Co,[],14 Foundry St
-SD Bookkeeping & Payroll Services,['Education'],30 Mansel St
-Elmvale Primary School,['Primary and Secondary School'],Hawthorn St
-Daw Signs,['Print Store'],Edgefauld Ave
-The Old Smiddy,"['Pub', 'Restaurant']",131 Old Castle Rd
-Merrylee Dental Practice,['Dentist'],207 Clarkston Rd
-St Gabriel R C Church,['Church'],83 Merrylee Rd
-Clockwork Beer Co,"['Bar', 'Gastropub']",1153-1155 Cathcart Rd
-Snuffmill Bridge,['Bridge'],Snuffmill Rd
-Calma Contracts,['Carpenter'],45 Largie Rd
-Merrylee Primary School,['Elementary School'],50 Friarton Rd
-Greggs,['Bakery'],1158 Cathcart Rd
-The Bank,"['Wine Bar', 'Restaurant']",443 Clarkston Rd
-Discount Pet Supplies,['Pet Supplies Store'],399 Clarkston Rd
-Nethercraigs Sports Complex,['Sports and Recreation'],Corkerhill Rd
-RCG Landscaping,['Landscaper and Gardener'],169 Aros Dr
-Cardonald Care Home,"['Assisted Living Service', 'Nursing Home']",663 Mosspark Dr
-Just 4 Keepers,['Sporting Goods Retail'],125 Kinnell Ave
-Co-op Food,['Grocery Store'],20-24 Braidcraft Terrace
-Corkerhill Depot,['Office Building'],Corkerhill Pl
-Pollok Community Centre,['Community Center'],
-Pollok Community Centre,['Community Center'],
-Sun City,"['Chinese Restaurant', 'Fast Food Restaurant']",836 Mosspark Dr
-Cardonald Cemetery,['Cemetery'],547 Mosspark Boulevard
-St Thomas Apostle R C Church,['Spiritual Center'],826 Cumbernauld Rd
-Carntyne Primary School,['Elementary School'],38 Liberton St
-G Strain,"[""Doctor's Office""]",804 Cumbernauld Rd
-Scotfresh Group,"['Professional Cleaning Service', 'Convenience Store']","743 Cumbernauld Rd, Lanarkshire"
-DSD Scotland,['Security and Safety'],2 Lethamhill Rd
-Glasgow City Council Land and,['Campground'],"Riddrie Library, 1020 Cumbernauld Rd"
-Westminster Health Care,"['Assisted Living Service', 'Nursing Home']",Alexander Ct 332 Edinburgh Rd
-Conte's Fish N Chip Bar,['Fast Food Restaurant'],Cumbernauld Rd
-Barchester - Alexandra Court Care Home,['Hospital'],332 Edinburgh Rd
-Equinox56,['Alternative Medicine Clinic'],15 Abbeyhill St
-Subway,"['Deli', 'Fast Food Restaurant']",1417 Maryhill Rd
-"Maryhill Lock Flight, Lock 21",['Canal Lock'],
-Apex Scotland,['Education'],186 Wyneford Rd
-Maryhill Post Office,['Post Office'],1201 Maryhill Rd
-Kelvindale Minimarket,['Convenience Store'],361-367 Kelvindale Rd
-McDonald's,"['Burger Joint', 'Fast Food Restaurant']",1200 Maryhill Rd
-Maryhill Library,"['Library', 'Bookstore']",
-MASTER CRAFT TREE - Landscrape Design,['Landscaper and Gardener'],Glenavon Rd 71
-National Museum of Flight Scotland,[],
-Forth and Clyde Canal,['Canal'],
-Co-op Food - Glasgow - Crown Street,['Grocery Store'],190 Crown St
-Citizens Theatre,"['Music Venue', 'Theater']",119 Gorbals St
-On Call Care Service,['Government Department'],117 Old Rutherglen Rd
-Oncall Hub,['Government Department'],117 Old Rutherglen Rd
-Gorbals Recycles Project,['Government Department'],203 Old Rutherglen Rd
-The Clutha Bar,"['Beer Bar', 'Pub', 'Restaurant']",167-169 Stockwell St
-Al Sultan,"['Mediterranean Restaurant', 'Middle Eastern Restaurant']",61 Bridge St
-Glasgow Green,['Park'],Greendyke St
-The Laurieston Bar,"['Pub', 'Wine Bar']",58 Bridge St
-O2 Academy Glasgow,"['Concert Hall', 'Music Venue', 'Theater']",121 Eglinton St
-Anchor Line,"['Cocktail Bar', 'Wine Bar', 'Diner']",12-16 St Vincent Pl
-The Citizen Bar & Dining Rooms,"['Cocktail Bar', 'Restaurant']",24 St Vincent Pl
-Apple Glasgow,['Electronics Store'],147 Buchanan St
-Miller & Carter Glasgow,['Steakhouse'],47 St Vincent St
-George Square,"['Bar', 'Seafood Restaurant']",40 George Square
-The LEGO Store Glasgow,['Toy Store'],220 Buchanan St
-Shilling Brewing Co,"['Bar', 'Brewery', 'Restaurant']",92 West George St
-Buchanan Galleries,['Shopping Mall'],220 Buchanan St
-Five Guys Glasgow St Vincent St,"['Burger Joint', 'American Restaurant', 'Fast Food Restaurant']",57-61 St Vincent St
-Yiamas Greek Taverna,['Greek Restaurant'],16-20 Bath St
-Cineworld,['Movie Theater'],7 Renfrew St
-The LEGO Store Glasgow,['Toy Store'],220 Buchanan St
-Clarins John Lewis Glasgow,['Department Store'],Buchanan St
-Yiamas Greek Taverna,['Greek Restaurant'],16-20 Bath St
-Poundland,['Discount Store'],72-74 Sauchiehall St
-Buchanan Galleries,['Shopping Mall'],220 Buchanan St
-WHSmith,['Bookstore'],Killermont St
-The Raven,"['Bar', 'Restaurant']",81-85 Renfield St
-Gin 71,"['Cocktail Bar', 'Wine Bar', 'Restaurant']",71 Renfield St
-Rishi's Indian Aroma,['Indian Restaurant'],61 Bath St
-Subway,"['Deli', 'Fast Food Restaurant']",38 Herriet St
-Scotland Street School Museum,['History Museum'],225 Scotland St
-Sugar Rush,"['Hookah Bar', 'Fast Food Restaurant', 'Halal Restaurant']",32 St Andrews Rd
-Red Pepper,"['Asian Restaurant', 'Fast Food Restaurant', 'Indian Restaurant']",32D St Andrews Rd
-Tramway,"['Music Venue', 'Theater', 'Restaurant']",25 Albert Dr
-Wolseley Plumb & Parts,['Plumber'],and 4 Excelsor Industrial Estate
-Blue Sky Optical,['Eyecare Store'],119 Vermont St
-Masjid Noor Muslim Mosque,['Mosque'],79 Forth St
-Wonder World,['Indoor Play Area'],99 Middlesex St
-Moyra Janes,"['Café', 'Restaurant']",20 Kildrostan St
-Subway,"['Deli', 'Fast Food Restaurant']",795 Govan Cross Shopping Center
-Home Bargains,['Discount Store'],"Govan Cross Shopping Centre, Govan Rd"
-Riverside Museum,['History Museum'],Pointhouse Pl
-Iceland,['Food and Beverage Retail'],Unit1govan Cross Shopping Centre
-Swg3,['Art Gallery'],100 Eastvale Pl
-Lidl,['Grocery Store'],Beith St
-Topps Tiles,['Construction Supplies Store'],144 Helen St
-The Clydeside Distillery,['Distillery'],100 Stobcross Rd
-Bibi's,['Mexican Restaurant'],599 Dumbarton Rd
-Broomloan Nursery School,['Nursery School'],80 Vicarfield St
-House For an Art Lover,['Wedding Hall'],10 Dumbreck Rd
-Art Lovers Café,['Café'],10 Dumbreck Rd
-Bellahouston Park,"['Concert Hall', 'Park']",Mosspark Boulevard
-Ibrox Stadium,['Stadium'],150 Edmiston Dr
-Glasgow Ski & Snowboard Centre,['Ski Resort and Area'],16 Dumbreck Rd
-The Fairfield Club,['Bar'],
-The Prince & Princess of Wales Hospice,"['Charity', 'Non-Profit Organization', 'Hospice', 'Retail']",20 Dumbreck Rd
-Costa Express,['Coffee Shop'],675 Paisley Rd West
-Al-Meezan,['Charity'],1 Rowan Rd
-B and M Home Store,['Discount Store'],Helen St
-Five March,['Mediterranean Restaurant'],138 Elderslie St
-Kelvingrove Park,['Park'],Kelvin Way
-The Finnieston,"['Bar', 'Gastropub', 'Seafood Restaurant']",1125 Argyle St
-Lebowskis,"['Cocktail Bar', 'Gastropub']",1008 Argyle St
-Crabshakk,['Seafood Restaurant'],1114 Argyle St
-Shenaz,['Indian Restaurant'],17 Granville St
-The Ben Nevis,['Whisky Bar'],1147 Argyle St
-Chinaskis,"['Beer Garden', 'Restaurant']",239 North St
-Kelvingrove Bandstand,"['Music Venue', 'Theater']",Kelvingrove Park
-Bon Accord,"['Whisky Bar', 'Restaurant']",153 North St
-Rockvilla Pizza,['Pizzeria'],6 Possil Rd
-See Woo Restaurant,"['Cantonese Restaurant', 'Dim Sum Restaurant']","The Point, 29 Saracen St"
-Ic Mobile Lab,[],The Whisky Bond
-Iceland,['Food and Beverage Retail'],St Georges Cross
-Bilis Electric Mopeds,[],"The Whisky Bond - Distillery, 2, Dawson Rd"
-The Hug and Pint,"['Pub', 'Restaurant']",Great Western Rd 171
-Elmwood,['Manufacturer'],25 Eagle St
-Ka Ka Lok,['Chinese Restaurant'],175 St Georges Rd
-Tenement House,['History Museum'],145 Buccleuch St
-Ideal Vehicle Leasing,['Car Dealership'],"Sinclair Building, 18-20 Eagle St"
-Victoria Park,['Park'],12 Victoria Park Dr North
-Andrew Hand Pharmacy,['Drugstore'],1239 Dumbarton Rd
-Metro Laser Hair Clinic Glasgow,['Healthcare Clinic'],948 Dumbarton Rd
-Fossil Grove,['Museum'],Victoria Park
-Kothel,"['Café', 'Restaurant']",300 Crow Rd
-Russell Timber Technology,['Construction'],8 Dilwara Ave
-St Louis Cafe Bar,"['Wine Bar', 'Café', 'Restaurant']",734 Dumbarton Rd
-V R Access Solutions Scotland,[],170 Clydeholm Rd
-Platform Scaffold Services,['Construction Supplies Store'],85 Clydeholm Rd
-Harbour Living,['Furniture and Home Store'],10 Clydeholm Rd
-Riverside Museum,['History Museum'],Pointhouse Pl
-Swg3,['Art Gallery'],100 Eastvale Pl
-Lidl,['Grocery Store'],Beith St
-Celino's Partick,"['Deli', 'Italian Restaurant']",235 Dumbarton Rd
-Kaf Coffee,"['Bakery', 'Café', 'Restaurant']",5 Hyndland St
-The Clydeside Distillery,['Distillery'],100 Stobcross Rd
-The Lismore,['Whisky Bar'],206 Dumbarton Rd
-Three Judges,['Pub'],141 Dumbarton Rd
-Number 16,['Restaurant'],16 Byres Rd
-Home Bargains,['Discount Store'],"Govan Cross Shopping Centre, Govan Rd"
-Co-op Food - Tollcross - Glasgow,['Grocery Store'],997 Tollcross Rd
-Lidl,['Grocery Store'],Tollcross Rd 850
-Bayne's the Family Bakers - Tollcross,"['Bakery', 'Restaurant']",209 Easterhill St
-Tollcross Park,['Park'],
-Masonic Club,['Social Club'],25 Causewayside St
-St Peters Cemetery,['Funeral Home'],1900 London Rd
-Matalan,['Clothing Store'],2121 London Rd
-Hurry Bros,['General Contractor'],2117 London Rd
-CF Concrete Pumping,['General Contractor'],86-90 Fullarton Ave
-Grafters Scotland,['Employment Agency'],86 Fullarton Ave
-The SSE Hydro,"['Concert Hall', 'Theater', 'Bar']",Exhibition Way
-India Quay,['Indian Restaurant'],181 Finnieston St
-Glasgow Science Centre,['Science Museum'],50 Pacific Quay
-Cineworld Cinemas - Glasgow IMAX at GSC,['Movie Theater'],Glasgow Science Centre
-The Finnieston,"['Bar', 'Gastropub', 'Seafood Restaurant']",1125 Argyle St
-The Ben Nevis,['Whisky Bar'],1147 Argyle St
-Crabshakk,['Seafood Restaurant'],1114 Argyle St
-Lebowskis,"['Cocktail Bar', 'Gastropub']",1008 Argyle St
-The Clydeside Distillery,['Distillery'],100 Stobcross Rd
-The 78,"['Bar', 'Vegan and Vegetarian Restaurant']",10-14 Kelvinhaugh St
-Glasgow Science Centre,['Science Museum'],50 Pacific Quay
-Cineworld Cinemas - Glasgow IMAX at GSC,['Movie Theater'],Glasgow Science Centre
-The SSE Hydro,"['Concert Hall', 'Theater', 'Bar']",Exhibition Way
-The Clydeside Distillery,['Distillery'],100 Stobcross Rd
-India Quay,['Indian Restaurant'],181 Finnieston St
-The Tall Ship at Glasgow Harbour,['Museum'],100 Stobcross Rd
-Swg3,['Art Gallery'],100 Eastvale Pl
-The Ben Nevis,['Whisky Bar'],1147 Argyle St
-Crabshakk,['Seafood Restaurant'],1114 Argyle St
-The Finnieston,"['Bar', 'Gastropub', 'Seafood Restaurant']",1125 Argyle St
-The Butterfly & the Pig,"['Bar', 'Gastropub']",153 Bath St
-Glasgow Film Theatre,['Indie Movie Theater'],12 Rose St
-Primark,['Clothing Store'],171 Sauchiehall St
-Waterstone's,['Bookstore'],153-157 Sauchiehall St
-Red Onion,['Restaurant'],257 West Campbell St
-Nando's,['Restaurant'],263 Sauchiehall St
-Smile Cafe Central,"['Café', 'Coffee Shop', 'Restaurant']",121 Douglas St
-Opium,"['Dim Sum Restaurant', 'Thai Restaurant']",191 Hope St
-Tiki Bar & Kitsch Inn,"['Cocktail Bar', 'Thai Restaurant']",214 Bath St
-The Pot Still,"['Whisky Bar', 'Wine Bar', 'Restaurant']",154 Hope St
-Celtic Park,['Sporting Goods Retail'],18 Kerrydale St
-Glasgow Rocks Pro Basketball,['Basketball Court'],1000 London Rd
-Parkhead Library,['Library'],64 Tollcross Rd
-Celtic Ticket Office,['Ticket Seller'],Kerrydale St
-Glasgow Commonwealth Arena,"['Stadium', 'Gym and Studio']",Nuneaton St
-Costa Coffee,['Coffee Shop'],1221 Gallowgate Glasgow
-Buzz Glasgow,['Vape Store'],1377 Gallowgate
-The Old Black Bull,['Bar'],1316-1318 Gallowgate
-Cineworld,['Movie Theater'],Forge Shopping Centre
-Subway,"['Deli', 'Fast Food Restaurant']","Forge Shopping Centre, 1221 Gallowgate"
-Maryhill Post Office,['Post Office'],1201 Maryhill Rd
-McDonald's,"['Burger Joint', 'Fast Food Restaurant']",1200 Maryhill Rd
-Strathmore Bar,"['Pub', 'Restaurant']",775 Maryhill Rd
-North Star,"['Café', 'Coffee Shop', 'Restaurant']",108 Queen Margaret Dr
-Subway,"['Deli', 'Fast Food Restaurant']",1417 Maryhill Rd
-Apex Scotland,['Education'],186 Wyneford Rd
-Glasgow Botanic Gardens,['Park'],730 Great Western Rd
-Francos,['Bar'],
-The Brewhaus,"['Pub', 'Restaurant']",182 Queen Margaret Dr
-Zensation,"['Chinese Restaurant', 'Halal Restaurant']",160 Queen Margaret Dr
-The Glad Cafe,"['Music Venue', 'Café', 'Restaurant']",1006a Pollokshaws Rd
-Brooklyn Cafe,"['Café', 'Restaurant']",21-23 Minard Rd
-Cafe Strange Brew,"['Café', 'Restaurant']",1109 Pollokshaws Rd
-Salt & Vinegar,"['Fish and Chips Shop', 'Fast Food Restaurant', 'Seafood Restaurant']",1044 Pollokshaws Rd
-Deli Zola Glasgow,['Deli'],"11 Skirving St, Shawlands"
-Oro,['Italian Restaurant'],85 Kilmarnock Rd
-Gusto & Relish,"['Café', 'Deli']",729-731 Pollokshaws Rd
-D'nisi,"['Café', 'Coffee Shop', 'Restaurant']",265 Kilmarnock Rd
-The Bungo,"['Bar', 'Restaurant']",17-21 Nithsdale Rd
-Pot Luck,['Dining and Drinking'],
-The Clydeside Distillery,['Distillery'],100 Stobcross Rd
-Roast,"['Café', 'Sandwich Spot']",1299 Argyle St
-Grunting Growler,"['Beer Store', 'Liquor Store']",51 Old Dumbarton Rd
-Mother India's Cafe,['Indian Restaurant'],1355 Argyle St
-The Butchershop Bar & Grill,"['Wine Bar', 'Steakhouse']",1055 Sauchiehall St
-Swg3,['Art Gallery'],100 Eastvale Pl
-BrewDog Glasgow,"['Beer Bar', 'Burger Joint']",1397 Argyle St
-The 78,"['Bar', 'Vegan and Vegetarian Restaurant']",10-14 Kelvinhaugh St
-The Ben Nevis,['Whisky Bar'],1147 Argyle St
-Kelvingrove Art Gallery and Museum,['Art Gallery'],Argyle St
-"The Atrium, Radisson Blu",['Hotel Bar'],
-La Lanterna,['Italian Restaurant'],35 Hope St
-Fopp,['Retail'],19 Union St
-Sub Club,"['Night Club', 'Bar']",22 Jamaica St
-The Smoking Fox,['Bar'],6-8 Waterloo St
-MacSorleys,"['Pub', 'Restaurant']",42 Jamaica St
-Waterstone's,['Bookstore'],174-176 Argyle St
-Alston Bar & Beef,"['Bar', 'American Restaurant', 'Steakhouse']",79 Gordon St
-Rhoderick Dhu,['Beer Bar'],21-23 Waterloo St
-Gordon Street Coffee,"['Café', 'Coffee Shop', 'Restaurant']",79 Gordon St
-Inn Deep,"['Beer Bar', 'Restaurant']",445 Great Western Rd
-Cafe D’Jaconelli,"['Café', 'Restaurant']",570 Maryhill Rd
-Paesano Pizza,"['Pizzeria', 'Italian Restaurant']",471 Great Western Rd
-Roots Fruits & Flowers,['Flower Store'],451-457 Great Western Rd
-Eusebi Deli,['Italian Restaurant'],152 Park Rd
-Cottonrake Bakery,"['Bakery', 'Restaurant']",497 Great Western Rd
-Black Pine Coffee Co,"['Coffee Shop', 'Restaurant']",518 Great Western Rd
-Glenfarg Motors,['Automotive Repair Shop'],17 Glenfarg St
-Macmillan Cancer Information Point,['Non-Profit Organization'],Woodside Library
-Tchai-Ovna House of Tea,"['Tea Room', 'Restaurant']",42 Otago Lane
-MacSorleys,"['Pub', 'Restaurant']",42 Jamaica St
-Sub Club,"['Night Club', 'Bar']",22 Jamaica St
-Caffè Nero,"['Cafe, Coffee, and Tea House']","St Enoch Square, City Centre"
-Waterstone's,['Bookstore'],174-176 Argyle St
-Fopp,['Retail'],19 Union St
-Hotel Chocolat,"['Dessert Shop', 'Restaurant']",42 Buchanan St
-La Lanterna,['Italian Restaurant'],35 Hope St
-TK Maxx,['Department Store'],36-48 Argyle St
-Max's Bar and Grill,"['Cocktail Bar', 'Wine Bar', 'Fast Food Restaurant']",73 Queen St
-Sugo,['Italian Restaurant'],60-70 Mitchell St
-Beirut Star,['Lebanese Restaurant'],450 Paisley Rd West
-Cineworld Cinemas - Glasgow IMAX at GSC,['Movie Theater'],Glasgow Science Centre
-Glasgow Science Centre,['Science Museum'],50 Pacific Quay
-Ibrox Stadium,['Stadium'],150 Edmiston Dr
-La Fiorentina,['Italian Restaurant'],2 Paisley Rd West
-Istanbul Turkish,"['Fast Food Restaurant', 'Turkish Restaurant']",7 Paisley Rd West
-Rangers News,['Stadium'],150 Edmiston Dr
-Rangers Lotteries,['Sporting Goods Retail'],150 Edmiston Dr
-Tramway,"['Music Venue', 'Theater', 'Restaurant']",25 Albert Dr
-Kebabish Grill,['Indian Restaurant'],323-325 Victoria Rd
-Sugar Rush,"['Hookah Bar', 'Fast Food Restaurant', 'Halal Restaurant']",32 St Andrews Rd
-Red Pepper,"['Asian Restaurant', 'Fast Food Restaurant', 'Indian Restaurant']",32D St Andrews Rd
-Ranjit's Kitchen,"['Café', 'North Indian Restaurant']",607 Pollokshaws Rd
-Subway,"['Deli', 'Fast Food Restaurant']",Victoria Rd
-Allison Arms,"['Arts and Entertainment', 'Pub', 'Sports Bar']",720 Pollokshaws Rd
-Brunchies,"['Café', 'Restaurant']",184 Butterbiggins Rd
-Masjid Noor Muslim Mosque,['Mosque'],79 Forth St
-Koelschip Yard,"['Beer Bar', 'Wine Bar']",686-688 Pollokshaws Rd
-Kember & Jones,"['Coffee Shop', 'Deli']",134 Byres Rd
-Ubiquitous Chip,"['Bar', 'Scottish Restaurant']",12 Ashton Lane
-Hunterian Museum,['Museum'],"University Of Glasgow, University Ave"
-Innis & Gunn Beer Kitchen - Ashton Lane,"['Pub', 'Brewery', 'Restaurant']",46 Ashton Lane
-Tennents Bar,"['Pub', 'Restaurant']",191 Byres Rd
-The Hanoi Bike Shop,['Vietnamese Restaurant'],8 Ruthven Lane
-Kimchi Cult,"['Fast Food Restaurant', 'Korean Restaurant']",14 Chancellor St
-Kelvingrove Art Gallery and Museum,['Art Gallery'],Argyle St
-Number 16,['Restaurant'],16 Byres Rd
-BrewDog Glasgow,"['Beer Bar', 'Burger Joint']",1397 Argyle St
-Core Physio,['Physical Therapy Clinic'],368 Alexandra Parade
-Gs Shopfitters Limited,[],"261, Alexandra Parade"
-Subway,"['Deli', 'Fast Food Restaurant']",433 Alexandra Parade
-Domino's Pizza,"['Pizzeria', 'Fast Food Restaurant']",433 Alexandra Parade
-Iceland,['Food and Beverage Retail'],447 Alexandra Parade
-Co-op Food - Dennistoun,['Grocery Store'],447 Alexandra Parade
-Scot Industrial Air,['Industrial Equipment Supplier'],398 Townmill Rd
-Tibo,"['Bistro', 'Cafe, Coffee, and Tea House', 'English Restaurant']",443 Duke St
-Coia's Cafe,"['Café', 'Coffee Shop', 'Italian Restaurant']",473 Duke St
-Celino's,"['Deli', 'Italian Restaurant']",622 Alexandra Parade
-Pollok Country Park,['Park'],2060 Pollokshaws Rd
-Pollok Play Park,['Playground'],Pollok Country Park
-Pollok House,"['Museum', 'Park']",2060 Pollokshaws Rd
-Toolstation Glasgow Shawlands,['Roofer'],47 Haggs Rd
-Shawlands Dental Practice,['Dentist'],1425 Pollokshaws Rd
-Gideon Robinson,['Housewares Store'],47 Haggs Rd
-Craigholme Sports Complex,['Sports Club'],97 Haggs Rd
-Burrell,['Bar'],
-Wellgreen Group Practice,['Physician'],26 Well Green
-Burrell Restaurant,"['Arts and Entertainment', 'Bar', 'Burger Joint']",2060 Pollockshaw Rd
-Springkell Avenue,['Other Great Outdoors'],
-Sherbrooke St Gilbert's Church,['Church'],240 Nithsdale Rd
-CineStore,[],126 Cornwall St South
-Kubenet Limited,['Telecommunication Service'],"Academy Park, Gower St"
-Lunar Studios,['Print Store'],38 Gower St
-Subway,"['Deli', 'Fast Food Restaurant']",38 Herriet St
-Pakistan Embassy,['Government Building'],
-Transcool,"['Shipping, Freight, and Material Transportation Service']","Claremont Centre, 39 Durham St"
-Dlx,[],149 Vermont St
-Pollokshields Church of Scotland,['Church'],525 Shields Rd
-Toryglen Community Base,['Charity'],18 Prospecthill Square
-Asda,['Grocery Store'],555 Prospecthill Rd
-Hampden Park,['Stadium'],Letherby Dr
-McDonald's,"['Burger Joint', 'Fast Food Restaurant']",557 Prospecthill Rd
-Scottish Football Museum,['History Museum'],Hampden Park
-Hooked Fish & Chips,['Fish and Chips Shop'],1027 Cathcart Rd
-Beechwood Tavern,"['Pub', 'Restaurant']",156-164 Ardmay Crescent
-Clockwork Beer Co,"['Bar', 'Gastropub']",1153-1155 Cathcart Rd
-Greggs,['Bakery'],1158 Cathcart Rd
-I-c Makeup,[],Rose Knowe Pl
-The Lismore,['Whisky Bar'],206 Dumbarton Rd
-Celino's Partick,"['Deli', 'Italian Restaurant']",235 Dumbarton Rd
-Kember & Jones,"['Coffee Shop', 'Deli']",134 Byres Rd
-BrewDog Glasgow,"['Beer Bar', 'Burger Joint']",1397 Argyle St
-The Hanoi Bike Shop,['Vietnamese Restaurant'],8 Ruthven Lane
-Kelvingrove Art Gallery and Museum,['Art Gallery'],Argyle St
-Riverside Museum,['History Museum'],Pointhouse Pl
-Swg3,['Art Gallery'],100 Eastvale Pl
-Hunterian Museum,['Museum'],"University Of Glasgow, University Ave"
-Roast,"['Café', 'Sandwich Spot']",1299 Argyle St
-Key Store,['Wholesaler'],"6 Balornock Rd, City Centre"
-Stobhill Hospital,['Hospital'],133 Balornock Rd
-Stobhill ACH,['Hospital'],
-Brunswick Centre,['Social Club'],17 Wardhill Rd
-Balornock Bowling Club,['Bowling Alley'],52 Wallacewell Rd
-Immaculate Heart of Mary Catholic Church,['Church'],162 Broomfield Rd
-Loman Chinese Takeaway,['Chinese Restaurant'],560c Broomfield Rd
-Springburn Park,['Park'],
-St Catherine's Primary School,['Elementary School'],274 Rye Rd
-Balornock Primary School,['Primary and Secondary School'],422 Broomfield Rd
-Starbucks,['Coffee Shop'],London Rd
-McDonald's,"['Burger Joint', 'Fast Food Restaurant']",Westhorn Dr/London Rd
-CF Concrete Pumping,['General Contractor'],86-90 Fullarton Ave
-Grafters Scotland,['Employment Agency'],86 Fullarton Ave
-Hurry Bros,['General Contractor'],2117 London Rd
-Matalan,['Clothing Store'],2121 London Rd
-Voltair Energy,['Renewable Energy Service'],"Clyde Workshops, Fullarton Rd"
-Concept Metals,['Metals Supplier'],"Clyde Workshops, Fullarton Rd"
-Dollybird Stationery,['Bridal Store'],"8 Storage Vault Workspace 1, Fullarton Rd"
-C & E Electrical Wholesalers,['Wholesaler'],Work Space 3.2 & 3.3
-Tesco Express,['Grocery Store'],1329 Dumbarton Rd
-Granny Gibbs Bar,['Pub'],1305 Dumbarton Rd
-Victoria Park,['Park'],12 Victoria Park Dr North
-Andrew Hand Pharmacy,['Drugstore'],1239 Dumbarton Rd
-Fossil Grove,['Museum'],Victoria Park
-TKB & L D Wright,['Dentist'],1459 Dumbarton Rd
-Scotstoun Stadium,"['Stadium', 'Gym and Studio', 'Rugby Pitch']",72 Danes Dr
-Scotstoun Medical Practice,"['Dentist', 'Physician', 'Bus Station']",1483-1485 Dumbarton Rd
-Glasgow Nomads Swim Team,['Sports and Recreation'],112 Danes Dr
-Glencrest,['Candy Store'],150 Clydeholm Rd
-Two Fat Ladies,['Restaurant'],652-654 Argyle St
-The Shandon Belles,['Restaurant'],652 Argyle St
-Cast Iron Grill,['Restaurant'],500 Argyle St
-The Buttery,['Restaurant'],652 Argyle St
-King Tut's Wah Wah Hut,"['Music Venue', 'Wine Bar', 'Restaurant']",272a St Vincent St
-Bon Accord,"['Whisky Bar', 'Restaurant']",153 North St
-Berkeley 2,"['Music Venue', 'Arts and Entertainment']",93 Lancefield St
-King's Theatre,"['Concert Hall', 'Music Venue', 'Theater']",297 Bath St
-"The Atrium, Radisson Blu",['Hotel Bar'],
-Tiki Bar & Kitsch Inn,"['Cocktail Bar', 'Thai Restaurant']",214 Bath St
-Bella Vita,"['Pizzeria', 'Italian Restaurant']",597 Mosspark Boulevard
-Post Office,['Post Office'],1577 Paisley Rd West
-Cardonald Cemetery,['Cemetery'],547 Mosspark Boulevard
-Craigton Nursery School,"['Agriculture and Forestry Service', 'Nursery School', 'Public and Social Service']",13 Montrave St
-W M Watson Packaging,['Big Box Store'],"Craigton House, 133 Barfillan Dr"
-Peter Bryson Packaging Limited,['Packaging Supply Store'],"Craigton House, 133 Barfillan Dr"
-Morrisons,['Grocery Store'],1760 Paisley Rd West
-Lourdes R C Primary School,['Primary and Secondary School'],150 Berryknowes Rd
-Macphee's Sandwich Bar & Deli,['Deli'],
-Bellahouston Aikido,['Martial Arts Dojo'],Bellahouston Dr
-Britannia Panopticon Music Hall Trust,['Charity'],113-117 Trongate
-Billy Bilsland Cycles,['Bicycle Store'],176 Saltmarket
-Wilson Street Pantry,"['Café', 'Restaurant']",6 Wilson St
-The Dhabba,['Indian Restaurant'],44 Candleriggs
-Merchant Square,"['Bar', 'Restaurant']",71-73 Albion St
-The Clutha Bar,"['Beer Bar', 'Pub', 'Restaurant']",167-169 Stockwell St
-Italian Kitchen,['Italian Restaurant'],64 Ingram St
-Scotia Bar,"['Bar', 'Restaurant']",112 Stockwell St
-Spitfire Espresso,"['Coffee Shop', 'Restaurant']",127 Candleriggs
-City Halls,"['Concert Hall', 'Theater']",
-Cathedral Square,['Park'],Cathedral Precinct
-St. Mungo Museum of Religious Life & Art,['Museum'],2 Castle St
-The Howgait,"['Arts and Entertainment', 'Bar', 'Gastropub']",100 St James’ Rd
-Merchant Chippie,"['Fish and Chips Shop', 'Seafood Restaurant']",155 High St
-Italian Kitchen,['Italian Restaurant'],64 Ingram St
-Oaka Supercity,['Grocery Store'],130 George St
-Little Royal Cafe,['Café'],
-Families For Children Within Martyrs School,[],17 Parson St
-iCafe,['Internet Cafe'],72 Ingram St
-Spitfire Espresso,"['Coffee Shop', 'Restaurant']",127 Candleriggs
-McQueens Dairies,"['Dairy Store', 'Grocery Store']",1 Keppochhill Pl
-R D Tyre Service,"['Automotive Repair Shop', 'Tire Repair Shop']",460 Pinkston Rd
-Sound & Vision a V,['Audiovisual Service'],100 Borron St
-Keppoch Nursery School,['Nursery School'],65 Stonyhurst St
-See Woo Restaurant,"['Cantonese Restaurant', 'Dim Sum Restaurant']","The Point, 29 Saracen St"
-Costco Glasgow,['Warehouse or Wholesale Store'],15 Cobden Rd
-Soccer Stars Academy,['Sports Club'],1 Fountainwell Dr
-Post Office,['Post Office'],76 Huntingdon Square
-Physio Effect,['Physical Therapy Clinic'],100 Borron St
-The Loading Bay,['Skate Park'],100 Borron St
-Celtic FC Supporters Association Social Club,['Sports Bar'],
-Celtic Park,['Sporting Goods Retail'],18 Kerrydale St
-Glasgow Rocks Pro Basketball,['Basketball Court'],1000 London Rd
-Parkhead Library,['Library'],64 Tollcross Rd
-Glasgow Commonwealth Arena,"['Stadium', 'Gym and Studio']",Nuneaton St
-Bains Newsagents,['Newsagent'],Burnhill Rd
-Celtic Ticket Office,['Ticket Seller'],Kerrydale St
-Costa Coffee,['Coffee Shop'],1221 Gallowgate Glasgow
-Buzz Glasgow,['Vape Store'],1377 Gallowgate
-Subway,"['Deli', 'Fast Food Restaurant']","Forge Shopping Centre, 1221 Gallowgate"
-Two Fat Ladies,['Restaurant'],652-654 Argyle St
-The Shandon Belles,['Restaurant'],652 Argyle St
-The Buttery,['Restaurant'],652 Argyle St
-Bon Accord,"['Whisky Bar', 'Restaurant']",153 North St
-Berkeley 2,"['Music Venue', 'Arts and Entertainment']",93 Lancefield St
-Shenaz,['Indian Restaurant'],17 Granville St
-Chinaskis,"['Beer Garden', 'Restaurant']",239 North St
-Cast Iron Grill,['Restaurant'],500 Argyle St
-King's Theatre,"['Concert Hall', 'Music Venue', 'Theater']",297 Bath St
-Lebowskis,"['Cocktail Bar', 'Gastropub']",1008 Argyle St
-Alston Bar & Beef,"['Bar', 'American Restaurant', 'Steakhouse']",79 Gordon St
-The Smoking Fox,['Bar'],6-8 Waterloo St
-Gordon Street Coffee,"['Café', 'Coffee Shop', 'Restaurant']",79 Gordon St
-Bavaria Brauhaus,"['Beer Bar', 'Restaurant']",30 Bothwell St
-Rhoderick Dhu,['Beer Bar'],21-23 Waterloo St
-Topolabamba,"['Mexican Restaurant', 'Tapas Restaurant']",89 St Vincent St
-La Lanterna,['Italian Restaurant'],35 Hope St
-Riverhill Coffee Bar,"['Coffee Shop', 'Sandwich Spot']",24 Gordon St
-Tantrum Doughnuts,['Fast Food Restaurant'],28 Gordon St
-Halloumi,['Greek Restaurant'],161 Hope St
-Celtic Park,['Sporting Goods Retail'],18 Kerrydale St
-Glasgow Rocks Pro Basketball,['Basketball Court'],1000 London Rd
-Glasgow Commonwealth Arena,"['Stadium', 'Gym and Studio']",Nuneaton St
-Celtic Ticket Office,['Ticket Seller'],Kerrydale St
-Costa Coffee,['Coffee Shop'],1221 Gallowgate Glasgow
-Parkhead Library,['Library'],64 Tollcross Rd
-Cineworld,['Movie Theater'],Forge Shopping Centre
-The Old Black Bull,['Bar'],1316-1318 Gallowgate
-Subway,"['Deli', 'Fast Food Restaurant']","Forge Shopping Centre, 1221 Gallowgate"
-Buzz Glasgow,['Vape Store'],1377 Gallowgate
-Kothel,"['Café', 'Restaurant']",300 Crow Rd
-Cafe Circa,"['Café', 'Coffee Shop', 'Fast Food Restaurant']",322 Crow Rd
-Clarence Drive Post Office,['Post Office'],
-Co-op Food,['Grocery Store'],14 Norby Rd
-Boots Pharmacy,"['Health and Medicine', 'Drugstore']",26 Norby Rd
-The Hyndland Cafe,"['Café', 'Sandwich Spot']",96 Clarence Dr
-Bibi's,['Mexican Restaurant'],599 Dumbarton Rd
-St Louis Cafe Bar,"['Wine Bar', 'Café', 'Restaurant']",734 Dumbarton Rd
-Meadow Road Coffee,"['Coffee Shop', 'Restaurant']",579 Dumbarton Rd
-Basta,['Pizzeria'],561 Dumbarton Rd
-Knightswood Park,['Park'],Chaplet Ave
-Co-op Food - Alderman Road,['Grocery Store'],269 Alderman Rd
-Knightswood Golf Course,['Golf Course'],Lincoln Ave
-Freddies Food Club,['Fast Food Restaurant'],2139 Great Western Rd
-Guitar Glasgow - Harry Clapham,['Music School'],434 Dyke Rd
-Alderman Road Shops,['Drugstore'],
-St margarets church,['Church'],Knightswood cross
-Costa Express,['Coffee Shop'],269 Alderman Rd
-Well Pharmacy,['Drugstore'],263 Alderman Rd
-Mathieson Fish Van,['Fish Market'],Dunterlie Ave
-M&S Simply Food,['Grocery Store'],1345 Govan Rd
-Camden Food Co,['Café'],
-WHSmith,['Bookstore'],Queen Elizabeth University Hospital
-Whiteskate,['Board Store'],Maritime House 143 Woodville St
-Queen Elizabeth University Hospital,['Hospital'],1345 Govan Rd
-Southern General Hospital,['Hospital'],1345 Govan Rd
-Lidl,['Grocery Store'],19 Moss Rd
-Motus Commercials Glasgow,['Car Dealership'],131 Bogmoor Rd Govan
-Glasgow Centre For Reproductive Medicine,['Healthcare Clinic'],21 Fifty Pitches Way
-J K Electrical,['Electrician'],"17 Fulbar Rd, Cardonald"
-Glasgow Rocks Pro Basketball,['Basketball Court'],1000 London Rd
-Glasgow Commonwealth Arena,"['Stadium', 'Gym and Studio']",Nuneaton St
-Celtic Park,['Sporting Goods Retail'],18 Kerrydale St
-Celtic Ticket Office,['Ticket Seller'],Kerrydale St
-Springstop,['Metals Supplier'],95 Boden St
-London Cab Sales,['Used Car Dealership'],136 Boden St
-Baltic Street Adventure Playground,['Playground'],421 Baltic St
-London Road Police Station,['Police Station'],851 London Rd
-Certified Professional Never Binge Again Master Coach,['Alternative Medicine Clinic'],45 Auckland Wynd
-B&M Home Store with Garden Centre,['Discount Store'],11 Biggar St
+Wilson Street Pantry,"('Café', 'Restaurant')",6 Wilson St
+The Dhabba,"('Indian Restaurant',)",44 Candleriggs
+Merchant Square,"('Bar', 'Restaurant')",71-73 Albion St
+City Halls,"('Concert Hall', 'Theater')",
+Spitfire Espresso,"('Coffee Shop', 'Restaurant')",127 Candleriggs
+Britannia Panopticon Music Hall Trust,"('Charity',)",113-117 Trongate
+iCafe,"('Internet Cafe',)",72 Ingram St
+Italian Kitchen,"('Italian Restaurant',)",64 Ingram St
+Tinderbox,"('Café', 'Coffee Shop', 'Restaurant')",118 Ingram St
+DogHouse Merchant City,"('Arts and Entertainment', 'Beer Bar', 'BBQ Joint')",99 Hutcheson St
+Glasgow Botanic Gardens,"('Park',)",730 Great Western Rd
+Cail Bruich,"('Greek Restaurant', 'Scottish Restaurant')",725 Great Western Rd
+Loop & Scoop,"('Ice Cream Parlor', 'Restaurant')",665 Great Western Rd
+Ka Pao,"('Asian Restaurant',)",Botanic Gardens Garage
+Hillhead Bookclub,"('Cocktail Bar', 'Wine Bar', 'Restaurant')",17 Vinicombe St
+The Belle,"('Bar',)",617 Great Western Rd
+Papercup Coffee Company,"('Coffee Shop',)",603 Great Western Rd
+Black Pine Coffee Co,"('Coffee Shop', 'Restaurant')",518 Great Western Rd
+The Hanoi Bike Shop,"('Vietnamese Restaurant',)",8 Ruthven Lane
+Ubiquitous Chip,"('Bar', 'Scottish Restaurant')",12 Ashton Lane
+Bon Accord,"('Whisky Bar', 'Restaurant')",153 North St
+Chinaskis,"('Beer Garden', 'Restaurant')",239 North St
+Shenaz,"('Indian Restaurant',)",17 Granville St
+King's Theatre,"('Concert Hall', 'Music Venue', 'Theater')",297 Bath St
+Nice N Sleazy,"('Night Club', 'Bar', 'Restaurant')",421 Sauchiehall St
+The State Bar,"('Bar',)",148-148A Holland St
+Five March,"('Mediterranean Restaurant',)",138 Elderslie St
+Tiki Bar & Kitsch Inn,"('Cocktail Bar', 'Thai Restaurant')",214 Bath St
+Two Fat Ladies,"('Restaurant',)",652-654 Argyle St
+The Shandon Belles,"('Restaurant',)",652 Argyle St
+The Howgait,"('Arts and Entertainment', 'Bar', 'Gastropub')",100 St James’ Rd
+Oaka Supercity,"('Grocery Store',)",130 George St
+Merchant Chippie,"('Fish and Chips Shop', 'Seafood Restaurant')",155 High St
+Cathedral Square,"('Park',)",Cathedral Precinct
+Saturday School,"('Education',)",Cathedral St
+YO! Sushi,"('Sushi Restaurant',)",
+O2 Academy Glasgow,"('Concert Hall', 'Music Venue', 'Theater')",121 Eglinton St
+Citizens Theatre,"('Music Venue', 'Theater')",119 Gorbals St
+MacSorleys,"('Pub', 'Restaurant')",42 Jamaica St
+The Clutha Bar,"('Beer Bar', 'Pub', 'Restaurant')",167-169 Stockwell St
+Sub Club,"('Night Club', 'Bar')",22 Jamaica St
+House of Sher,"('Warehouse or Wholesale Store',)",201-211 Wallace St
+Waterstone's,"('Bookstore',)",174-176 Argyle St
+Scotia Bar,"('Bar', 'Restaurant')",112 Stockwell St
+Fopp,"('Retail',)",19 Union St
+"The Atrium, Radisson Blu","('Hotel Bar',)",
+TK Maxx,"('Department Store',)",36-48 Argyle St
+Paesano Pizza,"('Pizzeria', 'Italian Restaurant')",94 Miller St
+Max's Bar and Grill,"('Cocktail Bar', 'Wine Bar', 'Fast Food Restaurant')",73 Queen St
+Tempo Tea Bar,"('Tea Room', 'Restaurant')",83 Queen St
+Hotel Chocolat,"('Dessert Shop', 'Restaurant')",42 Buchanan St
+Cineworld,"('Movie Theater',)",7 Renfrew St
+Clarins John Lewis Glasgow,"('Department Store',)",Buchanan St
+The LEGO Store Glasgow,"('Toy Store',)",220 Buchanan St
+Poundland,"('Discount Store',)",72-74 Sauchiehall St
+Yiamas Greek Taverna,"('Greek Restaurant',)",16-20 Bath St
+WHSmith,"('Bookstore',)",Killermont St
+Buchanan Galleries,"('Shopping Mall',)",220 Buchanan St
+Ardnamurchan,"('Whisky Bar', 'Scottish Restaurant')",325 Hope St
+Tiso Glasgow Outdoor Experience,"('Bicycle Store',)",50 Couper St
+The Raven,"('Bar', 'Restaurant')",81-85 Renfield St
+"WEST Brewery, Bar & Restaurant","('Brewery', 'Bar')","Templeton Building, Glasgow Green"
+Glasgow Green Football Centre,"('Gym and Studio',)",28 Kings Dr
+Bridgeton Post Office,"('Post Office',)",Main St
+People's Palace,"('History Museum',)",Glasgow Green
+Glasgow City Council,"('Primary and Secondary School',)",35 David St
+Saint Luke’s,"('Music Venue', 'Bar')",17 Bain Square
+The Doulton Fountain,"('Landmarks and Outdoors',)",Glasgow Green
+Winter Gardens,"('History Museum', 'Community and Government', 'Garden')",Glasgow Green
+Ursa Gates,"('Security and Safety',)",27 Fordneuk St
+Glasgow Green,"('Park',)",Greendyke St
+On Call Care Service,"('Government Department',)",117 Old Rutherglen Rd
+Oncall Hub,"('Government Department',)",117 Old Rutherglen Rd
+Billy Bilsland Cycles,"('Bicycle Store',)",176 Saltmarket
+Co-op Food - Glasgow - Crown Street,"('Grocery Store',)",190 Crown St
+Gorbals Recycles Project,"('Government Department',)",203 Old Rutherglen Rd
+The Adelphi Tria Cafe,"('Café',)",The Adelphi Centre
+La Fiorentina,"('Italian Restaurant',)",2 Paisley Rd West
+Nando's,"('Restaurant',)",Paisley Rd West
+India Quay,"('Indian Restaurant',)",181 Finnieston St
+Cook & Indi's World Buffet,"('Buffet',)",251 Paisley Rd
+Berkeley 2,"('Music Venue', 'Arts and Entertainment')",93 Lancefield St
+The SSE Hydro,"('Concert Hall', 'Theater', 'Bar')",Exhibition Way
+Glasgow Golf Centre,"('Golf Driving Range',)",124 Portman St
+Star For a Day,"('Recording Studio',)",542 Scotland St West
+Scotland Street School Museum,"('History Museum',)",225 Scotland St
+Oro,"('Italian Restaurant',)",85 Kilmarnock Rd
+Deli Zola Glasgow,"('Deli',)","11 Skirving St, Shawlands"
+D'nisi,"('Café', 'Coffee Shop', 'Restaurant')",265 Kilmarnock Rd
+Cafe Strange Brew,"('Café', 'Restaurant')",1109 Pollokshaws Rd
+Salt & Vinegar,"('Fish and Chips Shop', 'Fast Food Restaurant', 'Seafood Restaurant')",1044 Pollokshaws Rd
+Brooklyn Cafe,"('Café', 'Restaurant')",21-23 Minard Rd
+Newlands Post Office,"('Post Office',)",174 Kilmarnock Rd
+The Glad Cafe,"('Music Venue', 'Café', 'Restaurant')",1006a Pollokshaws Rd
+Loks Bar & Kitchen,"('Restaurant',)",16 Newlandsfield Rd
+Langside Cafe,"('Barbershop',)",33 Langside Pl
+Pollok Country Park,"('Park',)",2060 Pollokshaws Rd
+Glasgow Parkrun,"('Gym and Studio',)",
+Pollok Golf Club,"('Golf Course',)",90 Barrhead Rd
+Celino's,"('Deli', 'Italian Restaurant')",622 Alexandra Parade
+Alexandra Park,"('Park',)",10 Sannox Gardens
+Dennistoun Bar-B-Que,"('BBQ Joint', 'Burger Joint', 'American Restaurant')",585 Duke St
+Coia's Cafe,"('Café', 'Coffee Shop', 'Italian Restaurant')",473 Duke St
+Tibo,"('Bistro', 'Cafe, Coffee, and Tea House', 'English Restaurant')",443 Duke St
+The Duchess of Duke Street,"('Pub', 'Restaurant')",380 Duke St
+Tapa Organic,"('Bakery',)",21 Whitehill St
+Greggs,"('Bakery',)",543/545 Duke St
+Subway,"('Deli', 'Fast Food Restaurant')",433 Alexandra Parade
+Co-op Food - Dennistoun,"('Grocery Store',)",447 Alexandra Parade
+Home Bargains,"('Discount Store',)",Forge Retail Park
+B&M Home Store with Garden Centre,"('Discount Store',)",11 Biggar St
+Redmond's,"('Pub', 'Restaurant')",304 Duke St
+The Buttery,"('Restaurant',)",652 Argyle St
+Glasgow Film Theatre,"('Indie Movie Theater',)",12 Rose St
+The Butterfly & the Pig,"('Bar', 'Gastropub')",153 Bath St
+Nando's,"('Restaurant',)",263 Sauchiehall St
+Smile Cafe Central,"('Café', 'Coffee Shop', 'Restaurant')",121 Douglas St
+Red Onion,"('Restaurant',)",257 West Campbell St
+Primark,"('Clothing Store',)",171 Sauchiehall St
+Waterstone's,"('Bookstore',)",153-157 Sauchiehall St
+Gamba,"('Seafood Restaurant',)",225a West George St
+Battlefield Rest,"('Italian Restaurant',)",55 Battlefield Rd
+Grain and Grind,"('Coffee Shop', 'Restaurant')",50 Battlefield Rd
+Asda,"('Grocery Store',)",555 Prospecthill Rd
+See Woo Restaurant,"('Cantonese Restaurant', 'Dim Sum Restaurant')","The Point, 29 Saracen St"
+Bilis Electric Mopeds,(),"The Whisky Bond - Distillery, 2, Dawson Rd"
+Ic Mobile Lab,(),The Whisky Bond
+Elmwood,"('Manufacturer',)",25 Eagle St
+R D Tyre Service,"('Automotive Repair Shop', 'Tire Repair Shop')",460 Pinkston Rd
+Sound & Vision a V,"('Audiovisual Service',)",100 Borron St
+Ocho,"('Café', 'Restaurant')",8 Speirs Wharf
+Breedon Aggregates,(),Highcraighall Rd
+Keppoch Nursery School,"('Nursery School',)",65 Stonyhurst St
+Rockvilla Pizza,"('Pizzeria',)",6 Possil Rd
+Cafe D’Jaconelli,"('Café', 'Restaurant')",570 Maryhill Rd
+Firhill Stadium,"('Stadium',)",80 Firhill Rd
+Strathmore Bar,"('Pub', 'Restaurant')",775 Maryhill Rd
+Inn Deep,"('Beer Bar', 'Restaurant')",445 Great Western Rd
+Morello,"('Pizzeria', 'Fast Food Restaurant', 'Middle Eastern Restaurant')",253 Great Western Rd
+Paesano Pizza,"('Pizzeria', 'Italian Restaurant')",471 Great Western Rd
+The Hug and Pint,"('Pub', 'Restaurant')",Great Western Rd 171
+Cottonrake Bakery,"('Bakery', 'Restaurant')",497 Great Western Rd
+Roots Fruits & Flowers,"('Flower Store',)",451-457 Great Western Rd
+Maryhill Post Office,"('Post Office',)",1201 Maryhill Rd
+McDonald's,"('Burger Joint', 'Fast Food Restaurant')",1200 Maryhill Rd
+Ruchill Park,"('Park',)",
+William Hill,"('Casino',)",238 Saracen St
+BM Metals,"('Metals Supplier',)",33 Balmore Rd
+Zayns Tandoori,"('Fast Food Restaurant', 'Indian Restaurant')",267 Saracen St
+Home Bargains,"('Discount Store',)",20 Stronend St
+"World Mission Agency - Winner's Chapel International, Scotland","('Spiritual Center',)",41 Ashfield St
+Lidl,"('Grocery Store',)",109 Balmore Rd
+Allander Surgery,"(""Doctor's Office"",)",191 Denmark St
+Costa Coffee,"('Coffee Shop',)",1221 Gallowgate Glasgow
+Celtic Park,"('Sporting Goods Retail',)",18 Kerrydale St
+Aerials Alert,"('Telecommunication Service',)",1201 Duke St
+Glasgow Rocks Pro Basketball,"('Basketball Court',)",1000 London Rd
+Sign Image Glasgow,"('Print Store',)",317-349 Shettleston Rd
+Parkhead Community Nursery,"('Nursery School',)",61 Crail St
+Eastfields PARK,"('Park',)",
+Parkhead Community Nursery,"('Nursery School',)",17 Pharonhill St
+Westmuir High School,"('High School',)",255 Rigby St
+Cast Iron Grill,"('Restaurant',)",500 Argyle St
+La Lanterna,"('Italian Restaurant',)",35 Hope St
+St Louis Cafe Bar,"('Wine Bar', 'Café', 'Restaurant')",734 Dumbarton Rd
+Bibi's,"('Mexican Restaurant',)",599 Dumbarton Rd
+Starbucks,"('Coffee Shop',)",290 Castlebank St
+Meadow Road Coffee,"('Coffee Shop', 'Restaurant')",579 Dumbarton Rd
+Basta,"('Pizzeria',)",561 Dumbarton Rd
+Kothel,"('Café', 'Restaurant')",300 Crow Rd
+Sainsbury's,"('Grocery Store',)",80 Crow Rd
+Subway,"('Deli', 'Fast Food Restaurant')",Crow Rd
+Caffè Nero,"('Cafe, Coffee, and Tea House',)",West End Retail Park
+Roastit Bubbly Jocks,"('Scottish Restaurant',)",450 Dumbarton Rd
+Jelly Hill,"('Bistro', 'Café', 'Coffee Shop')",195 Hyndland Rd
+The Hyndland Cafe,"('Café', 'Sandwich Spot')",96 Clarence Dr
+Caffe Parma,"('Italian Restaurant',)",30A Hyndland Rd
+Cafe Source Too,"('Restaurant',)",32 Hughenden Rd
+Cafezique,"('Café', 'Deli', 'French Restaurant')",66 Hyndland St
+Delizique,"('Gourmet Store',)",66 Hyndland St
+My Home Bakery,"('Bakery', 'Deli')",59 Hyndland St
+Kaf Coffee,"('Bakery', 'Café', 'Restaurant')",5 Hyndland St
+Celino's Partick,"('Deli', 'Italian Restaurant')",235 Dumbarton Rd
+Caffè Nero,"('Cafe, Coffee, and Tea House',)","St Enoch Square, City Centre"
+Opium,"('Dim Sum Restaurant', 'Thai Restaurant')",191 Hope St
+The Pot Still,"('Whisky Bar', 'Wine Bar', 'Restaurant')",154 Hope St
+Rishi's Indian Aroma,"('Indian Restaurant',)",61 Bath St
+Gin 71,"('Cocktail Bar', 'Wine Bar', 'Restaurant')",71 Renfield St
+Post Office,"('Post Office',)",1 Annfield Pl
+Nakodar Grill,"('Indian Restaurant',)",13 Annfield Pl
+Lidl,"('Grocery Store',)",285 Duke St
+Quickhits slot,"('Casino',)",Duke St
+Barras Art and Design,"('Arts and Entertainment',)",54 Calton Entry
+Barrowland Ballroom,"('Concert Hall', 'Music Venue', 'Theater')",244 Gallowgate
+George Square,"('Bar', 'Seafood Restaurant')",40 George Square
+Anchor Line,"('Cocktail Bar', 'Wine Bar', 'Diner')",12-16 St Vincent Pl
+The Citizen Bar & Dining Rooms,"('Cocktail Bar', 'Restaurant')",24 St Vincent Pl
+Apple Glasgow,"('Electronics Store',)",147 Buchanan St
+Eusebi Deli,"('Italian Restaurant',)",152 Park Rd
+Stravaigin,"('Gastropub',)",28 Gibson St
+Tramway,"('Music Venue', 'Theater', 'Restaurant')",25 Albert Dr
+Ar Furnishings Group,(),"Studio 105 105, Albert Dr"
+Masjid Noor Muslim Mosque,"('Mosque',)",79 Forth St
+Ranjit's Kitchen,"('Café', 'North Indian Restaurant')",607 Pollokshaws Rd
+Allison Arms,"('Arts and Entertainment', 'Pub', 'Sports Bar')",720 Pollokshaws Rd
+Koelschip Yard,"('Beer Bar', 'Wine Bar')",686-688 Pollokshaws Rd
+Pot Luck,"('Dining and Drinking',)",
+Rum Shack,"('Cocktail Bar', 'Caribbean Restaurant')",657-659 Pollokshaws Rd
+The Bungo,"('Bar', 'Restaurant')",17-21 Nithsdale Rd
+Subway,"('Deli', 'Fast Food Restaurant')",38 Herriet St
+MacDonald Studio,"('Photographer',)",11 Buchanan Gardens 197
+Ainscough Crane Hire,(),2600 London Rd
+Mount Vernon Community Hall,"('Community and Government',)",Mount vernon park
+Mount Vernon Service Station,"('Fuel Station',)",299 Mount Vernon Ave
+Mount Vernon Primary School,"('Elementary School',)",Penryn Gardens
+City Plumbing Supplies,"('Plumber',)",2500 London Rd
+St Francis of Assisi,"('Church',)",Crown St
+Dogs Trust,"('Pet Sitting and Boarding Service',)",315 Hamilton Rd
+V K Timber,"('Construction Supplies Store',)",2430 London Rd
+The Woodend,"('Bar', 'Restaurant')",129 Hamilton Rd
+Domino's Pizza,"('Pizzeria', 'Fast Food Restaurant')",828 Crow Rd
+Costa Coffee,"('Coffee Shop',)","Dr Thru, 870 Crow Rd"
+Post Office,"('Post Office',)",1606 Great Western Rd
+Currys,"('Computers and Electronics Retail',)","Crow Rd, Anniesland Retail Park"
+Glamour Paws,"('Pet Grooming Service', 'Pet Sitting and Boarding Service', 'Pet Supplies Store')",1613 Great Western Rd
+Morrisons,"('Grocery Store',)",900 Crow Rd
+Chip Chik Inn,"('Fish and Chips Shop',)",37 Fulton St
+McDonald's,"('Burger Joint', 'Fast Food Restaurant')",1841 Great Western Rd
+Bawarchi Indian restaurant,"('Indian Restaurant',)",995 Crow St
+Scotia Stoves,"('Professional Cleaning Service',)",987 Crow Rd
+King Tut's Wah Wah Hut,"('Music Venue', 'Wine Bar', 'Restaurant')",272a St Vincent St
+Bavaria Brauhaus,"('Beer Bar', 'Restaurant')",30 Bothwell St
+Rhoderick Dhu,"('Beer Bar',)",21-23 Waterloo St
+The Smoking Fox,"('Bar',)",6-8 Waterloo St
+Alston Bar & Beef,"('Bar', 'American Restaurant', 'Steakhouse')",79 Gordon St
+Tiffney's Steakhouse,"('Cafe, Coffee, and Tea House', 'Scottish Restaurant', 'Steakhouse')",61 Otago St
+Tchai-Ovna House of Tea,"('Tea Room', 'Restaurant')",42 Otago Lane
+Kelvingrove Art Gallery and Museum,"('Art Gallery',)",Argyle St
+Mother India's Cafe,"('Indian Restaurant',)",1355 Argyle St
+BrewDog Glasgow,"('Beer Bar', 'Burger Joint')",1397 Argyle St
+The Butchershop Bar & Grill,"('Wine Bar', 'Steakhouse')",1055 Sauchiehall St
+Roast,"('Café', 'Sandwich Spot')",1299 Argyle St
+Kelvingrove Bandstand,"('Music Venue', 'Theater')",Kelvingrove Park
+Grunting Growler,"('Beer Store', 'Liquor Store')",51 Old Dumbarton Rd
+Kelvingrove Park,"('Park',)",Kelvin Way
+Hunterian Museum,"('Museum',)","University Of Glasgow, University Ave"
+The 78,"('Bar', 'Vegan and Vegetarian Restaurant')",10-14 Kelvinhaugh St
+Republic Bier Halle,"('Beer Garden', 'Pub', 'Pizzeria')",9 Gordon St
+Miller & Carter Glasgow,"('Steakhouse',)",47 St Vincent St
+Offshore,"('Café', 'Coffee Shop', 'Restaurant')",3-5 Gibson St
+The Left Bank,"('Bar', 'Bistro')",33-35 Gibson St
+Lidl,"('Grocery Store',)",Beith St
+Riverside Museum,"('History Museum',)",Pointhouse Pl
+The Lismore,"('Whisky Bar',)",206 Dumbarton Rd
+Lebowskis,"('Cocktail Bar', 'Gastropub')",1008 Argyle St
+The Finnieston,"('Bar', 'Gastropub', 'Seafood Restaurant')",1125 Argyle St
+The Ben Nevis,"('Whisky Bar',)",1147 Argyle St
+Crabshakk,"('Seafood Restaurant',)",1114 Argyle St
+Gusto & Relish,"('Café', 'Deli')",729-731 Pollokshaws Rd
+Queens Park,"('Park',)",520 Langside Rd
+The Chicken Hut,"('Indian Restaurant',)",
+Annette Street Primary School,"('Primary and Secondary School',)",27 Annette St
+1051 Gwr,"('Bar', 'Restaurant')",1051 Great Western Rd
+Wrvs Coffee Shop,"('Café',)",Shelley Rd
+Homoeopathic Hospital,"('Hospital',)",1053 Great Western Rd
+Nuffield Health Glasgow Hospital,"('Hospital',)",1000 Great Western Rd
+111 by Nico,"('Restaurant',)",111 Cleveden Rd
+Kelvindale Primary School,"('Elementary School',)",11 Dorchester Pl
+Baltic Street Adventure Playground,"('Playground',)",421 Baltic St
+Reeves Amusement Rides,"('Amusement Park',)",200 Swanston St
+London Cab Sales,"('Used Car Dealership',)",136 Boden St
+Moshe Safdie,"('Business and Professional Services',)",Cotton St Business Park
+Springstop,"('Metals Supplier',)",95 Boden St
+Glasgow Commonwealth Arena,"('Stadium', 'Gym and Studio')",Nuneaton St
+London Road Police Station,"('Police Station',)",851 London Rd
+Celtic Ticket Office,"('Ticket Seller',)",Kerrydale St
+Tinto Tapas Bar,"('Tapas Restaurant',)",138 Battlefield Rd
+Frousoulla's Greek Restaurant,"('Greek Restaurant',)",
+Subway,"('Deli', 'Fast Food Restaurant')",128 Battlefield Rd
+Hooked Fish & Chips,"('Fish and Chips Shop',)",1027 Cathcart Rd
+Church on the Hill,"('Pub', 'Restaurant')",16 Algie St
+Clockwork Beer Co,"('Bar', 'Gastropub')",1153-1155 Cathcart Rd
+Keystore,"('Convenience Store',)",1101 Cathcart Rd
+Beirut Star,"('Lebanese Restaurant',)",450 Paisley Rd West
+Subway,"('Deli', 'Fast Food Restaurant')",468/470 Paisley Rd West
+Post Office,"('Post Office',)",9 North Gower St
+Ibrox Stadium,"('Stadium',)",150 Edmiston Dr
+Bite Me Sandwich Bar,"('Fast Food Restaurant', 'Sandwich Spot')",383 Paisley Rd West
+The Louden Tavern,"('Arts and Entertainment', 'Bar', 'Restaurant')",111 Copland Rd
+Co-op Food - Ibrox,"('Grocery Store',)",390-400 Paisley Rd West
+Georgie Porgies,"('Caterer',)",195 Brand St
+Manhattan Sandwich Bar,"('Café',)",
+The Hardware Store,"('Hardware Store',)",362 Paisley Rd West
+CineStore,(),126 Cornwall St South
+Transcool,"('Shipping, Freight, and Material Transportation Service',)","Claremont Centre, 39 Durham St"
+Dlx,(),149 Vermont St
+Blue Sky Optical,"('Eyecare Store',)",119 Vermont St
+Wolseley Plumb & Parts,"('Plumber',)",and 4 Excelsor Industrial Estate
+Wonder World,"('Indoor Play Area',)",99 Middlesex St
+Clyde Importers,"('Electrical Equipment Supplier',)",17 Maclellan St
+Kubenet Limited,"('Telecommunication Service',)","Academy Park, Gower St"
+Kinning Park Complex,"('Community Center',)",43 Cornwall St
+Springburn Parish Church,"('Church',)",180 Springburn Way
+B&M Store,"('Discount Store',)",No 16
+Post Office,"('Post Office',)",230 Springburn Way
+Subway,"('Deli', 'Fast Food Restaurant')",230 Springburn Way
+Experiential Play,"('Education',)",110 Flemington St
+Costco Glasgow,"('Warehouse or Wholesale Store',)",15 Cobden Rd
+Scotia Surface Hardening Co,(),14 Foundry St
+SD Bookkeeping & Payroll Services,"('Education',)",30 Mansel St
+Elmvale Primary School,"('Primary and Secondary School',)",Hawthorn St
+Daw Signs,"('Print Store',)",Edgefauld Ave
+The Old Smiddy,"('Pub', 'Restaurant')",131 Old Castle Rd
+Merrylee Dental Practice,"('Dentist',)",207 Clarkston Rd
+St Gabriel R C Church,"('Church',)",83 Merrylee Rd
+Snuffmill Bridge,"('Bridge',)",Snuffmill Rd
+Calma Contracts,"('Carpenter',)",45 Largie Rd
+Merrylee Primary School,"('Elementary School',)",50 Friarton Rd
+The Bank,"('Wine Bar', 'Restaurant')",443 Clarkston Rd
+Greggs,"('Bakery',)",1158 Cathcart Rd
+Discount Pet Supplies,"('Pet Supplies Store',)",399 Clarkston Rd
+Nethercraigs Sports Complex,"('Sports and Recreation',)",Corkerhill Rd
+RCG Landscaping,"('Landscaper and Gardener',)",169 Aros Dr
+Cardonald Care Home,"('Assisted Living Service', 'Nursing Home')",663 Mosspark Dr
+Just 4 Keepers,"('Sporting Goods Retail',)",125 Kinnell Ave
+Co-op Food,"('Grocery Store',)",20-24 Braidcraft Terrace
+Corkerhill Depot,"('Office Building',)",Corkerhill Pl
+Pollok Community Centre,"('Community Center',)",
+Sun City,"('Chinese Restaurant', 'Fast Food Restaurant')",836 Mosspark Dr
+Cardonald Cemetery,"('Cemetery',)",547 Mosspark Boulevard
+St Thomas Apostle R C Church,"('Spiritual Center',)",826 Cumbernauld Rd
+Carntyne Primary School,"('Elementary School',)",38 Liberton St
+G Strain,"(""Doctor's Office"",)",804 Cumbernauld Rd
+Scotfresh Group,"('Professional Cleaning Service', 'Convenience Store')","743 Cumbernauld Rd, Lanarkshire"
+DSD Scotland,"('Security and Safety',)",2 Lethamhill Rd
+Glasgow City Council Land and,"('Campground',)","Riddrie Library, 1020 Cumbernauld Rd"
+Westminster Health Care,"('Assisted Living Service', 'Nursing Home')",Alexander Ct 332 Edinburgh Rd
+Conte's Fish N Chip Bar,"('Fast Food Restaurant',)",Cumbernauld Rd
+Barchester - Alexandra Court Care Home,"('Hospital',)",332 Edinburgh Rd
+Equinox56,"('Alternative Medicine Clinic',)",15 Abbeyhill St
+Subway,"('Deli', 'Fast Food Restaurant')",1417 Maryhill Rd
+"Maryhill Lock Flight, Lock 21","('Canal Lock',)",
+Apex Scotland,"('Education',)",186 Wyneford Rd
+Kelvindale Minimarket,"('Convenience Store',)",361-367 Kelvindale Rd
+Maryhill Library,"('Library', 'Bookstore')",
+MASTER CRAFT TREE - Landscrape Design,"('Landscaper and Gardener',)",Glenavon Rd 71
+National Museum of Flight Scotland,(),
+Forth and Clyde Canal,"('Canal',)",
+Al Sultan,"('Mediterranean Restaurant', 'Middle Eastern Restaurant')",61 Bridge St
+The Laurieston Bar,"('Pub', 'Wine Bar')",58 Bridge St
+Shilling Brewing Co,"('Bar', 'Brewery', 'Restaurant')",92 West George St
+Five Guys Glasgow St Vincent St,"('Burger Joint', 'American Restaurant', 'Fast Food Restaurant')",57-61 St Vincent St
+Sugar Rush,"('Hookah Bar', 'Fast Food Restaurant', 'Halal Restaurant')",32 St Andrews Rd
+Red Pepper,"('Asian Restaurant', 'Fast Food Restaurant', 'Indian Restaurant')",32D St Andrews Rd
+Moyra Janes,"('Café', 'Restaurant')",20 Kildrostan St
+Subway,"('Deli', 'Fast Food Restaurant')",795 Govan Cross Shopping Center
+Home Bargains,"('Discount Store',)","Govan Cross Shopping Centre, Govan Rd"
+Iceland,"('Food and Beverage Retail',)",Unit1govan Cross Shopping Centre
+Swg3,"('Art Gallery',)",100 Eastvale Pl
+Topps Tiles,"('Construction Supplies Store',)",144 Helen St
+The Clydeside Distillery,"('Distillery',)",100 Stobcross Rd
+Broomloan Nursery School,"('Nursery School',)",80 Vicarfield St
+House For an Art Lover,"('Wedding Hall',)",10 Dumbreck Rd
+Art Lovers Café,"('Café',)",10 Dumbreck Rd
+Bellahouston Park,"('Concert Hall', 'Park')",Mosspark Boulevard
+Glasgow Ski & Snowboard Centre,"('Ski Resort and Area',)",16 Dumbreck Rd
+The Fairfield Club,"('Bar',)",
+The Prince & Princess of Wales Hospice,"('Charity', 'Non-Profit Organization', 'Hospice', 'Retail')",20 Dumbreck Rd
+Costa Express,"('Coffee Shop',)",675 Paisley Rd West
+Al-Meezan,"('Charity',)",1 Rowan Rd
+B and M Home Store,"('Discount Store',)",Helen St
+Iceland,"('Food and Beverage Retail',)",St Georges Cross
+Ka Ka Lok,"('Chinese Restaurant',)",175 St Georges Rd
+Tenement House,"('History Museum',)",145 Buccleuch St
+Ideal Vehicle Leasing,"('Car Dealership',)","Sinclair Building, 18-20 Eagle St"
+Victoria Park,"('Park',)",12 Victoria Park Dr North
+Andrew Hand Pharmacy,"('Drugstore',)",1239 Dumbarton Rd
+Metro Laser Hair Clinic Glasgow,"('Healthcare Clinic',)",948 Dumbarton Rd
+Fossil Grove,"('Museum',)",Victoria Park
+Russell Timber Technology,"('Construction',)",8 Dilwara Ave
+V R Access Solutions Scotland,(),170 Clydeholm Rd
+Platform Scaffold Services,"('Construction Supplies Store',)",85 Clydeholm Rd
+Harbour Living,"('Furniture and Home Store',)",10 Clydeholm Rd
+Three Judges,"('Pub',)",141 Dumbarton Rd
+Number 16,"('Restaurant',)",16 Byres Rd
+Co-op Food - Tollcross - Glasgow,"('Grocery Store',)",997 Tollcross Rd
+Lidl,"('Grocery Store',)",Tollcross Rd 850
+Bayne's the Family Bakers - Tollcross,"('Bakery', 'Restaurant')",209 Easterhill St
+Tollcross Park,"('Park',)",
+Masonic Club,"('Social Club',)",25 Causewayside St
+St Peters Cemetery,"('Funeral Home',)",1900 London Rd
+Matalan,"('Clothing Store',)",2121 London Rd
+Hurry Bros,"('General Contractor',)",2117 London Rd
+CF Concrete Pumping,"('General Contractor',)",86-90 Fullarton Ave
+Grafters Scotland,"('Employment Agency',)",86 Fullarton Ave
+Glasgow Science Centre,"('Science Museum',)",50 Pacific Quay
+Cineworld Cinemas - Glasgow IMAX at GSC,"('Movie Theater',)",Glasgow Science Centre
+The Tall Ship at Glasgow Harbour,"('Museum',)",100 Stobcross Rd
+Parkhead Library,"('Library',)",64 Tollcross Rd
+Buzz Glasgow,"('Vape Store',)",1377 Gallowgate
+The Old Black Bull,"('Bar',)",1316-1318 Gallowgate
+Cineworld,"('Movie Theater',)",Forge Shopping Centre
+Subway,"('Deli', 'Fast Food Restaurant')","Forge Shopping Centre, 1221 Gallowgate"
+North Star,"('Café', 'Coffee Shop', 'Restaurant')",108 Queen Margaret Dr
+Francos,"('Bar',)",
+The Brewhaus,"('Pub', 'Restaurant')",182 Queen Margaret Dr
+Zensation,"('Chinese Restaurant', 'Halal Restaurant')",160 Queen Margaret Dr
+Gordon Street Coffee,"('Café', 'Coffee Shop', 'Restaurant')",79 Gordon St
+Glenfarg Motors,"('Automotive Repair Shop',)",17 Glenfarg St
+Macmillan Cancer Information Point,"('Non-Profit Organization',)",Woodside Library
+Sugo,"('Italian Restaurant',)",60-70 Mitchell St
+Istanbul Turkish,"('Fast Food Restaurant', 'Turkish Restaurant')",7 Paisley Rd West
+Rangers News,"('Stadium',)",150 Edmiston Dr
+Rangers Lotteries,"('Sporting Goods Retail',)",150 Edmiston Dr
+Kebabish Grill,"('Indian Restaurant',)",323-325 Victoria Rd
+Subway,"('Deli', 'Fast Food Restaurant')",Victoria Rd
+Brunchies,"('Café', 'Restaurant')",184 Butterbiggins Rd
+Kember & Jones,"('Coffee Shop', 'Deli')",134 Byres Rd
+Tennents Bar,"('Pub', 'Restaurant')",191 Byres Rd
+Innis & Gunn Beer Kitchen - Ashton Lane,"('Pub', 'Brewery', 'Restaurant')",46 Ashton Lane
+Kimchi Cult,"('Fast Food Restaurant', 'Korean Restaurant')",14 Chancellor St
+Core Physio,"('Physical Therapy Clinic',)",368 Alexandra Parade
+Gs Shopfitters Limited,(),"261, Alexandra Parade"
+Domino's Pizza,"('Pizzeria', 'Fast Food Restaurant')",433 Alexandra Parade
+Iceland,"('Food and Beverage Retail',)",447 Alexandra Parade
+Scot Industrial Air,"('Industrial Equipment Supplier',)",398 Townmill Rd
+Pollok Play Park,"('Playground',)",Pollok Country Park
+Pollok House,"('Museum', 'Park')",2060 Pollokshaws Rd
+Toolstation Glasgow Shawlands,"('Roofer',)",47 Haggs Rd
+Shawlands Dental Practice,"('Dentist',)",1425 Pollokshaws Rd
+Gideon Robinson,"('Housewares Store',)",47 Haggs Rd
+Craigholme Sports Complex,"('Sports Club',)",97 Haggs Rd
+Burrell,"('Bar',)",
+Wellgreen Group Practice,"('Physician',)",26 Well Green
+Burrell Restaurant,"('Arts and Entertainment', 'Bar', 'Burger Joint')",2060 Pollockshaw Rd
+Springkell Avenue,"('Other Great Outdoors',)",
+Sherbrooke St Gilbert's Church,"('Church',)",240 Nithsdale Rd
+Lunar Studios,"('Print Store',)",38 Gower St
+Pakistan Embassy,"('Government Building',)",
+Pollokshields Church of Scotland,"('Church',)",525 Shields Rd
+Toryglen Community Base,"('Charity',)",18 Prospecthill Square
+Hampden Park,"('Stadium',)",Letherby Dr
+McDonald's,"('Burger Joint', 'Fast Food Restaurant')",557 Prospecthill Rd
+Scottish Football Museum,"('History Museum',)",Hampden Park
+Beechwood Tavern,"('Pub', 'Restaurant')",156-164 Ardmay Crescent
+I-c Makeup,(),Rose Knowe Pl
+Key Store,"('Wholesaler',)","6 Balornock Rd, City Centre"
+Stobhill Hospital,"('Hospital',)",133 Balornock Rd
+Stobhill ACH,"('Hospital',)",
+Brunswick Centre,"('Social Club',)",17 Wardhill Rd
+Balornock Bowling Club,"('Bowling Alley',)",52 Wallacewell Rd
+Immaculate Heart of Mary Catholic Church,"('Church',)",162 Broomfield Rd
+Loman Chinese Takeaway,"('Chinese Restaurant',)",560c Broomfield Rd
+Springburn Park,"('Park',)",
+St Catherine's Primary School,"('Elementary School',)",274 Rye Rd
+Balornock Primary School,"('Primary and Secondary School',)",422 Broomfield Rd
+Starbucks,"('Coffee Shop',)",London Rd
+McDonald's,"('Burger Joint', 'Fast Food Restaurant')",Westhorn Dr/London Rd
+Voltair Energy,"('Renewable Energy Service',)","Clyde Workshops, Fullarton Rd"
+Concept Metals,"('Metals Supplier',)","Clyde Workshops, Fullarton Rd"
+Dollybird Stationery,"('Bridal Store',)","8 Storage Vault Workspace 1, Fullarton Rd"
+C & E Electrical Wholesalers,"('Wholesaler',)",Work Space 3.2 & 3.3
+Tesco Express,"('Grocery Store',)",1329 Dumbarton Rd
+Granny Gibbs Bar,"('Pub',)",1305 Dumbarton Rd
+TKB & L D Wright,"('Dentist',)",1459 Dumbarton Rd
+Scotstoun Stadium,"('Stadium', 'Gym and Studio', 'Rugby Pitch')",72 Danes Dr
+Scotstoun Medical Practice,"('Dentist', 'Physician', 'Bus Station')",1483-1485 Dumbarton Rd
+Glasgow Nomads Swim Team,"('Sports and Recreation',)",112 Danes Dr
+Glencrest,"('Candy Store',)",150 Clydeholm Rd
+Bella Vita,"('Pizzeria', 'Italian Restaurant')",597 Mosspark Boulevard
+Post Office,"('Post Office',)",1577 Paisley Rd West
+Craigton Nursery School,"('Agriculture and Forestry Service', 'Nursery School', 'Public and Social Service')",13 Montrave St
+W M Watson Packaging,"('Big Box Store',)","Craigton House, 133 Barfillan Dr"
+Peter Bryson Packaging Limited,"('Packaging Supply Store',)","Craigton House, 133 Barfillan Dr"
+Morrisons,"('Grocery Store',)",1760 Paisley Rd West
+Lourdes R C Primary School,"('Primary and Secondary School',)",150 Berryknowes Rd
+Macphee's Sandwich Bar & Deli,"('Deli',)",
+Bellahouston Aikido,"('Martial Arts Dojo',)",Bellahouston Dr
+St. Mungo Museum of Religious Life & Art,"('Museum',)",2 Castle St
+Little Royal Cafe,"('Café',)",
+Families For Children Within Martyrs School,(),17 Parson St
+McQueens Dairies,"('Dairy Store', 'Grocery Store')",1 Keppochhill Pl
+Soccer Stars Academy,"('Sports Club',)",1 Fountainwell Dr
+Post Office,"('Post Office',)",76 Huntingdon Square
+Physio Effect,"('Physical Therapy Clinic',)",100 Borron St
+The Loading Bay,"('Skate Park',)",100 Borron St
+Celtic FC Supporters Association Social Club,"('Sports Bar',)",
+Bains Newsagents,"('Newsagent',)",Burnhill Rd
+Topolabamba,"('Mexican Restaurant', 'Tapas Restaurant')",89 St Vincent St
+Riverhill Coffee Bar,"('Coffee Shop', 'Sandwich Spot')",24 Gordon St
+Tantrum Doughnuts,"('Fast Food Restaurant',)",28 Gordon St
+Halloumi,"('Greek Restaurant',)",161 Hope St
+Cafe Circa,"('Café', 'Coffee Shop', 'Fast Food Restaurant')",322 Crow Rd
+Clarence Drive Post Office,"('Post Office',)",
+Co-op Food,"('Grocery Store',)",14 Norby Rd
+Boots Pharmacy,"('Health and Medicine', 'Drugstore')",26 Norby Rd
+Knightswood Park,"('Park',)",Chaplet Ave
+Co-op Food - Alderman Road,"('Grocery Store',)",269 Alderman Rd
+Knightswood Golf Course,"('Golf Course',)",Lincoln Ave
+Freddies Food Club,"('Fast Food Restaurant',)",2139 Great Western Rd
+Guitar Glasgow - Harry Clapham,"('Music School',)",434 Dyke Rd
+Alderman Road Shops,"('Drugstore',)",
+St margarets church,"('Church',)",Knightswood cross
+Costa Express,"('Coffee Shop',)",269 Alderman Rd
+Well Pharmacy,"('Drugstore',)",263 Alderman Rd
+Mathieson Fish Van,"('Fish Market',)",Dunterlie Ave
+M&S Simply Food,"('Grocery Store',)",1345 Govan Rd
+Camden Food Co,"('Café',)",
+WHSmith,"('Bookstore',)",Queen Elizabeth University Hospital
+Whiteskate,"('Board Store',)",Maritime House 143 Woodville St
+Queen Elizabeth University Hospital,"('Hospital',)",1345 Govan Rd
+Southern General Hospital,"('Hospital',)",1345 Govan Rd
+Lidl,"('Grocery Store',)",19 Moss Rd
+Motus Commercials Glasgow,"('Car Dealership',)",131 Bogmoor Rd Govan
+Glasgow Centre For Reproductive Medicine,"('Healthcare Clinic',)",21 Fifty Pitches Way
+J K Electrical,"('Electrician',)","17 Fulbar Rd, Cardonald"
+Certified Professional Never Binge Again Master Coach,"('Alternative Medicine Clinic',)",45 Auckland Wynd
