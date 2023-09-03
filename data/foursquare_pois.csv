@@ -84,7 +84,7 @@ b60e67062c32d2147f8892de3a446610,298,Berkeley 2,"('Music Venue', 'Arts and Enter
 654cfe414a7d682dfffd1259586b364f,124,The SSE Hydro,"('Concert Hall', 'Theater', 'Bar')",Exhibition Way
 ef89ae581497a99c0a1d61db38e53380,421,Glasgow Golf Centre,"('Golf Driving Range',)",124 Portman St
 ef89ae581497a99c0a1d61db38e53380,467,Star For a Day,"('Recording Studio',)",542 Scotland St West
-0e94d2ad012bff0cf23497963ff5fd77,446,Scotland Street School Museum,"('History Museum',)",225 Scotland St
+ef89ae581497a99c0a1d61db38e53380,504,The Fish People Cafe,"('Seafood Restaurant',)",350 Scotland St
 101c6cd7749f373507e9444f5222b7f2,76,Oro,"('Italian Restaurant',)",85 Kilmarnock Rd
 101c6cd7749f373507e9444f5222b7f2,139,Deli Zola Glasgow,"('Deli',)","11 Skirving St, Shawlands"
 101c6cd7749f373507e9444f5222b7f2,200,D'nisi,"('Café', 'Coffee Shop', 'Restaurant')",265 Kilmarnock Rd
@@ -107,11 +107,11 @@ f3ad8b8957d8be86ce18b8c9a43f02e1,244,Tibo,"('Bistro', 'Cafe, Coffee, and Tea Hou
 f3ad8b8957d8be86ce18b8c9a43f02e1,331,Tapa Organic,"('Bakery',)",21 Whitehill St
 64351cf3fd58727dbb26147dec40e855,234,Greggs,"('Bakery',)",543/545 Duke St
 10998482c3187c80b1fc322bee154cb6,164,Subway,"('Deli', 'Fast Food Restaurant')",433 Alexandra Parade
-10998482c3187c80b1fc322bee154cb6,226,Co-op Food - Dennistoun,"('Grocery Store',)",447 Alexandra Parade
+f3ad8b8957d8be86ce18b8c9a43f02e1,75,Redmond's,"('Pub', 'Restaurant')",304 Duke St
 64351cf3fd58727dbb26147dec40e855,380,Home Bargains,"('Discount Store',)",Forge Retail Park
 64351cf3fd58727dbb26147dec40e855,456,B&M Home Store with Garden Centre,"('Discount Store',)",11 Biggar St
-f3ad8b8957d8be86ce18b8c9a43f02e1,75,Redmond's,"('Pub', 'Restaurant')",304 Duke St
 c8234c56f76f3f84d81c54ceedbdab54,161,The Buttery,"('Restaurant',)",652 Argyle St
+0e94d2ad012bff0cf23497963ff5fd77,446,Scotland Street School Museum,"('History Museum',)",225 Scotland St
 b98603df18dece74e168037c3fe67a2c,52,Glasgow Film Theatre,"('Indie Movie Theater',)",12 Rose St
 faf9e8803c8d80741d74f98cb9ba8337,89,The Butterfly & the Pig,"('Bar', 'Gastropub')",153 Bath St
 b98603df18dece74e168037c3fe67a2c,76,Nando's,"('Restaurant',)",263 Sauchiehall St
@@ -136,10 +136,10 @@ af89fc71d4e9b25fd63a7ae8861f4c03,218,Asda,"('Grocery Store',)",555 Prospecthill 
 7f57f6deed054209b94f5d22e1bb5b68,292,Cafe D’Jaconelli,"('Café', 'Restaurant')",570 Maryhill Rd
 7f57f6deed054209b94f5d22e1bb5b68,308,Firhill Stadium,"('Stadium',)",80 Firhill Rd
 a19e9249f64251a331f70f78845241c9,290,Strathmore Bar,"('Pub', 'Restaurant')",775 Maryhill Rd
+7ad6b0b3be3cb3d85e687bdf53358611,722,The Hug and Pint,"('Pub', 'Restaurant')",Great Western Rd 171
 540d5877eb2aa25add536be07be49962,41,Inn Deep,"('Beer Bar', 'Restaurant')",445 Great Western Rd
 7f57f6deed054209b94f5d22e1bb5b68,727,Morello,"('Pizzeria', 'Fast Food Restaurant', 'Middle Eastern Restaurant')",253 Great Western Rd
 540d5877eb2aa25add536be07be49962,82,Paesano Pizza,"('Pizzeria', 'Italian Restaurant')",471 Great Western Rd
-7ad6b0b3be3cb3d85e687bdf53358611,722,The Hug and Pint,"('Pub', 'Restaurant')",Great Western Rd 171
 540d5877eb2aa25add536be07be49962,124,Cottonrake Bakery,"('Bakery', 'Restaurant')",497 Great Western Rd
 540d5877eb2aa25add536be07be49962,47,Roots Fruits & Flowers,"('Flower Store',)",451-457 Great Western Rd
 bc208a63ac25b883b9eb6e28bfff2f28,60,Maryhill Post Office,"('Post Office',)",1201 Maryhill Rd
@@ -226,9 +226,9 @@ a9d5888ec8ab5a638fbe933e0a5311de,188,The Bungo,"('Bar', 'Restaurant')",17-21 Nit
 90ca952e355fd4673ea26061d13d8841,66,Glamour Paws,"('Pet Grooming Service', 'Pet Sitting and Boarding Service', 'Pet Supplies Store')",1613 Great Western Rd
 90ca952e355fd4673ea26061d13d8841,174,Morrisons,"('Grocery Store',)",900 Crow Rd
 90ca952e355fd4673ea26061d13d8841,409,Chip Chik Inn,"('Fish and Chips Shop',)",37 Fulton St
-90ca952e355fd4673ea26061d13d8841,467,McDonald's,"('Burger Joint', 'Fast Food Restaurant')",1841 Great Western Rd
 90ca952e355fd4673ea26061d13d8841,393,Bawarchi Indian restaurant,"('Indian Restaurant',)",995 Crow St
 90ca952e355fd4673ea26061d13d8841,402,Scotia Stoves,"('Professional Cleaning Service',)",987 Crow Rd
+90ca952e355fd4673ea26061d13d8841,405,Kumon Study Centre Glasgow,"('Education',)","Glasgow Academical Rugby Club, Helensburgh Dr"
 8af6d6e52a43dc3df9086e10ab9da2a1,183,King Tut's Wah Wah Hut,"('Music Venue', 'Wine Bar', 'Restaurant')",272a St Vincent St
 a1829c3fd840369355ada2949567d15a,105,Bavaria Brauhaus,"('Beer Bar', 'Restaurant')",30 Bothwell St
 a1829c3fd840369355ada2949567d15a,102,Rhoderick Dhu,"('Beer Bar',)",21-23 Waterloo St
@@ -255,8 +255,8 @@ e1d3e09da4969404a689700ed36b5d56,291,Lidl,"('Grocery Store',)",Beith St
 3c3dcd5ab1d1b41a307a4436823f798a,55,The Lismore,"('Whisky Bar',)",206 Dumbarton Rd
 ba4133ab0ad5c5b405a541c5dfa5814f,74,Lebowskis,"('Cocktail Bar', 'Gastropub')",1008 Argyle St
 d80f772bb69ca8c783940446811dda56,133,The Finnieston,"('Bar', 'Gastropub', 'Seafood Restaurant')",1125 Argyle St
-d80f772bb69ca8c783940446811dda56,78,The Ben Nevis,"('Whisky Bar',)",1147 Argyle St
 d80f772bb69ca8c783940446811dda56,88,Crabshakk,"('Seafood Restaurant',)",1114 Argyle St
+d80f772bb69ca8c783940446811dda56,78,The Ben Nevis,"('Whisky Bar',)",1147 Argyle St
 a9d5888ec8ab5a638fbe933e0a5311de,123,Gusto & Relish,"('Café', 'Deli')",729-731 Pollokshaws Rd
 a9d5888ec8ab5a638fbe933e0a5311de,405,Queens Park,"('Park',)",520 Langside Rd
 ba6d3b1c4cafd1b3e29f950f613c4605,284,The Chicken Hut,"('Indian Restaurant',)",
@@ -409,21 +409,22 @@ bc208a63ac25b883b9eb6e28bfff2f28,609,Zensation,"('Chinese Restaurant', 'Halal Re
 a1829c3fd840369355ada2949567d15a,70,Gordon Street Coffee,"('Café', 'Coffee Shop', 'Restaurant')",79 Gordon St
 abb478d282fc4352a662a4fb1308a544,377,Glenfarg Motors,"('Automotive Repair Shop',)",17 Glenfarg St
 abb478d282fc4352a662a4fb1308a544,396,Macmillan Cancer Information Point,"('Non-Profit Organization',)",Woodside Library
-85c3b5be1873561dc445f46324d143b7,329,Sugo,"('Italian Restaurant',)",60-70 Mitchell St
 5d5e2ae1a3a0fe0075c7a9d3432e736b,969,Istanbul Turkish,"('Fast Food Restaurant', 'Turkish Restaurant')",7 Paisley Rd West
 5d5e2ae1a3a0fe0075c7a9d3432e736b,948,Rangers News,"('Stadium',)",150 Edmiston Dr
 5d5e2ae1a3a0fe0075c7a9d3432e736b,961,Rangers Lotteries,"('Sporting Goods Retail',)",150 Edmiston Dr
 5a527c8ff4d91a318d173dbdbce298c0,533,Kebabish Grill,"('Indian Restaurant',)",323-325 Victoria Rd
 5a527c8ff4d91a318d173dbdbce298c0,583,Subway,"('Deli', 'Fast Food Restaurant')",Victoria Rd
 5a527c8ff4d91a318d173dbdbce298c0,504,Brunchies,"('Café', 'Restaurant')",184 Butterbiggins Rd
+5a527c8ff4d91a318d173dbdbce298c0,635,B&M Home Store with Garden Centre,"('Discount Store',)",Crown St Retail Park
 c04c3fc64f0ba6c420bd3184f474bfc9,228,Kember & Jones,"('Coffee Shop', 'Deli')",134 Byres Rd
-c04c3fc64f0ba6c420bd3184f474bfc9,226,Tennents Bar,"('Pub', 'Restaurant')",191 Byres Rd
 c04c3fc64f0ba6c420bd3184f474bfc9,204,Innis & Gunn Beer Kitchen - Ashton Lane,"('Pub', 'Brewery', 'Restaurant')",46 Ashton Lane
+c04c3fc64f0ba6c420bd3184f474bfc9,226,Tennents Bar,"('Pub', 'Restaurant')",191 Byres Rd
 c04c3fc64f0ba6c420bd3184f474bfc9,404,Kimchi Cult,"('Fast Food Restaurant', 'Korean Restaurant')",14 Chancellor St
 10998482c3187c80b1fc322bee154cb6,30,Core Physio,"('Physical Therapy Clinic',)",368 Alexandra Parade
 10998482c3187c80b1fc322bee154cb6,42,Gs Shopfitters Limited,"('Carpenter', 'Retail')","261, Alexandra Parade"
 10998482c3187c80b1fc322bee154cb6,159,Domino's Pizza,"('Pizzeria', 'Fast Food Restaurant')",433 Alexandra Parade
 10998482c3187c80b1fc322bee154cb6,259,Iceland,"('Food and Beverage Retail',)",447 Alexandra Parade
+10998482c3187c80b1fc322bee154cb6,226,Co-op Food - Dennistoun,"('Grocery Store',)",447 Alexandra Parade
 10998482c3187c80b1fc322bee154cb6,282,Scot Industrial Air,"('Industrial Equipment Supplier',)",398 Townmill Rd
 d204cd406e1b7af53252157f13d4df60,124,Pollok Play Park,"('Playground',)",Pollok Country Park
 d204cd406e1b7af53252157f13d4df60,728,Pollok House,"('Museum', 'Park')",2060 Pollokshaws Rd
@@ -490,7 +491,7 @@ d1cfef68e6b380467d3f8927379319b3,263,Families For Children Within Martyrs School
 a1829c3fd840369355ada2949567d15a,154,Topolabamba,"('Mexican Restaurant', 'Tapas Restaurant')",89 St Vincent St
 a1829c3fd840369355ada2949567d15a,179,Riverhill Coffee Bar,"('Coffee Shop', 'Sandwich Spot')",24 Gordon St
 a1829c3fd840369355ada2949567d15a,178,Tantrum Doughnuts,"('Fast Food Restaurant',)",28 Gordon St
-a1829c3fd840369355ada2949567d15a,161,Halloumi,"('Greek Restaurant',)",161 Hope St
+a1829c3fd840369355ada2949567d15a,180,Chaakoo Bombay Cafe,"('Café', 'Indian Restaurant')",79 St Vincent St
 d9eacbf78518d186400386d90f0cf49c,243,Cafe Circa,"('Café', 'Coffee Shop', 'Fast Food Restaurant')",322 Crow Rd
 d9eacbf78518d186400386d90f0cf49c,95,Clarence Drive Post Office,"('Post Office',)",
 d9eacbf78518d186400386d90f0cf49c,264,Co-op Food,"('Grocery Store',)",14 Norby Rd
