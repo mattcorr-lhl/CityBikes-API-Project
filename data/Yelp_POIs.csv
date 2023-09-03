@@ -1,663 +1,661 @@
-name,rating,address,category_names
-Café Gandolfi,4.5,64 Albion Street,"('Seafood', 'British')"
-Hutchesons Bar & Brasserie,4.0,158 Ingram Street,"('Scottish', 'Seafood', 'Steakhouses')"
-BrewDog DogHouse,4.5,99 Hutcheson Street,"('Pubs', 'Beer, Wine & Spirits', 'Barbeque')"
-The Wilson Street Pantry,4.5,6 Wilson Street,"('Cafes', 'Coffee & Tea', 'Breakfast & Brunch')"
-Paesano Pizza,4.5,94 Miller Street,"('Pizza', 'Italian')"
-Mono,4.0,10-12 King's Court,"('Bars', 'Vegan', 'Music Venues')"
-Russian Cafe-Gallery Cossachok,4.5,10 King Street,"('Russian', 'Ukrainian')"
-13th Note,4.0,50-60 King Street,"('Bars', 'Music Venues', 'Vegan')"
-Brunswick Hotel,4.0,106 -108 Brunswick Street,"('Mediterranean', 'Italian')"
-Blackfriars,4.0,36 Bell Street,"('Pubs',)"
-Gandolfi Fish To Go,4.5,84-86 Albion Street,"('Seafood',)"
-Babbity Bowster,4.0,16-18 Blackfriars Street,"('Pubs',)"
-Trans-Europe Café,4.5,25 Parnie Street,"('Modern European', 'Cafes')"
-The Dhabba,4.0,44 Candleriggs,"('Indian',)"
-The Butterfly and the Pig,4.5,153 Bath Street,"('Scottish', 'Pubs', 'Venues & Event Spaces')"
-Rab Ha's,4.0,83 Hutcheson Street,"('Hotels', 'Pubs')"
-City Merchant Restaurant,4.0,97-99 Candleriggs,"('Seafood',)"
-Osteria Del Tempo Perso,4.5,8 John Street,"('Italian',)"
-Italian Kitchen,4.0,64 Ingram Street,"('Italian',)"
-Wild Cabaret,4.0,18 Candleriggs,"('Bars', 'Cabaret', 'Modern European')"
-Cail Bruich West,4.5,725 Great Western Road,"('Scottish', 'British')"
-Bread Meats Bread,4.5,701 Great Western Road,"('Burgers', 'American (New)', 'Sandwiches')"
-Ubiquitous Chip,4.5,8-12 Ashton Lane,"('Bars', 'Scottish', 'British')"
-Oran Mor,3.5,731 Great Western Road,"('Pubs', 'Scottish', 'Venues & Event Spaces')"
-Hillhead Bookclub,3.5,17 Vinicombe Street,"('Bars', 'Scottish')"
-Papercup Coffee Company,4.5,603 Great Western Road,"('Breakfast & Brunch', 'Coffee Roasteries')"
-Stravaigin,4.5,28 Gibson Street,"('Scottish', 'Gastropubs')"
-Old Salty's,4.0,337 Byres Road,"('Fish & Chips',)"
-Zizzi,4.0,8 Cresswell Lane,"('Italian',)"
-Glasgow Botanic Gardens,4.5,730 Great Western Road,"('Parks',)"
-Cafe Andaluz,3.5,2 Cresswell Lane,"('Spanish',)"
-Bo'Vine Meats & Wines,4.0,385 Byres Road,"('Wine Bars', 'Breakfast & Brunch')"
-Number 16 Restaurant,4.5,16 Byres Road,"('British',)"
-The Hanoi Bike Shop,4.0,8 Ruthven Lane,"('Vietnamese',)"
-Brel,4.0,39 Ashton Lane,"('Belgian', 'Bars')"
-Naked Soup,4.0,6 Kersland Street,"('Soup', 'Coffee & Tea')"
-Bothy Restaurant,4.0,11 Ruthven Lane,"('Nightlife', 'British', 'Scottish')"
-Nic's NYC Deli,4.0,396 Byres Road,"('Hot Dogs', 'Donuts', 'American (New)')"
-The Curler's Rest,3.5,256-260 Byres Road,"('Pubs', 'Gastropubs')"
-The Crafty Pig,4.0,502 Great Western Road,"('Pubs', 'Barbeque')"
-Cubatas Tapas Bar,4.5,108 Elderslie Street,"('Spanish', 'Tapas Bars')"
-Bon Accord,4.5,153 North Street,"('Pubs',)"
-Chinaski's,4.5,239 North Street,"('Bars',)"
-Akbar's,4.5,573-581 Sauchiehall Street,"('Indian',)"
-Nice N Sleazy,4.0,421 Sauchiehall Street,"('Bars',)"
-Singl-end Garnethill,4.5,265 Renfrew Street,"('Cafes', 'Bakeries', 'Breakfast & Brunch')"
-McPhabbs,4.0,23 Sandyford Place,"('Pubs', 'British')"
-Nanakusa,4.0,441-449 Sauchiehall Street,"('Japanese', 'Sushi Bars')"
-Two Fat Ladies at The Buttery,4.5,652-654 Argyle Street,"('Seafood',)"
-Ox And Finch,4.5,920 Sauchiehall Street,"('Tapas/Small Plates', 'Scottish')"
-Sichuan House,4.5,345-349 Sauchiehall Street,"('Chinese',)"
-Pickled Ginger,4.5,512 St Vincent Street,"('Sushi Bars', 'Japanese')"
-Alston Bar & Beef,4.5,Glasgow Central Station,"('Steakhouses', 'Cocktail Bars')"
-Caprese - Don Costanzo,4.5,13 Woodside Crescent,"('Italian',)"
-Non Viet,4.5,534 Sauchiehall Street,"('Vietnamese',)"
-Stereo,4.5,20 Renfield Lane,"('Bars', 'Music Venues', 'Cafes')"
-Mini Grill,4.5,244a Bath Street,"('Pubs', 'Scottish', 'British')"
-Thairiffic,4.5,303 Sauchiehall Street,"('Thai',)"
-Drygate Brewing Co,4.0,85 Drygate,"('Breweries', 'Scottish', 'Beer, Wine & Spirits')"
-Bread Meats Bread,4.0,104 St Vincent Street,"('Burgers', 'Sandwiches', 'American (Traditional)')"
-Chaakoo Bombay Cafe,4.5,79 Saint Vincent Street,"('Indian', 'Cafes')"
-Topolabamba,4.0,89 Saint Vincent Street,"('Mexican', 'Bars')"
-Miller & Carter,4.5,47 St Vincent Street,"('Steakhouses',)"
-Rogano,4.5,11 Exchange Place,"('Seafood',)"
-Rishi's Indian Aroma,4.5,61 Bath Street,"('Indian', 'Halal')"
-The Anchor Line,4.0,12-16 Saint Vincent Street,"('American (New)', 'Scottish', 'Steakhouses')"
-Riverhill Coffee Bar,4.5,24 Gordon Street,"('Coffee & Tea',)"
-Lychee Oriental,4.5,59 Mitchell Street,"('Chinese',)"
-Laurieston Bar,4.5,58 Bridge Street,"('Pubs',)"
-Kervan Palace,4.0,61 Bridge Street,"('Turkish',)"
-Max's Bar & Grill,4.0,73 Queen Street,"('American (Traditional)', 'Bars')"
-Ichiban,4.0,52 Queen Street,"('Japanese', 'Sushi Bars')"
-Dakhin Indian Restaurant,4.0,89 Candleriggs,"('Indian',)"
-Sloans,3.5,62 Argyll Arcade,"('Bars', 'American (Traditional)')"
-The Chippy Doon The Lane,4.0,McCormick Lane,"('Fish & Chips', 'Seafood')"
-The Flying Duck,4.0,142 Renfield Street,"('Bars', 'Vegan')"
-Bloc+,4.5,117 Bath Street,"('Pubs', 'Burgers', 'Pizza')"
-Opium,4.5,191 Hope Street,"('Dim Sum', 'Asian Fusion')"
-Hard Rock Cafe,3.5,179 Buchanan Street,"('American (Traditional)', 'Bars', 'Music Venues')"
-The Raven,4.0,81-85 Renfield Street,"('Pubs',)"
-Banana Leaf,4.5,67 Cambridge Street,"('Malaysian', 'Chinese')"
-Shilling Brewing Company,4.5,92 West George Street,"('Breweries', 'Pubs')"
-Nippon Kitchen,4.0,91 West George Street,"('Japanese',)"
-The Pot Still,4.5,154 Hope Street,"('Pubs',)"
-Chaophraya,4.0,The Townhouse,"('Lounges', 'Thai', 'Cocktail Bars')"
-Saint Luke's And The Winged Ox,4.0,St Luke's,"('Bars', 'Chicken Wings', 'Gastropubs')"
-Pot & Kettle,3.0,16a Bridgeton Cross,"('Coffee & Tea',)"
-Harrington's Restaurant,5.0,19a West Main Street,"('Coffee & Tea', 'British')"
-Greggs,5.0,,"('Bakeries', 'Sandwiches')"
-People's Palace and Winter Gardens,4.0,Glasgow Green,"('Museums', 'Parks', 'Botanical Gardens')"
-Sucre,4.0,13B Main Street,"('Breakfast & Brunch', 'British', 'Vegetarian')"
-Glasgow Green,4.5,Greendyke Street,"('Parks',)"
-Christines,4.0,32 Bridgeton Cross,"('Delis',)"
-The Little Cake Parlour,4.5,408 White Studios,"('Bakeries', 'Patisserie/Cake Shop')"
-The Seven Ways,3.0,621 London Road,"('Pubs',)"
-New Jing Loon,2.5,25 Dalmarnock Rd,"('Fast Food', 'Chinese')"
-Super Cook,5.0,31 Dalmarnock Road,"('Fast Food',)"
-Dominion Bar,2.0,46 Dalmarnock Road,"('Pubs',)"
-Handmade Burger,3.5,Unit X4,"('Burgers',)"
-Doulton Fountain,4.5,Glasgow Green,"('Local Flavor',)"
-Winners Chinese Carry Out,3.0,590 London Road,"('Fast Food',)"
-The Bowlers Bar,4.0,100 Tullis St,"('Pubs',)"
-Treble Two Bar,4.0,222 Abercromby Street,"('Pubs',)"
-St Marys Church,4.0,89 Abercromby Street,"('Local Flavor', 'Churches')"
-Hielan Jessie,3.5,374 Gallowgate,"('Pubs',)"
-Café Source,4.5,1 St Andrews Square,"('Pubs', 'Gastropubs')"
-Yelp Event: Backstage Tour at Citizens Theatre,5.0,119 Gorbals Street,"('Yelp Events',)"
-Tempo Tea Bar,4.5,83 Queen Street,"('Bubble Tea',)"
-La Fiorentina,4.5,2 Paisley Road W,"('Italian',)"
-Nando's,4.0,Paisley Road West,"('Fast Food', 'Chicken Shop')"
-King Tut's Wah Wah Hut,4.5,272 St Vincent Street,"('Pubs', 'Music Venues')"
-India Quay,4.5,181 Finnieston Street,"('Indian',)"
-The Fish People Cafe,4.5,350a Scotland Street,"('Cafes', 'Seafood')"
-Primal Roast,4.5,278 St Vincent Street,"('Cafes',)"
-Istanbul Turkish,4.5,7 Paisley Road W,"('Turkish',)"
-The Shandon Belles,4.5,652-654 Argyle Street,"('British', 'Scottish')"
-Panda Chinese Restaurant,3.0,Unit D3 Springfield Quay,"('Chinese',)"
-Frankie & Benny's,3.0,Springfield Quay,"('American (Traditional)',)"
-Glasgow Science Centre,4.0,50 Pacific Quay,"('Museums',)"
-Home Style Authentic Indian Cusine,4.5,470 Paisley Road,"('Food Delivery Services', 'Indian')"
-Creams Cafe,5.0,Glasgow quay leisure park,"('Desserts', 'Ice Cream & Frozen Yogurt', 'Creperies')"
-Bite Me Sandwich Bar,5.0,383 Paisley Road W,"('Coffee & Tea', 'Sandwiches')"
-Scotland Street School Museums,4.5,225 Scotland Street,"('Museums',)"
-The Ferry,4.0,25 Anderston Quay,"('British', 'Music Venues', 'Venues & Event Spaces')"
-Panda Hut,4.0,61-63 Paisley Road West,"('Fast Food',)"
-Clyde Arc Bridge,4.0,Finnieston Street,"('Landmarks & Historical Buildings',)"
-BBC Good Food Show,5.0,SECC,"('Festivals', 'Local Flavor')"
-ORO,4.0,85 Kilmarnock Road,"('Italian', 'Pizza')"
-The Butterfly and the Pig,3.5,1039 Pollokshaws Road,"('Bars', 'Scottish', 'Gastropubs')"
-The Glad Cafe,4.0,1006 Pollokshaws Road,"('Cafes',)"
-Ranjit's Kitchen,4.5,607 Pollokshaws Road,"('Indian',)"
-Cafe Strange Brew,4.5,1082 Pollokshaws Road,"('Cafes',)"
-Little India,4.0,71 Kilmarnock Road,"('Indian',)"
-The Waverley Tea Room,3.0,18 Moss Side Road,"('Bars', 'Italian', 'British')"
-Baguette Express,4.0,51 Kilmarnock Road,"('Fast Food',)"
-The Rum Shack,4.5,657-659 Pollokshaws Road,"('Caribbean', 'Cocktail Bars')"
-D'nisi,4.0,265 Kilmarnock Road,"('Cafes',)"
-Pazzo,3.0,69 Kilmarnock Road,"('Italian',)"
-Deli Zola,4.5,11 Skirving Street,"('Delis', 'Delicatessen', 'French')"
-The Granary,3.5,10 Kilmarnock Road,"('Pubs', 'Gastropubs')"
-The Bungo,4.0,17-21 Nithsdale Road,"('Gastropubs', 'Breakfast & Brunch', 'Scottish')"
-The McMillan Southside,4.0,862 Pollokshaws Road,"('Bars', 'Steakhouses', 'Scottish')"
-Tapa Coffeehouse,4.5,721 Pollokshaws Road,"('Coffee & Tea',)"
-Di Maggios Pizzeria,3.5,1038 Pollokshaws Road,"('Pizza',)"
-Lean Canteen,4.0,69 Kilmarnock Road,"('Juice Bars & Smoothies', 'Breakfast & Brunch', 'Sandwiches')"
-Queens Park,4.5,520 Langside Road,"('Parks',)"
-James Tassie,2.5,63-65 Kilmarnock Road,"('Pubs',)"
-The Burrell,3.5,1534 Pollokshaws Road,"('Pubs', 'British')"
-The Burrell Collection,4.5,Pollok Country Park,"('Museums', 'Cafes')"
-Pollok Country Park,4.5,2060 Pollokshaws Road,"('Parks',)"
-Loks Bar & Kitchen,4.0,16 Newlandsfield Road,"('Bars', 'British')"
-Newlands Cafe,4.5,262 Kilmarnock Road,"('Cafes', 'Candy Stores', 'Ice Cream & Frozen Yogurt')"
-Pollok House Restaurant,4.0,2060 Pollokshaws Rd,"('Breakfast & Brunch', 'Soup', 'Sandwiches')"
-Pollokshields Burgh Hall,2.5,Lesley Paddison,"('Venues & Event Spaces', 'Landmarks & Historical Buildings')"
-Newlands Home Bakery,4.0,238-240 Kilmarnock Road,"('Bakeries',)"
-old stag inn,2.0,12 Greenview Street,"('Pubs',)"
-Gatekeeper's Building,4.0,Pollok Country Park,"('Landmarks & Historical Buildings',)"
-Greggs,3.0,15 Kilmarnock Road,"('Bakeries',)"
-Crystal Castle,4.5,1307 Pollokshaws Road,"('Fast Food', 'Chinese')"
-Celino's,4.5,620-624 Alexandra Parade,"('Delis', 'Italian', 'Ice Cream & Frozen Yogurt')"
-Tibo,4.0,443 Duke Street,"('British', 'Cafes')"
-Nakodar Grill,4.5,13 Annfield Place,"('Indian',)"
-Coia's Cafe,4.0,477 Duke Street,"('Cafes', 'Delis')"
-Dennistoun Bar-B-Que,4.0,585 Duke Street,"('Barbeque', 'Burgers', 'Fast Food')"
-Stan's Studio,5.0,43 Alexandra Park Street,"('Cafes', 'Coffee & Tea')"
-Tapa Bakehouse,4.0,21 Whitehill Street,"('Bakeries', 'Organic Stores')"
-All In One,4.0,12 Marne Street,"('Fast Food',)"
-Bennys Fish & Chicken Bar,3.5,693 Alexandra Parade,"('Fish & Chips',)"
-Cafe Zecchino,4.5,331 - 335 Cumbernauld Road,"('Cafes',)"
-Amore D'Italia,4.5,506 Alexandra Parade,"('Italian',)"
-Poa San Restaurant,4.0,402 Cumbernauld Road,"('Chinese',)"
-Redmond's,4.0,304 Duke Street,"('Pubs',)"
-Zen,4.0,Alexandra parade,"('Fast Food', 'Chinese')"
-Alexandra Park,4.5,10 Sannox Gardens,"('Parks',)"
-Swallow Cafe,2.0,582 Alexandra Parade,"('Coffee & Tea', 'Fast Food')"
-Lee Wah,3.0,699 Alexandra Parade,"('Fast Food',)"
-The Duchess of Duke Street,4.0,380 Duke Street,"('Bars', 'Restaurants')"
-Neptune Fish & Chips Dennistoun,4.0,6 Whitehill Street,"('Fish & Chips', 'Pizza', 'Kebab')"
-Baking For You,3.0,398-400 Cumbernauld Road,"('Bakeries',)"
-Caffe Euro,4.0,549 Duke Street,"('Cafes',)"
-Crown Creighton,3.5,476-480 Duke Street,"('Pubs',)"
-Subway,4.0,557 Duke St,"('Sandwiches',)"
-Black Vanilla,3.5,553 Duke Street,"('Desserts', 'Candy Stores')"
-The Alexandra,4.0,470 Duke Street,"('Pubs',)"
-Claudios Fast Food,3.5,416 Duke Street,"('Fish & Chips',)"
-Mesa,3.5,567 Duke Street,"('Cafes',)"
-British Bakeries,4.0,783 Duke St,"('Bakeries',)"
-Fork & Knife Cafe,3.0,460 Duke St,"('Coffee & Tea', 'Breakfast & Brunch')"
-Happy Day,2.0,629 Duke Street,"('Fast Food',)"
-Gamba,4.5,225a West George Street,"('Seafood', 'British')"
-The Grill On the Corner,3.5,21-25 Bothwell Street,"('Steakhouses', 'Seafood')"
-Gusto,4.0,14-18 Bothwell Street,"('Pizza', 'Italian')"
-Springfield Quay Harvester,2.5,Springfield Quay,"('British',)"
-La Lanterna,4.0,35 Hope Street,"('Italian',)"
-Buck's Bar,4.0,111 W Regent Street,"('Bars', 'Chicken Wings')"
-The Admiral,4.0,72a Waterloo Street,"('Pubs',)"
-Two Fat Ladies,4.5,118a Blythswood Street,"('Seafood',)"
-Meat Bar,4.0,142 West Regent Street,"('Bars', 'Burgers', 'Steakhouses')"
-Slouch,4.0,203-205 Bath Street,"('Lounges',)"
-The Tea Rooms,4.0,151 Bath Street,"('Tea Rooms', 'British', 'Sandwiches')"
-Saramago at the CCA,4.0,350 Sauchiehall Street,"('Cafes', 'Bars', 'Vegan')"
-The Tiki Bar & Kitsch Inn,4.0,214 Bath Street,"('Thai', 'Tiki Bars', 'Cocktail Bars')"
-Red Onion,4.0,257 W Campbell Street,"('Brasseries', 'Wine Bars')"
-Cafe Antipasti,4.0,305 Sauchiehall Street,"('Italian', 'Coffee & Tea')"
-Sapori d'Italia,5.0,1021 Cathcart Road,"('Italian',)"
-Hooked,4.5,1027 Cathcart Road,"('Fish & Chips',)"
-Battlefield Rest,4.5,55 Battlefield Road,"('Italian', 'Brasseries')"
-Clockwork Beer Co,3.5,1153-1155 Cathcart Road,"('Pubs', 'Gastropubs')"
-New Pearl India,5.0,1021 Cathcart Road,"('Indian',)"
-Shezan Tandoori,4.5,1096 Cathcart Road,"('Indian', 'Pakistani')"
-Tinto Tapas Bar,3.5,138 Battlefield Road,"('Tapas Bars', 'Spanish')"
-New York Jacks,4.5,1009 Cathcart Road,"('Fast Food',)"
-Loafers,2.5,10 Clincart Rd,"('Sandwiches', 'Coffee & Tea', 'Delis')"
-Milk Cafe,5.0,452 Victoria Road,"('Cafes', 'Community Service/Non-Profit')"
-Gusto & Relish,4.0,729-731 Pollokshaws Road,"('Delis', 'Cafes', 'Breakfast & Brunch')"
-Frosoulla's,3.5,33 Sinclair Drive,"('Greek',)"
-Wee China,4.0,1106 Cathcart Rd,"('Malaysian', 'Thai', 'Chinese')"
-Stefano's Pizzeria,4.0,1108 Cathcart Road,"('Pizza',)"
-Arturo's Deli,4.5,1 Carmunnock Road,"('Delicatessen', 'Coffee & Tea', 'Portuguese')"
-Minnesota Fats,5.0,1055 Cathcart Road,"('Pool Halls', 'Bars')"
-Good Chois Cuisine,2.5,13 Cumming Drive Mount Florida,"('Chinese',)"
-Da Vinci Takeaway,4.0,126 Holmlea Road,"('Fast Food',)"
-SeeWoo Restaurant,3.5,The Point,"('Chinese',)"
-Black Sheep Bistro,5.0,10 Clarendon Street,"('British',)"
-Yelp Event: Food Photography & Styling Masterclass at Ocho,5.0,Ocho,"('Yelp Events',)"
-Ka Ka Lok,4.5,175 Saint Georges Road,"('Chinese',)"
-Chinatown Restaurant Glasgow,3.5,42-66 New City Rd,"('Chinese',)"
-Asian Gourmet,4.0,17 West Princes Street,"('Chinese',)"
-Ocho,4.0,8 Speirs Wharf,"('Scottish', 'Breakfast & Brunch', 'Vegan')"
-Forth & Clyde Canal,4.0,Start at Speirs Wharf,"('Local Flavor',)"
-Surface+ Café,4.0,91-93 Great Western Road,"('Cafes',)"
-Asiama,4.5,185 St Georges Road,"('Asian Fusion',)"
-Street Food Putter Club,3.5,Warehouse,"('Golf', 'Burgers')"
-Rawnchy,4.0,58 Maryhill Rd,"('Coffee & Tea', 'Desserts', 'Patisserie/Cake Shop')"
-China Court Bakery,5.0,265-267 Garscube Road,"('Bakeries',)"
-Up On The Hill,2.0,26 Eagle Street,"('Cafes',)"
-Amber's Cafe,4.0,18 Balmore Road,"('Cafes', 'Delis')"
-Cube Cafe,4.0,675 Garscube Road,"('Cafes',)"
-Wahkee Bakery,5.0,Dundas Business Centre,"('Bakeries',)"
-Spring Park Bar,4.0,439 Keppochhill Road,"('Bars',)"
-Thistle,3.0,94-8 Maryhill Road,"('Pubs',)"
-Happy Date,2.0,150 Saracen Street,"('Chinese',)"
-The Left Bank,4.0,33-35 Gibson Street,"('Wine Bars', 'Breakfast & Brunch', 'Cocktail Bars')"
-Lupe Pintos Deli,4.5,313 Great Western Road,"('Delis',)"
-Cottonrake,4.5,497 Great Western Road,"('Bakeries',)"
-Shish Mahal,4.5,66-68 Park Road,"('Indian', 'Pakistani')"
-The Hug & Pint,4.5,171 Great Western Road,"('Bars', 'Music Venues')"
-Paradise,4.0,411-413 Great Western Road,"('Persian/Iranian',)"
-Eusebi Deli,4.0,152 Park Road,"('Delicatessen', 'Italian')"
-Artisan Roast,4.0,15-17 Gibson Street,"('Coffee & Tea', 'Cafes')"
-Inn Deep,4.0,445 Great Western Road,"('Pubs',)"
-Munro's,3.5,185 Great Western Road,"('Pubs',)"
-Tchai-Ovna House of Tea,4.0,42 Otago Lane,"('Vegetarian', 'Tea Rooms', 'Hookah Bars')"
-The Lansdowne Bar & Kitchen,3.5,7a Lansdowne Crescent,"('Gastropubs',)"
-Wudon,4.0,535 Great Western Road,"('Japanese', 'Sushi Bars')"
-Paesano Pizza,4.5,471 Great Western Road,"('Pizza',)"
-The Yarn Cake,4.5,148 Queen Margaret Drive,"('Coffee & Tea', 'Knitting Supplies')"
-BRGR,3.5,526 Great Western Road,"('Burgers',)"
-Smile Café,4.5,102 Queen Margaret Drive,"('Breakfast & Brunch', 'Cafes')"
-North Star Café & Bistro,4.5,108 Queen Margaret Drive,"('Bistros', 'Cafes')"
-William Cafe,4.0,94 Queen Margaret Drive,"('Cafes',)"
-River Kelvin Walkway,5.0,,"('Local Flavor', 'Landmarks & Historical Buildings', 'Parks')"
-Greggs,3.0,1061 Maryhill Rd,"('Bakeries',)"
-The Belle,4.0,617 Great Western Road,"('Pubs',)"
-Spicy Bite,1.0,219-221 Saracen Street,"('Indian',)"
-Vito's,1.5,419 Hawthorn Street,"('Fish & Chips',)"
-Tower Bar,2.5,8 Possil Road,"('Pubs',)"
-Flames All In One,5.0,135-139 Ashfield Street,"('Fast Food',)"
-Ashfield Bar,3.0,404 Hawthorn Street,"('Pubs',)"
-Star & Garter,2.0,687 Garscube Road,"('Pubs',)"
-Marco's FishBar,1.0,116 Maryhill Road,"('Fish & Chips',)"
-Royalty Ale House,2.5,144 Maryhill Road,"('Pubs',)"
-The Forge Market,4.0,1201 Duke St,"('Market Stalls', 'Indoor Playcentre', 'Food Court')"
-McDonald's,3.5,Forge,"('Fast Food', 'Burgers')"
-Old Black Bull,5.0,1316-1318 Gallowgate,"('Pubs',)"
-Bensons,2.5,Unit 44- 46,"('Coffee & Tea', 'Desserts', 'Fish & Chips')"
-KFC,3.0,2 Forge Shopping Centre,"('Fast Food', 'Chicken Shop', 'Chicken Wings')"
-McChans,3.0,Unit 55 Forge Shopping Centre,"('Chinese',)"
-BB's Coffee and Muffins,3.0,The Forge Shopping Centre,"('Coffee & Tea',)"
-Kerrydale Bar,2.5,Celtic Park,"('Sports Bars',)"
-The Bank,3.0,1450 Gallowgate,"('Pubs',)"
-Glasgow 2014 Athletes' Village,5.0,Springfield Road,"('Local Flavor',)"
-Rab Haws Kitchens,5.0,111 Helenvale Street,"('Fast Food',)"
-Pizza Hut,2.5,Unit 2 921 Gallowgate,"('Pizza', 'Italian')"
-Celtic View,3.0,Parkhead,"('Print Media', 'Local Flavor')"
-Supreme Steak Bar,3.0,Celtic Park,"('Food Stands',)"
-Crabshakk,4.5,1114 Argyle Street,"('Seafood',)"
-Porter & Rye,4.5,1131 Argyle Street,"('Steakhouses',)"
-Mother India,4.5,28 Westminster Terrace,"('Indian',)"
-The Hidden Lane Tearoom,4.5,1103 Argyle Street,"('Tea Rooms', 'Cafes')"
-Bibi's,4.5,599 Dumbarton Road,"('Mexican',)"
-6 Degrees North,4.5,566 Dumbarton Road,"('Pubs',)"
-St Louis,3.5,734 Dumbarton Road,"('Bars', 'Cafes')"
-Meadow Road,4.5,579 Dumbarton Road,"('Coffee & Tea', 'Delis')"
-Roastit Bubbly Jocks,4.5,450 Dumbarton Road,"('Scottish', 'Seafood', 'Bistros')"
-Wee Lochan,5.0,340 Crow Road,"('Scottish',)"
-The Thornwood,4.5,724 Dumbarton Road,"('Pubs',)"
-Ceqwa,4.0,692 Dumbarton Road,"('Cafes',)"
-Grillicious Partick,3.5,643 Dumbarton Road,"('Mediterranean',)"
-Epicures of Hyndland,3.5,159 Hyndland Road,"('Cafes',)"
-The Hyndland Fox,3.5,43 Clarence Drive,"('Cafes', 'Scottish', 'Bars')"
-Riverside Museum,4.0,100 Pointhouse Place,"('Museums',)"
-The Hyndland Cafe,4.0,96 Clarence Drive,"('Coffee & Tea', 'Breakfast & Brunch', 'British')"
-Deoch an Dorus,4.0,427-429 Dumbarton Road,"('Bars',)"
-Cafe Circa,5.0,322 Crow Road,"('Cafes',)"
-Nick's Italian Kitchen & Bar,3.5,168 Hyndland Road,"('Italian',)"
-Victoria Park,4.5,12 Victoria Park Drive North,"('Landmarks & Historical Buildings',)"
-The Pavillion,4.0,231 Crow Road,"('Coffee & Tea', 'Breakfast & Brunch')"
-Roscoe's Deli Bar,5.0,23 Clarence Drive,"('Delicatessen', 'Gluten-Free')"
-Cafe Avanti,4.0,24-26 Merkland Street,"('Cafes',)"
-Cafezique,4.0,70-72 Hyndland Street,"('Delis', 'Breakfast & Brunch')"
-Kelvingrove Art Gallery & Museum,4.5,Argyle Street,"('Museums',)"
-Kimchi Cult,4.5,14 Chancellor Street,"('Korean',)"
-Kember & Jones,4.5,134 Byres Road,"('Breakfast & Brunch', 'Bakeries', 'Cafes')"
-The Butterscotch Bakery,5.0,175 Hyndland Road,"('Bakeries',)"
-West End Festival Glasgow,4.5,Byres Road,"('Local Flavor', 'Food Stands', 'Music Venues')"
-My Home Bakery,4.5,59 Hyndland Street,"('Bakeries',)"
-Two Fat Ladies,5.0,88 Dumbarton Road,"('Seafood',)"
-Scotia Bar,4.0,112 Stockwell Street,"('Pubs', 'Music Venues', 'Gastropubs')"
-Papa Johns,3.5,273 Duke Street,"('Food Delivery Services', 'Pizza')"
-Grants The Bakers,5.0,100 Bellgrove St,"('Bakeries',)"
-Lidl,3.5,285 Duke Street,"('Grocery', 'Bakeries')"
-Cathedral House Hotel,4.0,28-32 Cathedral Square,"('Hotels', 'Scottish')"
-Oriental Cuisine,2.5,292 Duke Street,"('Fast Food', 'Chinese', 'Thai')"
-Winners,2.0,140 Sword Street,"('Chinese',)"
-Qua Restaurant,4.0,68 Ingram Street,"('Italian',)"
-Amore Ristorante e Pizzeria,3.5,30 Ingram Street,"('Italian', 'Pizza')"
-Sapporo Teppanyaki,3.5,2-6 Ingram Street,"('Japanese', 'Sushi Bars')"
-Picnic,5.0,103 Ingram Street,"('Cafes', 'Breakfast & Brunch', 'Desserts')"
-Obsession of India,5.0,25 High Street,"('Indian',)"
-Merchant Square,4.5,71 Albion Street,"('Local Flavor',)"
-Metropolitan,3.5,60 Candleriggs,"('Lounges', 'Champagne Bars', 'Cocktail Bars')"
-Khublai Khan's,3.5,26 Candleriggs,"('Mongolian',)"
-Tron Theatre,4.0,63 Trongate,"('Performing Arts', 'Bars', 'Scottish')"
-Cafe India,4.5,29 Albion Street,"('Indian',)"
-Atlantic Bar & Brasserie,4.5,12-16 St Vincent Place,"('Cocktail Bars', 'Seafood', 'French')"
-Jamie's Italian - Glasgow,3.0,7 George Square,"('Italian',)"
-The Gannet,4.5,1155 Argyle Street,"('Scottish', 'Bistros')"
-Ambala Restaurant,5.0,11 Forth Street,"('Pakistani', 'Kebab', 'Indian')"
-Ollie's,4.5,122 Nithsdale Road,"('Breakfast & Brunch', 'Pizza', 'Sandwiches')"
-Cafe Coco,4.5,12 Albert Drive,"('Cafes',)"
-McDonald's,4.5,489 Pollokshaws Road,"('Burgers',)"
-The Chicken Hut Pollokshields,4.0,162 Albert Drive,"('Chicken Wings',)"
-Buddy's Bar Diner Grill,3.0,677-681 Pollokshaws Road,"('American (Traditional)', 'Barbeque', 'Bars')"
-Kebabish Grill,4.0,323-325 Victoria Road,"('Indian', 'Japanese', 'Pakistani')"
-Malaga Tapas,4.5,215 St Andrews Road,"('Tapas/Small Plates', 'Spanish')"
-Moyra Janes,4.0,20 Kildrostan Street,"('Coffee & Tea', 'Breakfast & Brunch')"
-Lahore Kebab House Halal & Indian Takeaway,2.5,196 Albert Dr,"('Halal', 'Indian')"
-New Anand,3.5,76 Nithsdale Road,"('Indian',)"
-Cricklewood Hotel,3.0,27 Hamilton Road,"('British',)"
-Rustico,1.0,16 Grantlea Terrace,"('Coffee & Tea',)"
-Rossano's Bar Bistro,4.0,846 Crow Road,"('Italian',)"
-Ecco 808 il Cafe,5.0,808 Crow Road,"('Italian', 'Butcher')"
-Esquire House,3.0,Clevelands,"('Pubs',)"
-Thomas Auld & Sons,4.5,1632 Great Western Road,"('Bakeries',)"
-B J's,1.5,828 Crow Road,"('Pubs',)"
-Lunch,4.5,1620 Great Western Road,"('Cafes',)"
-Subway,4.0,1617 Great Western Road,"('Fast Food', 'Sandwiches')"
-Beefcake Cafe,5.0,808 Crow Road,"('Cafes',)"
-Gennaro Fish & Chicken Bar,3.5,3 Herschell Street,"('Fast Food', 'Fish & Chips')"
-1051 GWR,3.5,1051 Gt Western Road,"('British',)"
-Cafe Mancini,3.0,Great Western Rd,"('Italian',)"
-Ichai,4.0,1015 Crow Road,"('Chinese',)"
-NG's Dynasty,3.5,60 Fulton Street,"('Fast Food',)"
-Three Craws,3.5,501 Crow Road,"('Pubs',)"
-Bawarchi Indian Restaurant,4.0,995 Crow Street,"('Indian',)"
-McDonald's,3.0,1841 Great Western Road,"('Fast Food',)"
-Little SoHo Jordanhill,3.0,512 Crow Rd,"('Italian', 'Pizza', 'Cocktail Bars')"
-Stazione,4.0,1051 Great Western Road,"('Specialty Food', 'British', 'Italian')"
-A Tomasso,2.5,550 Crow Road,"('Ice Cream & Frozen Yogurt',)"
-The Kitchen,1.0,1006 Crow Road,"('Fast Food',)"
-Where The Monkey Sleeps,4.5,182 West Regent Street,"('Coffee & Tea', 'Sandwiches', 'Bagels')"
-Piccolo Mondo,4.0,344 Argyle Street,"('Italian', 'Mediterranean')"
-Ho Wong,3.5,82 York Street,"('Chinese',)"
-The Butchershop Bar & Grill,4.5,1055 Sauchiehall Street,"('Steakhouses', 'Wine Bars')"
-La Lanterna,4.0,447 Great Western Road,"('Italian', 'Wine Bars', 'Cocktail Bars')"
-Mother India's Café,4.5,1355 Argyle Street,"('Indian',)"
-BrewDog Glasgow,4.5,1397 Argyle Street,"('Bars',)"
-Firebird,4.0,1321 Argyle Street,"('Italian', 'Pizza', 'Pubs')"
-Roast,4.5,1299 Argyle Street,"('Sandwiches',)"
-Kelvingrove Park,4.5,Kelvingrove Park,"('Parks', 'Playgrounds')"
-The 78,4.0,10-14 Kelvinhaugh Street,"('Bars', 'Vegan')"
-Tantrum Doughnut,4.5,27 Old Dumbarton Road,"('Donuts', 'Coffee & Tea', 'Milkshake Bars')"
-Dukes,4.5,41 Old Dumbarton Road,"('Pubs',)"
-The Little Cafe,4.5,1357 Argyle Street,"('Cafes', 'Pizza')"
-Dining In with Mother India,4.5,1347 Argyll Street,"('Indian',)"
-Bar Soba Mitchell Lane,4.0,11 Mitchell Lane,"('Japanese', 'Asian Fusion')"
-For Fika Sake,4.0,7 Keith Street,"('Cafes',)"
-The Sparkle Horse,4.0,16 Dowanhill Street,"('Pubs',)"
-Dumpling Monkey,4.5,121 Dumbarton Road,"('Dim Sum', 'Fast Food')"
-The Finnieston,4.0,1125 Argyle Street,"('Seafood', 'Cocktail Bars')"
-Lebowskis,4.0,1008 Argyle Street,"('Pubs',)"
-Fanny Trollopes Bistro,4.5,1066 Argyle Street,"('British', 'Seafood')"
-The Steamie Coffee Roasters,4.5,1024 Argyle Street,"('Cafes',)"
-Kelvingrove Café,4.0,1161 Argyle Street,"('Cocktail Bars', 'Cafes')"
-The Sisters,4.5,36 Kelvingrove Street,"('British',)"
-Tarantino,4.5,916 Sauchihall Street,"('Italian',)"
-Distill,4.0,1102-1106 Argyle Street,"('Pubs', 'British')"
-Horn Please,4.5,914-916 Sauchiehall Street,"('Indian',)"
-Danny Singh's Gandhi,5.0,441 Victoria Road,"('Indian',)"
-Continental Delicatessen,4.5,503 Victoria Road,"('Delis',)"
-Queens Cafe,4.0,515-517 Victoria Road,"('Cafes',)"
-Anarkali Indian,3.5,531 Victoria Road,"('Indian', 'Pakistani')"
-Panda House,4.0,665-667 Pollokshaws Rd,"('Chinese',)"
-Desi Curry Palace Halal Takeaway,4.5,144 Allison Street,"('Fast Food', 'Pizza', 'Kebab')"
-Brodies,4.0,777 Pollokshaws Road,"('Beer Bar', 'Fish & Chips', 'Burgers')"
-Mulberry Street,4.0,778 Pollokshaws Road,"('Pubs',)"
-Allison Arms,4.0,720 Pollokshaws Road,"('Pubs',)"
-Marchtown,4.5,741 Pollokshaws Road,"('Wine Bars', 'Venues & Event Spaces', 'Bistros')"
-Lebowskis South,3.5,69 Nithsdale Road,"('Pubs', 'Breakfast & Brunch', 'Cafes')"
-111 By Nico,4.5,111 Cleveden Road,"('Bars', 'British')"
-Cafe Source Too,3.5,Hillhead Sports Club,"('Gastropubs',)"
-Di Maggio's,4.0,61 Ruthven Lane,"('Pizza', 'Italian', 'Gluten-Free')"
-Bingham Pond,2.0,1057 Great Western Rd,"('Local Flavor',)"
-Caffe Parma,3.5,Western Tennis Club,"('Italian',)"
-Kothel,3.5,300 Crow Road,"('Cafes',)"
-Jellyhill,3.5,195 Hyndland Road,"('Coffee & Tea', 'Breakfast & Brunch')"
-Baby Grand,4.5,3 - 7 Elmbank Gardens,"('Bars', 'Brasseries')"
-Cuningar Loop,4.5,Downiebrae Road,"('Parks',)"
-McDonalds,4.0,Dalmarnock Road,"('Fast Food', 'Burgers')"
-Light Bite,5.0,19 Sinclair Drive,"('Coffee & Tea', 'Sandwiches')"
-blether,4.5,49 Sinclair Drive,"('Cafes',)"
-Mr V's Fast Food,3.0,118 Battlefield Road,"('Fish & Chips',)"
-Baguette Express,4.0,120 Battlefield Road,"('Sandwiches',)"
-Trevi Italian,5.0,9 Lochleven Road,"('Pizza', 'Italian', 'Burgers')"
-Church On The Hill,3.0,16 Algie Street,"('Pubs', 'British')"
-Cherry & Heather,4.5,7 North Gower Street,"('Cafes',)"
-House For An Art Lover,4.5,10 Dumbreck Road,"('Landmarks & Historical Buildings', 'Modern European')"
-The Balcony Cafe,4.0,534 Paisley Road W,"('Cafes', 'Coffee & Tea')"
-Beirut Star,5.0,450 Paisley Rd W,"('Lebanese',)"
-The Louden Tavern: Ibrox Stadium,2.5,111 Copland Road,"('Pubs',)"
-Subway,1.5,470 Paisley Road W,"('Sandwiches',)"
-Art Lovers Cafe,5.0,House for an Art Lover,"('French', 'British')"
-Bellahouston Park,4.5,16 Dumbreck Road,"('Parks',)"
-Copper Pot,4.0,424 Paisley Road West,"('Coffee & Tea', 'Cafes')"
-The Criterion Fish & Chip Shop,3.0,432 Paisley Road West,"('Fish & Chips',)"
-The Kensington,2.5,408 Paisley Rd W,"('Pubs',)"
-The Sportsman,4.0,144 Copland Road,"('Fish & Chips',)"
-Glasgow Tower,4.5,50 Pacific Quay,"('Landmarks & Historical Buildings',)"
-Tartan Fish & Chips,3.0,Paisley Road West,"('Fish & Chips',)"
-Serene Coffee House,4.0,381 Paisley Road W,"('Cafes',)"
-Kismet Tandoori,5.0,170 Copland Road,"('Indian',)"
-Chicago Grill,3.5,379 Paisley Road W,"('Barbeque', 'Burgers')"
-New Star,3.5,387 Paisley Road West,"('Chinese',)"
-Pollokshields Burgh Hall,5.0,70 Glencairn Drive,"('Landmarks & Historical Buildings',)"
-Cook & Indi's World Buffet,3.0,251 Paisley Road,"('Buffets',)"
-La Tea Doh,3.5,136 Nithsdale Road,"('Delis', 'Cafes')"
-District Bar,2.5,252 Paisley Road West,"('Pubs',)"
-Tasty by Tony Singh,3.0,Alea Casino,"('Indian',)"
-Oriental Express,3.5,155 Springburn Way,"('Fast Food', 'Chinese')"
-Greggs,5.0,Unit 27 Springburn Way,"('Bakeries',)"
-Bells Bar,1.0,143 Springburn Way,"('Pubs',)"
-Oriental Cuisine,4.5,209 Springburn Way,"('Fast Food',)"
-Thomsons Public House,5.0,275 Springburn Way,"('Pubs',)"
-Lets Wok N Roll,3.0,8a Angus Street,"('Fast Food',)"
-Chakwal Tandoori,1.0,94 Springburn Way,"('Indian',)"
-KFC,2.5,1171 Springburn Road,"('Fast Food', 'Chicken Shop', 'Chicken Wings')"
-Barbarossa Restaurant,4.0,1/7 Clarkston Road,"('Wine Bars', 'Italian')"
-Gerry's,3.0,245 Newlands Road,"('Fast Food', 'Fish & Chips')"
-Soup's On and The Cake Lady,4.5,115 Clarkston Road,"('Coffee & Tea', 'Breakfast & Brunch', 'Soup')"
-Caffe Coupa,4.5,115 Clarkston Road,"('Fast Food', 'Sandwiches')"
-Reeva,4.0,21 Clarkston Road,"('Coffee & Tea', 'Sandwiches')"
-Beechings Public House,3.0,34 Clarkston Road,"('Pubs',)"
-Old Smiddy,4.0,131 Old Castle Road,"('Pubs',)"
-Cathay Cuisine,3.5,121 Clarkston Road,"('Japanese', 'Thai', 'Cantonese')"
-Ashoka Southside,4.0,268 Clarkston Road,"('Indian', 'Fast Food')"
-The River Cart,5.0,Cathcart,"('Local Flavor', 'Lakes')"
-Costa Coffee,3.0,Glasgow Road,"('Coffee & Tea',)"
-The Bank,3.5,443 Clarkston Rd,"('Pubs', 'Gastropubs')"
-The Fifteen,4.0,Clarkston Road,"('Chinese', 'Fast Food')"
-Real Madras,5.0,185 Clarkston Road,"('Indian',)"
-Holmwood House,4.5,61-63 Netherlee Road,"('Museums',)"
-Jist Misto,4.5,1835 Paisley Rd W,"('Italian',)"
-Baxters Take Away,5.0,835 Mosspark Drive,"('British',)"
-Wee Indian,1.0,325 Forge Street,"('Indian',)"
-China Chef,1.0,529 Carntyne Road,"('Chinese',)"
-New Panda House,1.0,7 Murrayfield Street,"('Fast Food',)"
-Cafe Spice,3.0,331-335 Cumbernauld Road,"('Fast Food',)"
-The Hot Spot,1.0,325 Forge Street,"('Indian',)"
-punjab karahi,3.5,525 Carntyne Road,"('Fast Food', 'Indian')"
-Jaconelli's,4.5,1419 Maryhill Road,"('Fast Food', 'Ice Cream & Frozen Yogurt')"
-The Spice Room,5.0,1348 Maryhill Rd,"('Indian',)"
-Maryhill Burgh Halls,3.0,10-24 Gairbraid Avenue,"('Cultural Center', 'Music Venues', 'Coffee & Tea')"
-Fireman Gates,5.0,Maryhill Fire Station,"('Landmarks & Historical Buildings',)"
-The Lockhouse Bar & Restaurant,2.5,1397 Maryhill Road,"('Bars',)"
-Killermont Polo Club,4.5,2022 Maryhill Road,"('Indian', 'Pakistani')"
-McDonald's Restaurants,2.5,1200 Maryhill Road,"('Restaurants',)"
-North Kelvin Meadow,4.0,Clouston Street,"('Parks', 'Community Service/Non-Profit')"
-Spice Of India,5.0,123 Cleveden Road,"('Indian',)"
-Frampton's Night Clubs,2.5,1236 Maryhill Road,"('Bars', 'Dance Clubs')"
-Rams Head,3.5,1969 Maryhill Road,"('Pubs',)"
-Viking Bar,2.0,1190 Maryhill Road,"('Pubs',)"
-Wongs Restaurant,2.5,920 Maryhill Rd,"('Chinese', 'Fast Food')"
-Jacqui's,3.0,1057 Maryhill Rd,"('Breakfast & Brunch',)"
-Kelbourne Street Playpark,4.0,Kelbourne Street,"('Local Flavor', 'Parks')"
-Wok Cuisine,2.5,121 Cleveden Road,"('Fast Food',)"
-Brazen Head,5.0,1-3 Cathcart Road,"('Pubs',)"
-Ann's Fry,4.0,196 Crown Street,"('Fish & Chips',)"
-Macsorley's,4.0,42 Jamaica Street,"('Pubs', 'Music Venues')"
-Nic's NYC Deli,4.5,50 St Enoch Square,"('American (New)', 'Fast Food', 'Donuts')"
-Sharkeys Bar,4.0,51 Old Rutherglen Road,"('Pubs',)"
-Maggie May's,3.5,60 Trongate,"('Bars', 'Music Venues', 'Dance Clubs')"
-Nando's,4.0,st Enoch Square,"('Fast Food', 'Chicken Shop')"
-Ddoce,4.5,St Enoch Shopping Centre,"('Cafes', 'Patisserie/Cake Shop', 'Italian')"
-Babylon Cafe,4.5,7 Clyde Place,"('Middle Eastern', 'Persian/Iranian', 'Turkish')"
-Gin 71,4.5,71 Renfield Street,"('Cocktail Bars',)"
-Cup Tea Lounge,4.0,71 Renfield Street,"('Coffee & Tea', 'Breakfast & Brunch', 'Sandwiches')"
-Laboratorio Espresso,4.5,93 West Nile Street,"('Coffee & Tea',)"
-Cafe Serena,3.5,328-330 Maxwell Road,"('Indian', 'Pakistani')"
-Sholeh,4.5,146 Nelson Street,"('Persian/Iranian',)"
-Sugar Rush,4.5,32 St Andrew's Road,"('Ice Cream & Frozen Yogurt',)"
-Subway,3.0,38 Herriet St,"('Sandwiches', 'Fast Food')"
-Village Curry House,4.0,119 W Street,"('Indian', 'Pakistani')"
-Cafe 13,4.0,794 Govan Road,"('Coffee & Tea',)"
-Balbir's,4.5,7 Church Street,"('Indian',)"
-Tall Ship At Glasgow Harbour,4.0,100 Stobcross Road,"('Museums', 'Local Flavor')"
-Usha's,4.0,2 Byres Road,"('Indian', 'Vegetarian')"
-Three Judges,4.0,141 Dumbarton Road,"('Pubs',)"
-Subway,1.0,Unit 3,"('Sandwiches',)"
-Little Curry House,4.5,41 Byres Road,"('Indian',)"
-Farmfoods,5.0,5 Govan Cross Shopping Centre,"('Ice Cream & Frozen Yogurt',)"
-Rainbow Bridge,5.0,Art Park,"('Landmarks & Historical Buildings',)"
-McDonald's Restaurants,3.0,Helen Street,"('American (Traditional)',)"
-KFC,4.0,382 Helen st,"('Fast Food',)"
-The Argyle House Restaurant,4.5,150 Edmiston Drive,"('British',)"
-Posh Deli,4.5,1256 Paisley Road West,"('Delis',)"
-Pizza Hut,2.0,380 Helen Street,"('Pizza',)"
-Dragon City Takeaway,5.0,144 Craigton Road,"('Fast Food',)"
-Ocean Palace,1.5,8 Summertown Road,"('Fast Food', 'Cantonese')"
-Ardnamurchan,4.5,325 Hope Street,"('Scottish', 'Wine Bars')"
-The Drake,4.0,1 Lynedoch Street,"('Pubs',)"
-The Cabin,3.5,998 Dumbarton Road,"('Irish', 'Karaoke')"
-Abarcrombys Cafe Bar,5.0,180 Dumbarton Road,"('Bars', 'Cafes')"
-Papa Johns,3.5,12 Norby Road,"('Pizza', 'Fast Food')"
-Po'Boyz,4.0,Broomhill Shopping Centre,"('American (New)',)"
-Ninos West End,4.0,911 Dumbarton Road,"('Italian', 'Burgers')"
-Brazuca Cafe,4.0,1 Methill Street,"('Cafes',)"
-Broomhill Church Of Scotland,4.0,64-66 Randolph Road,"('Churches', 'Local Flavor')"
-Cupcakes For You & West End Vintage,5.0,1251 Dumbarton Road,"('Cupcakes',)"
-Magic Grill,5.0,1341 Dumbarton Road,"('Restaurants',)"
-Tollcross Park,4.5,254B Wellshot Road,"('Parks',)"
-McDonald's Restaurants,5.0,10 Westhorn Drive,"('American (Traditional)',)"
-Mmm Delicious,1.0,933 Tollcross Road,"('Cafes', 'Ice Cream & Frozen Yogurt')"
-Ruby Murrys,4.0,1198 Shettleston Road,"('Indian',)"
-Enzos Fish & Chips,5.0,1200 Shettleston Road,"('Fish & Chips', 'Fast Food')"
-Garlic Delicatessens,5.0,793 Shettleston Road,"('Delis', 'Delicatessen')"
-The Portland Arms,3.0,1169 Shettleston Road,"('Pubs',)"
-The Drum,5.0,1071 Shettleston Road,"('Pubs',)"
-Cotters Bar,2.0,498 Tollcross Road,"('Pubs',)"
-The Favorite Cafe,4.0,1078 Shettleston Road,"('Candy Stores', 'Cafes')"
-Gourmet House,5.0,1280 Tollcross Road,"('Fast Food',)"
-Cafe Shama,4.0,1207 Shettleston Road,"('Fast Food',)"
-Orion Way,3.0,30-40 Westhorn Drive,"('Pubs', 'Casinos')"
-Pelican Cafe,1.0,763 Shettleston Road,"('Coffee & Tea',)"
-Lucky Way Chinese Carry Out,1.0,900 Shettleston Road,"('Fast Food',)"
-Wans Golden Corner,4.0,171 Westmuir Street,"('Fast Food',)"
-The Electric Gardens at The Botanics,4.0,The Botanics,"('Local Flavor',)"
-Kibble Palace,4.5,730 Great Western Road,"('Botanical Gardens',)"
-Kelbourne Saint,4.5,182 Queen Margaret Drive,"('Lounges',)"
-The Maggie,4.5,Queen Margaret Drive,"('Fast Food', 'British')"
-Greek Orthodox Cathedral of St Luke,5.0,27 Dundonald Road,"('Churches', 'Local Flavor')"
-The Tearooms At The Botanics,3.0,Glasgow Botanic Gardens,"('Tea Rooms',)"
-Buongiorno,3.5,1012 Pollokshaws Rd,"('Brasseries', 'Italian')"
-Star Coffee Patisserie,4.5,1002 Pollokshaws Road,"('Patisserie/Cake Shop', 'Cafes')"
-Brooklyn Café,3.5,21-23 Minard Road,"('Cafes',)"
-Southside Street Food Showdown,4.0,1006 Pollokshaws Road,"('Street Vendors',)"
-Sweeney's on the Park,3.5,958 Pollokshaws Road,"('Pubs', 'Music Venues')"
-Ad Lib,4.0,111 Hope Street,"('Bars', 'American (Traditional)')"
-The Sir John Moore,3.0,260-292 Argyle Street,"('Gastropubs',)"
-Solid Rock Cafe,3.5,19 Hope Street,"('Pubs',)"
-The Restaurant Bar & Grill,4.5,Princes Square,"('Brasseries', 'British')"
-Barca Tapas & Cava Bar,3.5,Glasgow City Centre 2nd Floor Princes Square,"('Wine Bars', 'British', 'Tapas Bars')"
-One 2 Wan,4.0,376 Paisley Road W,"('Fast Food',)"
-Cafe Sizzler,4.0,351 Paisley Road West,"('Cafes',)"
-Chilli Cottage,3.5,404 Paisley Road W,"('Indian',)"
-Star Bar,3.0,537-539 Eglinton Street,"('Pubs',)"
-Saint Andrew's Cross,4.0,Pollokshaws Road,"('Local Flavor',)"
-Smooth Boys Deli,3.5,26 Maxwell Road,"('Fast Food', 'Delicatessen', 'Delis')"
-Ashoka,4.5,19 Ashton Lane,"('Indian', 'Fast Food')"
-The Wee Curry Shop,4.5,29 Ashton Lane,"('Indian', 'Pakistani')"
-Ramen Dayo!,4.0,31 Ashton Lane,"('Ramen',)"
-Little Italy,4.0,205 Byres Road,"('Fast Food', 'Italian', 'Pizza')"
-Bar Soba,3.0,116-122 Byres Road,"('Bars', 'Asian Fusion')"
-Tennents Bar,4.0,191 Byres Road,"('Pubs',)"
-Caffe 393 Bar,3.0,393 Alexandra Parade,"('Cafes',)"
-Subway,4.0,433 Alexandra Parade,"('Fast Food',)"
-Glasgow International Comedy Festival,4.5,278 High Street,"('Local Flavor', 'Festivals', 'Comedy Clubs')"
-Food On Parade,2.0,417 Alexandra Parade,"('Coffee & Tea', 'Cafes')"
-St Mungo Museum of Religious Life & Art,4.5,2 Castle St,"('Museums',)"
-Provand's Lordship,4.0,3 Castle Street,"('Museums',)"
-Asha's,5.0,4 Glebe Street,"('Indian',)"
-Pollok House,4.5,Pollok Country Park,"('Museums',)"
-Pollok House,5.0,2060 Pollokshaws Rd,"('Venues & Event Spaces', 'Landmarks & Historical Buildings')"
-Pollok House,3.5,Pollok Country Park,"('Museums',)"
-Pollok Gardens,4.0,2060 Pollokshaws Road,"('Botanical Gardens',)"
-Old Courtyard Stables,4.0,2060 Pollokshaws Road,"('Landmarks & Historical Buildings',)"
-Maxwell Park,5.0,Terregles Avenue,"('Parks',)"
-The Bay Horse,2.5,962 Pollokshaws Rd,"('Pubs',)"
-Rajas Fast Foods,5.0,246 Albert Drive,"('Indian',)"
-Danny Singh's,2.0,26 Minard Road,"('Indian', 'Fast Food')"
-Michael's Superchippy,4.0,891 Aikenhead Rd,"('Fast Food', 'Fish & Chips')"
-The Scottish Football Museum,5.0,Hampden Park,"('Soccer', 'Museums')"
-The Beechwood,3.0,156-164 Ardmay Crescent,"('Pubs',)"
-Montford House,3.0,23-27 Curtis Avenue,"('Pubs',)"
-Ali Shan Indian Take Away,4.0,250 Battlefield Road,"('Indian', 'Fast Food')"
-Alishan Tandoori,2.5,250 Battlefield Road,"('Indian', 'Pakistani', 'Fast Food')"
-Wokstar,2.0,523 Cathcart Road,"('Fast Food', 'Chinese')"
-Cathkin Park,5.0,58-82 Florida Avenue,"('Parks',)"
-Bag O Nails,4.5,165 Dumbarton Road,"('Bars', 'Music Venues')"
-Delizique,4.0,66 Hyndland Street,"('Delis',)"
-Delhi Darbar,4.5,4 Woodhill Road,"('Indian',)"
-Aroma Cafe,4.0,New Stobhill Hospital,"('Coffee & Tea',)"
-Spices,4.0,93 Auchinairn Rd,"('Fast Food',)"
-Thomas Muir Coffee Shop,4.5,100 Crowhill Road,"('Coffee & Tea',)"
-briggs bar,4.0,,"('Pubs',)"
-Cha Cha G'z,4.0,104a Auchinairn Road,"('Turkish',)"
-Springburn Park,3.5,Balgrayhill Rd,"('Parks',)"
-Stan's Chinese Carryout,4.0,1349 Springburn Road,"('Fast Food',)"
-Star 5 In 1,2.5,560a Broomfield Road,"('Fast Food',)"
-Hong Kong House Take Away,3.0,140 Red Road,"('Fast Food',)"
-The Bistro,4.0,23A Hamilton Road,"('Fast Food', 'Bistros')"
-Auld Boathouse,2.0,21 River Road,"('Pubs',)"
-La Bodega Tapas Bar,4.5,1120 South Street,"('Tapas Bars', 'Music Venues')"
-Granny Gibbs,3.5,1305 Dumbarton Road,"('Pubs',)"
-Macks Diner,5.0,45 Harland Street,"('Diners',)"
-Harbour Cafe,5.0,719 South Street,"('Cafes',)"
-Pizza Amore Takeaway,5.0,1499 Dumbarton Road,"('Food Delivery Services', 'Pizza')"
-Clyde Tunnel,3.5,,"('Transportation', 'Local Flavor')"
-Mario and Sons,3.0,,"('Fish & Chips',)"
-Neelim Restaurant,5.0,1590 Dumbarton Road,"('Restaurants',)"
-Ninja Turtles Pizzeria,1.0,911 Dumbarton Road,"('Italian',)"
-Rawlings - Love To Eat,5.0,583 Mosspark Boulevard,"('Cafes', 'Bakeries', 'Scottish')"
-Bella Vita,4.0,597 Mosspark Boulevard,"('Italian', 'Burgers')"
-Leo's Express,4.0,1456 Paisley Road West,"('American (Traditional)',)"
-Mcharg Bakers' Shops,5.0,1493 Paisley Road West,"('Bakeries',)"
-Boulevard Fish Bar,5.0,595 Mosspark Boulevard,"('Fast Food',)"
-Himalaya,4.0,1878 Paisley Road West,"('Indian',)"
-Casa Ole,4.5,1835 Paisley Road W,"('Spanish',)"
-Subway,3.0,1832 Paisley Road West,"('Fast Food', 'Sandwiches')"
-Quo Vadis,3.0,1860 Paisley Road West,"('Pubs',)"
-Chilli's Take Away Food Shops,4.0,1783 Paisley Road West,"('Fast Food',)"
-Garngads Fish & Chip Shop,2.0,132 Royston Road,"('Fish & Chips',)"
-Sighthill Stone Circle,4.0,Sighthill park,"('Landmarks & Historical Buildings',)"
-Blue Sky Chinese Take Away,3.5,248 Crow Road,"('Fast Food',)"
-Domino's Pizza,4.5,Unit 2 117 Crow Road,"('Pizza',)"
-Knightswood Chinese Takeaway,5.0,247 Alderman Road,"('Fast Food',)"
-Lincoln Inn,1.5,2131 Great Western Road,"('Pubs', 'Gastropubs')"
-Knightswood Golf Course,2.5,Loanfoot Avenue,"('Golf', 'Parks')"
-Freddie's Food Club,2.5,2139 Great Western Road,"('Fast Food',)"
-Knightswood Deli,1.0,302 Dyke Road,"('Delis',)"
-Little India,1.0,477 Blairdardie Road,"('Indian',)"
-The Soup & Juice Co,3.5,Unit 1,"('Juice Bars & Smoothies', 'Soup', 'Sandwiches')"
-Camden Food Co.,4.5,Southern General Hospital,"('Coffee & Tea', 'Sandwiches')"
-Aroma Cafe,3.0,1345 Govan Road Govan,"('Coffee & Tea',)"
-Steam Wheeler,3.5,1 Row Avenue,"('British', 'Pubs')"
-McDonald's,3.0,Braehead Shopping Centre,"('Fast Food', 'Burgers')"
-M&S Simply Food,5.0,South Glasgow University Hospital,"('Fast Food', 'Sandwiches')"
-The Amethyst,4.0,1209 Govan Road,"('Pubs',)"
-Dowanhill Park,4.5,Havelock St/ Highburgh Rd,"('Playgrounds', 'Parks')"
-Roll With It,1.0,1145 Govan Road,"('Cafes', 'Delis', 'Soup')"
-Polka Dot Caffe,4.0,10 Holmfauldhead Place,"('Cafes',)"
-Ralphs Tastybites,3.0,307 Shieldhall Road,"('Fish & Chips',)"
+station_id,distance_from_station,POI_name,rating,review_count,price,address,category_names
+ed8440d874a0b4205ddbcc0bc56f3d49,85.93842446775136,Café Gandolfi,4.5,67,££,64 Albion Street,"['Seafood', 'British']"
+ed8440d874a0b4205ddbcc0bc56f3d49,206.2587797260472,BrewDog DogHouse,4.5,48,££,99 Hutcheson Street,"['Pubs', 'Beer, Wine & Spirits', 'Barbeque']"
+ed8440d874a0b4205ddbcc0bc56f3d49,224.4544401745064,Hutchesons Bar & Brasserie,4.0,51,££,158 Ingram Street,"['Scottish', 'Seafood', 'Steakhouses']"
+ed8440d874a0b4205ddbcc0bc56f3d49,83.94671537794366,Paesano Pizza,4.5,154,££,94 Miller Street,"['Pizza', 'Italian']"
+ed8440d874a0b4205ddbcc0bc56f3d49,19.898869010915686,13th Note,4.0,85,££,50-60 King Street,"['Bars', 'Music Venues', 'Vegan']"
+ed8440d874a0b4205ddbcc0bc56f3d49,56.12844656411425,Mono,4.0,87,££,10-12 King's Court,"['Bars', 'Vegan', 'Music Venues']"
+ed8440d874a0b4205ddbcc0bc56f3d49,116.46676642772027,Russian Cafe-Gallery Cossachok,4.5,32,££,10 King Street,"['Russian', 'Ukrainian']"
+ed8440d874a0b4205ddbcc0bc56f3d49,48.99983580415026,The Wilson Street Pantry,4.5,88,£,6 Wilson Street,"['Cafes', 'Coffee & Tea', 'Breakfast & Brunch']"
+ed8440d874a0b4205ddbcc0bc56f3d49,54.506141062093064,Blackfriars,4.0,59,££,36 Bell Street,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,106.09317376756032,Gandolfi Fish To Go,4.5,28,££,84-86 Albion Street,['Seafood']
+ed8440d874a0b4205ddbcc0bc56f3d49,176.96026828273304,Babbity Bowster,4.0,33,££,16-18 Blackfriars Street,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,126.60635968966893,Brunswick Hotel,4.0,19,££,106 -108 Brunswick Street,"['Mediterranean', 'Italian']"
+ed8440d874a0b4205ddbcc0bc56f3d49,169.91902841432892,Italian Kitchen,4.0,33,££,64 Ingram Street,['Italian']
+ed8440d874a0b4205ddbcc0bc56f3d49,194.81768375067432,Rab Ha's,4.0,27,££,83 Hutcheson Street,"['Hotels', 'Pubs']"
+ed8440d874a0b4205ddbcc0bc56f3d49,104.40969892377748,The Butterfly and the Pig,4.5,285,££,153 Bath Street,"['Scottish', 'Pubs', 'Venues & Event Spaces']"
+ed8440d874a0b4205ddbcc0bc56f3d49,175.9334164145901,Qua Restaurant,4.0,24,££,68 Ingram Street,['Italian']
+ed8440d874a0b4205ddbcc0bc56f3d49,55.896159906737545,Trans-Europe Café,4.5,42,£,25 Parnie Street,"['Modern European', 'Cafes']"
+ed8440d874a0b4205ddbcc0bc56f3d49,15.97287539354508,The Dhabba,4.0,55,££,44 Candleriggs,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,64.94894830260665,Dakhin Indian Restaurant,4.0,24,££,89 Candleriggs,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,85.63300892846205,City Merchant Restaurant,4.0,23,££,97-99 Candleriggs,['Seafood']
+ed8440d874a0b4205ddbcc0bc56f3d49,111.31016773685108,Bread Meats Bread,4.5,19,££,701 Great Western Road,"['Burgers', 'American (New)', 'Sandwiches']"
+ed8440d874a0b4205ddbcc0bc56f3d49,96.92415555328824,Cail Bruich West,4.5,36,££,725 Great Western Road,"['Scottish', 'British']"
+ed8440d874a0b4205ddbcc0bc56f3d49,247.9344604468114,Ubiquitous Chip,4.5,154,£££,8-12 Ashton Lane,"['Bars', 'Scottish', 'British']"
+ed8440d874a0b4205ddbcc0bc56f3d49,107.18836836235869,Oran Mor,3.5,130,££,731 Great Western Road,"['Pubs', 'Scottish', 'Venues & Event Spaces']"
+ed8440d874a0b4205ddbcc0bc56f3d49,284.3963736167534,Stravaigin,4.5,100,££,28 Gibson Street,"['Scottish', 'Gastropubs']"
+ed8440d874a0b4205ddbcc0bc56f3d49,196.89625402506962,Hillhead Bookclub,3.5,74,££,17 Vinicombe Street,"['Bars', 'Scottish']"
+ed8440d874a0b4205ddbcc0bc56f3d49,286.98543210681237,Old Salty's,4.0,33,£,337 Byres Road,['Fish & Chips']
+ed8440d874a0b4205ddbcc0bc56f3d49,114.05464989907792,Number 16 Restaurant,4.5,48,££,16 Byres Road,['British']
+ed8440d874a0b4205ddbcc0bc56f3d49,329.46244249572334,Zizzi,4.0,30,££,8 Cresswell Lane,['Italian']
+ed8440d874a0b4205ddbcc0bc56f3d49,305.75647935416885,Cafe Andaluz,3.5,44,££,2 Cresswell Lane,['Spanish']
+ed8440d874a0b4205ddbcc0bc56f3d49,291.46607461047427,Papercup Coffee Company,4.5,64,£,603 Great Western Road,"['Breakfast & Brunch', 'Coffee Roasteries']"
+ed8440d874a0b4205ddbcc0bc56f3d49,196.6475782510576,Brel,4.0,74,££,39 Ashton Lane,"['Belgian', 'Bars']"
+ed8440d874a0b4205ddbcc0bc56f3d49,157.3708277746987,Bo'Vine Meats & Wines,4.0,20,£££,385 Byres Road,"['Wine Bars', 'Breakfast & Brunch']"
+ed8440d874a0b4205ddbcc0bc56f3d49,334.69175287239494,The Hanoi Bike Shop,4.0,119,££,8 Ruthven Lane,['Vietnamese']
+ed8440d874a0b4205ddbcc0bc56f3d49,324.2526540341933,Bothy Restaurant,4.0,42,££,11 Ruthven Lane,"['Nightlife', 'British', 'Scottish']"
+ed8440d874a0b4205ddbcc0bc56f3d49,304.33495534100024,The Curler's Rest,3.5,78,££,256-260 Byres Road,"['Pubs', 'Gastropubs']"
+ed8440d874a0b4205ddbcc0bc56f3d49,213.25365821929327,Glasgow Botanic Gardens,4.5,60,,730 Great Western Road,['Parks']
+ed8440d874a0b4205ddbcc0bc56f3d49,158.93768920045048,Nic's NYC Deli,4.0,23,£,396 Byres Road,"['Hot Dogs', 'Donuts', 'American (New)']"
+ed8440d874a0b4205ddbcc0bc56f3d49,122.10758122816142,Naked Soup,4.0,24,£,6 Kersland Street,"['Soup', 'Coffee & Tea']"
+ed8440d874a0b4205ddbcc0bc56f3d49,152.45331924942673,The Crafty Pig,4.0,23,£,502 Great Western Road,"['Pubs', 'Barbeque']"
+ed8440d874a0b4205ddbcc0bc56f3d49,253.73963902297567,Cubatas Tapas Bar,4.5,32,££,108 Elderslie Street,"['Spanish', 'Tapas Bars']"
+ed8440d874a0b4205ddbcc0bc56f3d49,70.68889375842129,Bon Accord,4.5,38,££,153 North Street,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,186.72872357349982,McPhabbs,4.0,47,££,23 Sandyford Place,"['Pubs', 'British']"
+ed8440d874a0b4205ddbcc0bc56f3d49,173.77913608913568,Nice N Sleazy,4.0,80,££,421 Sauchiehall Street,['Bars']
+ed8440d874a0b4205ddbcc0bc56f3d49,160.55986225826155,Nanakusa,4.0,72,££,441-449 Sauchiehall Street,"['Japanese', 'Sushi Bars']"
+ed8440d874a0b4205ddbcc0bc56f3d49,159.67812541563202,Akbar's,4.5,26,££,573-581 Sauchiehall Street,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,143.36382210302025,Chinaski's,4.5,43,££,239 North Street,['Bars']
+ed8440d874a0b4205ddbcc0bc56f3d49,101.61054003292469,Ox And Finch,4.5,106,££,920 Sauchiehall Street,"['Tapas/Small Plates', 'Scottish']"
+ed8440d874a0b4205ddbcc0bc56f3d49,212.49004431290294,Sichuan House,4.5,37,££,345-349 Sauchiehall Street,['Chinese']
+ed8440d874a0b4205ddbcc0bc56f3d49,225.91275792466757,Pickled Ginger,4.5,43,££,512 St Vincent Street,"['Sushi Bars', 'Japanese']"
+ed8440d874a0b4205ddbcc0bc56f3d49,146.2599687920748,Two Fat Ladies at The Buttery,4.5,50,£££,652-654 Argyle Street,['Seafood']
+ed8440d874a0b4205ddbcc0bc56f3d49,253.23890823403042,Singl-end Garnethill,4.5,67,££,265 Renfrew Street,"['Cafes', 'Bakeries', 'Breakfast & Brunch']"
+ed8440d874a0b4205ddbcc0bc56f3d49,247.56088180207053,Mini Grill,4.5,25,££,244a Bath Street,"['Pubs', 'Scottish', 'British']"
+ed8440d874a0b4205ddbcc0bc56f3d49,52.42346816481075,Stereo,4.5,99,£,20 Renfield Lane,"['Bars', 'Music Venues', 'Cafes']"
+ed8440d874a0b4205ddbcc0bc56f3d49,85.63411066887299,Crabshakk,4.5,55,£££,1114 Argyle Street,['Seafood']
+ed8440d874a0b4205ddbcc0bc56f3d49,75.86338715536856,Alston Bar & Beef,4.5,52,£££,Glasgow Central Station,"['Steakhouses', 'Cocktail Bars']"
+ed8440d874a0b4205ddbcc0bc56f3d49,194.31951509373968,Thairiffic,4.5,31,££,303 Sauchiehall Street,['Thai']
+ed8440d874a0b4205ddbcc0bc56f3d49,27.16995855713389,Bloc+,4.5,95,££,117 Bath Street,"['Pubs', 'Burgers', 'Pizza']"
+ed8440d874a0b4205ddbcc0bc56f3d49,402.8269424021361,Drygate Brewing Co,4.0,84,££,85 Drygate,"['Breweries', 'Scottish', 'Beer, Wine & Spirits']"
+ed8440d874a0b4205ddbcc0bc56f3d49,164.76285731125293,Bread Meats Bread,4.0,179,££,104 St Vincent Street,"['Burgers', 'Sandwiches', 'American (Traditional)']"
+ed8440d874a0b4205ddbcc0bc56f3d49,179.33994866615618,Chaakoo Bombay Cafe,4.5,38,£,79 Saint Vincent Street,"['Indian', 'Cafes']"
+ed8440d874a0b4205ddbcc0bc56f3d49,113.30541318245477,Rogano,4.5,50,££££,11 Exchange Place,['Seafood']
+ed8440d874a0b4205ddbcc0bc56f3d49,142.81031396132775,Rishi's Indian Aroma,4.5,40,££,61 Bath Street,"['Indian', 'Halal']"
+ed8440d874a0b4205ddbcc0bc56f3d49,181.64906303534931,Miller & Carter,4.5,25,£££,47 St Vincent Street,['Steakhouses']
+ed8440d874a0b4205ddbcc0bc56f3d49,124.7666058645068,The Anchor Line,4.0,31,£££,12-16 Saint Vincent Street,"['American (New)', 'Scottish', 'Steakhouses']"
+ed8440d874a0b4205ddbcc0bc56f3d49,181.53589522728177,Topolabamba,4.0,78,££,89 Saint Vincent Street,"['Mexican', 'Bars']"
+ed8440d874a0b4205ddbcc0bc56f3d49,211.24416905391504,Lychee Oriental,4.5,29,£££,59 Mitchell Street,['Chinese']
+ed8440d874a0b4205ddbcc0bc56f3d49,171.32464080028325,Shilling Brewing Company,4.5,28,££,92 West George Street,"['Breweries', 'Pubs']"
+ed8440d874a0b4205ddbcc0bc56f3d49,37.23650742133803,Laurieston Bar,4.5,18,£,58 Bridge Street,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,216.88279982570538,Bar Soba Mitchell Lane,4.0,53,££,11 Mitchell Lane,"['Japanese', 'Asian Fusion']"
+ed8440d874a0b4205ddbcc0bc56f3d49,905.107642653828,Riverhill Coffee Bar,4.5,86,££,24 Gordon Street,['Coffee & Tea']
+ed8440d874a0b4205ddbcc0bc56f3d49,34.98035888381558,Max's Bar & Grill,4.0,39,££,73 Queen Street,"['American (Traditional)', 'Bars']"
+ed8440d874a0b4205ddbcc0bc56f3d49,89.75659998311723,Ichiban,4.0,74,££,52 Queen Street,"['Japanese', 'Sushi Bars']"
+ed8440d874a0b4205ddbcc0bc56f3d49,237.23746476544719,Sloans,3.5,61,££,62 Argyll Arcade,"['Bars', 'American (Traditional)']"
+ed8440d874a0b4205ddbcc0bc56f3d49,99.4006139166054,The Chippy Doon The Lane,4.0,62,££,McCormick Lane,"['Fish & Chips', 'Seafood']"
+ed8440d874a0b4205ddbcc0bc56f3d49,159.19865096237103,The Flying Duck,4.0,48,£,142 Renfield Street,"['Bars', 'Vegan']"
+ed8440d874a0b4205ddbcc0bc56f3d49,116.96506665363958,Opium,4.5,32,££,191 Hope Street,"['Dim Sum', 'Asian Fusion']"
+ed8440d874a0b4205ddbcc0bc56f3d49,149.95920267010897,Banana Leaf,4.5,31,££,67 Cambridge Street,"['Malaysian', 'Chinese']"
+ed8440d874a0b4205ddbcc0bc56f3d49,160.7332670237302,The Pot Still,4.5,130,££,154 Hope Street,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,113.6411022751449,Hard Rock Cafe,3.5,41,££,179 Buchanan Street,"['American (Traditional)', 'Bars', 'Music Venues']"
+ed8440d874a0b4205ddbcc0bc56f3d49,192.8606034841678,The Raven,4.0,53,££,81-85 Renfield Street,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,97.36557015563042,Chaophraya,4.0,48,£££,The Townhouse,"['Lounges', 'Thai', 'Cocktail Bars']"
+ed8440d874a0b4205ddbcc0bc56f3d49,171.56753714283656,Nippon Kitchen,4.0,78,££,91 West George Street,['Japanese']
+ed8440d874a0b4205ddbcc0bc56f3d49,54.851479949953664,Saint Luke's And The Winged Ox,4.0,15,££,St Luke's,"['Bars', 'Chicken Wings', 'Gastropubs']"
+ed8440d874a0b4205ddbcc0bc56f3d49,93.60116081428615,Harrington's Restaurant,5.0,4,,19a West Main Street,"['Coffee & Tea', 'British']"
+ed8440d874a0b4205ddbcc0bc56f3d49,93.60116081428615,Greggs,5.0,1,,,"['Bakeries', 'Sandwiches']"
+ed8440d874a0b4205ddbcc0bc56f3d49,24.666959200097498,Pot & Kettle,3.0,1,£,16a Bridgeton Cross,['Coffee & Tea']
+ed8440d874a0b4205ddbcc0bc56f3d49,299.27691465467905,People's Palace and Winter Gardens,4.0,32,,Glasgow Green,"['Museums', 'Parks', 'Botanical Gardens']"
+ed8440d874a0b4205ddbcc0bc56f3d49,79.98743006622918,Sucre,4.0,4,£,13B Main Street,"['Breakfast & Brunch', 'British', 'Vegetarian']"
+ed8440d874a0b4205ddbcc0bc56f3d49,38.21943245445389,Christines,4.0,1,,32 Bridgeton Cross,['Delis']
+ed8440d874a0b4205ddbcc0bc56f3d49,847.7980132444037,Glasgow Green,4.5,26,,Greendyke Street,['Parks']
+ed8440d874a0b4205ddbcc0bc56f3d49,57.35500759501371,The Seven Ways,3.0,2,£,621 London Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,439.1446130217618,The Little Cake Parlour,4.5,4,££,408 White Studios,"['Bakeries', 'Patisserie/Cake Shop']"
+ed8440d874a0b4205ddbcc0bc56f3d49,74.68079552043594,New Jing Loon,2.5,2,,25 Dalmarnock Rd,"['Fast Food', 'Chinese']"
+ed8440d874a0b4205ddbcc0bc56f3d49,298.56838048431933,Super Cook,5.0,1,£,31 Dalmarnock Road,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,125.82749732587384,Dominion Bar,2.0,1,,46 Dalmarnock Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,660.4157056764337,Doulton Fountain,4.5,7,,Glasgow Green,['Local Flavor']
+ed8440d874a0b4205ddbcc0bc56f3d49,1391.4137552743377,Handmade Burger,3.5,17,££,Unit X4,['Burgers']
+ed8440d874a0b4205ddbcc0bc56f3d49,391.7692014604533,Treble Two Bar,4.0,2,£,222 Abercromby Street,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,359.01527787152537,The Bowlers Bar,4.0,1,,100 Tullis St,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,97.04618742538466,Winners Chinese Carry Out,3.0,1,,590 London Road,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,589.4580896585887,St Marys Church,4.0,3,,89 Abercromby Street,"['Local Flavor', 'Churches']"
+ed8440d874a0b4205ddbcc0bc56f3d49,834.1810107311602,Hielan Jessie,3.5,3,£,374 Gallowgate,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,141.68750027615337,Café Source,4.5,18,££,1 St Andrews Square,"['Pubs', 'Gastropubs']"
+ed8440d874a0b4205ddbcc0bc56f3d49,986.0426586921376,The Spanish Butcher,4.5,10,£££,80 Miller Street,"['Mediterranean', 'Steakhouses', 'Spanish']"
+ed8440d874a0b4205ddbcc0bc56f3d49,211.6332614043189,Wild Cabaret,4.0,25,£££,18 Candleriggs,"['Bars', 'Cabaret', 'Modern European']"
+ed8440d874a0b4205ddbcc0bc56f3d49,25.772152103279247,La Fiorentina,4.5,19,££,2 Paisley Road W,['Italian']
+ed8440d874a0b4205ddbcc0bc56f3d49,134.6925527778769,Nando's,4.0,30,££,Paisley Road West,"['Fast Food', 'Chicken Shop']"
+ed8440d874a0b4205ddbcc0bc56f3d49,208.78140004670735,King Tut's Wah Wah Hut,4.5,67,£,272 St Vincent Street,"['Pubs', 'Music Venues']"
+ed8440d874a0b4205ddbcc0bc56f3d49,390.5671958994702,India Quay,4.5,36,££,181 Finnieston Street,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,475.477705062925,The Fish People Cafe,4.5,14,£££,350a Scotland Street,"['Cafes', 'Seafood']"
+ed8440d874a0b4205ddbcc0bc56f3d49,154.44562508669108,The Shandon Belles,4.5,13,££,652-654 Argyle Street,"['British', 'Scottish']"
+ed8440d874a0b4205ddbcc0bc56f3d49,35.683593477,Istanbul Turkish,4.5,3,£,7 Paisley Road W,['Turkish']
+ed8440d874a0b4205ddbcc0bc56f3d49,213.2079283679261,Primal Roast,4.5,22,£,278 St Vincent Street,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,145.05257211191343,Panda Chinese Restaurant,3.0,19,££,Unit D3 Springfield Quay,['Chinese']
+ed8440d874a0b4205ddbcc0bc56f3d49,88.25870112595413,Home Style Authentic Indian Cusine,4.5,3,£,470 Paisley Road,"['Food Delivery Services', 'Indian']"
+ed8440d874a0b4205ddbcc0bc56f3d49,19.936998959458705,Frankie & Benny's,3.0,13,££,Springfield Quay,['American (Traditional)']
+ed8440d874a0b4205ddbcc0bc56f3d49,89.47007927417813,Glasgow Science Centre,4.0,52,,50 Pacific Quay,['Museums']
+ed8440d874a0b4205ddbcc0bc56f3d49,119.13681057035295,Creams Cafe,5.0,1,,Glasgow quay leisure park,"['Desserts', 'Ice Cream & Frozen Yogurt', 'Creperies']"
+ed8440d874a0b4205ddbcc0bc56f3d49,470.8879570078705,Scotland Street School Museums,4.5,11,,225 Scotland Street,['Museums']
+ed8440d874a0b4205ddbcc0bc56f3d49,36.43360640623786,Bite Me Sandwich Bar,5.0,8,£,383 Paisley Road W,"['Coffee & Tea', 'Sandwiches']"
+ed8440d874a0b4205ddbcc0bc56f3d49,106.99200545398195,Panda Hut,4.0,2,£,61-63 Paisley Road West,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,62.39000558872611,Malaga Tapas,4.5,12,££,215 St Andrews Road,"['Tapas/Small Plates', 'Spanish']"
+ed8440d874a0b4205ddbcc0bc56f3d49,34.91893378088811,The Ferry,4.0,9,££,25 Anderston Quay,"['British', 'Music Venues', 'Venues & Event Spaces']"
+ed8440d874a0b4205ddbcc0bc56f3d49,432.5312681038276,Clyde Arc Bridge,4.0,16,,Finnieston Street,['Landmarks & Historical Buildings']
+ed8440d874a0b4205ddbcc0bc56f3d49,74.58695263280269,ORO,4.0,34,££,85 Kilmarnock Road,"['Italian', 'Pizza']"
+ed8440d874a0b4205ddbcc0bc56f3d49,123.75481127474212,The Butterfly and the Pig,3.5,25,££,1039 Pollokshaws Road,"['Bars', 'Scottish', 'Gastropubs']"
+ed8440d874a0b4205ddbcc0bc56f3d49,27.614128070299557,The Glad Cafe,4.0,35,£,1006 Pollokshaws Road,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,240.23722140023546,The Rum Shack,4.5,22,££,657-659 Pollokshaws Road,"['Caribbean', 'Cocktail Bars']"
+ed8440d874a0b4205ddbcc0bc56f3d49,231.50687871732214,The Waverley Tea Room,3.0,25,££,18 Moss Side Road,"['Bars', 'Italian', 'British']"
+ed8440d874a0b4205ddbcc0bc56f3d49,31.928216181194802,Little India,4.0,7,££,71 Kilmarnock Road,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,133.57018588838676,The Granary,3.5,14,££,10 Kilmarnock Road,"['Pubs', 'Gastropubs']"
+ed8440d874a0b4205ddbcc0bc56f3d49,345.5423673677746,Ranjit's Kitchen,4.5,27,£,607 Pollokshaws Road,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,183.90179692935033,Cafe Strange Brew,4.5,13,£,1082 Pollokshaws Road,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,185.86200620104566,The Bungo,4.0,31,££,17-21 Nithsdale Road,"['Gastropubs', 'Breakfast & Brunch', 'Scottish']"
+ed8440d874a0b4205ddbcc0bc56f3d49,14.966896047044193,Baguette Express,4.0,2,,51 Kilmarnock Road,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,373.8998309605732,D'nisi,4.0,17,££,265 Kilmarnock Road,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,60.17195480765574,Di Maggios Pizzeria,3.5,16,££,1038 Pollokshaws Road,['Pizza']
+ed8440d874a0b4205ddbcc0bc56f3d49,234.02295899264837,The McMillan Southside,4.0,14,£££,862 Pollokshaws Road,"['Bars', 'Steakhouses', 'Scottish']"
+ed8440d874a0b4205ddbcc0bc56f3d49,152.00088246625418,Deli Zola,4.5,7,£,11 Skirving Street,"['Delis', 'Delicatessen', 'French']"
+ed8440d874a0b4205ddbcc0bc56f3d49,36.477300113554094,Pazzo,3.0,2,,69 Kilmarnock Road,['Italian']
+ed8440d874a0b4205ddbcc0bc56f3d49,136.06633484122872,Tapa Coffeehouse,4.5,26,££,721 Pollokshaws Road,['Coffee & Tea']
+ed8440d874a0b4205ddbcc0bc56f3d49,36.477300113554094,Lean Canteen,4.0,1,,69 Kilmarnock Road,"['Juice Bars & Smoothies', 'Breakfast & Brunch', 'Sandwiches']"
+ed8440d874a0b4205ddbcc0bc56f3d49,418.7218710027884,Queens Park,4.5,29,,520 Langside Road,['Parks']
+ed8440d874a0b4205ddbcc0bc56f3d49,32.981959720121715,James Tassie,2.5,5,,63-65 Kilmarnock Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,22.31638035720918,The Burrell,3.5,11,££,1534 Pollokshaws Road,"['Pubs', 'British']"
+ed8440d874a0b4205ddbcc0bc56f3d49,126.80596428744116,The Burrell Collection,4.5,34,£,Pollok Country Park,"['Museums', 'Cafes']"
+ed8440d874a0b4205ddbcc0bc56f3d49,349.41093025180146,Pollok Country Park,4.5,46,,2060 Pollokshaws Road,['Parks']
+ed8440d874a0b4205ddbcc0bc56f3d49,640.7276102164968,Loks Bar & Kitchen,4.0,8,££,16 Newlandsfield Road,"['Bars', 'British']"
+ed8440d874a0b4205ddbcc0bc56f3d49,659.709636514756,Newlands Cafe,4.5,14,£,262 Kilmarnock Road,"['Cafes', 'Candy Stores', 'Ice Cream & Frozen Yogurt']"
+ed8440d874a0b4205ddbcc0bc56f3d49,286.4466109800466,Pollok House Restaurant,4.0,1,££,2060 Pollokshaws Rd,"['Breakfast & Brunch', 'Soup', 'Sandwiches']"
+ed8440d874a0b4205ddbcc0bc56f3d49,274.5522201129684,Pollokshields Burgh Hall,2.5,3,,Lesley Paddison,"['Venues & Event Spaces', 'Landmarks & Historical Buildings']"
+ed8440d874a0b4205ddbcc0bc56f3d49,632.7618626533358,Newlands Home Bakery,4.0,5,£,238-240 Kilmarnock Road,['Bakeries']
+ed8440d874a0b4205ddbcc0bc56f3d49,219.73399741273178,old stag inn,2.0,1,££,12 Greenview Street,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,286.4466109800466,Gatekeeper's Building,4.0,1,,Pollok Country Park,['Landmarks & Historical Buildings']
+ed8440d874a0b4205ddbcc0bc56f3d49,680.5831433949911,Sir John Stirling Maxwell,3.0,16,£,140 Kilmarnock Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,607.6335767134219,Crystal Castle,4.5,4,££,1307 Pollokshaws Road,"['Fast Food', 'Chinese']"
+ed8440d874a0b4205ddbcc0bc56f3d49,666.7178760059193,Tao Southside,4.0,2,££,162-164 Kilmarnock Road,['Chinese']
+ed8440d874a0b4205ddbcc0bc56f3d49,132.7833964036835,Celino's,4.5,35,££,620-624 Alexandra Parade,"['Delis', 'Italian', 'Ice Cream & Frozen Yogurt']"
+ed8440d874a0b4205ddbcc0bc56f3d49,167.31338791177654,Nakodar Grill,4.5,23,££,13 Annfield Place,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,234.27076637248575,Tibo,4.0,35,££,443 Duke Street,"['British', 'Cafes']"
+ed8440d874a0b4205ddbcc0bc56f3d49,149.66174985034064,Dennistoun Bar-B-Que,4.0,33,££,585 Duke Street,"['Barbeque', 'Burgers', 'Fast Food']"
+ed8440d874a0b4205ddbcc0bc56f3d49,320.79423906141307,Coia's Cafe,4.0,38,££,477 Duke Street,"['Cafes', 'Delis']"
+ed8440d874a0b4205ddbcc0bc56f3d49,59.93607477804492,Stan's Studio,5.0,3,£,43 Alexandra Park Street,"['Cafes', 'Coffee & Tea']"
+ed8440d874a0b4205ddbcc0bc56f3d49,179.41925832666664,All In One,4.0,5,£,12 Marne Street,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,335.1528002062729,Tapa Bakehouse,4.0,24,££,21 Whitehill Street,"['Bakeries', 'Organic Stores']"
+ed8440d874a0b4205ddbcc0bc56f3d49,269.0145099298243,Cafe Zecchino,4.5,5,£,331 - 335 Cumbernauld Road,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,143.59967370314928,Bennys Fish & Chicken Bar,3.5,7,££,693 Alexandra Parade,['Fish & Chips']
+ed8440d874a0b4205ddbcc0bc56f3d49,64.7616746103389,Redmond's,4.0,13,£,304 Duke Street,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,370.7921812733582,Amore D'Italia,4.5,3,£,506 Alexandra Parade,['Italian']
+ed8440d874a0b4205ddbcc0bc56f3d49,398.3187997446275,Poa San Restaurant,4.0,7,£,402 Cumbernauld Road,['Chinese']
+ed8440d874a0b4205ddbcc0bc56f3d49,130.36673510490348,Zen,4.0,1,,Alexandra parade,"['Fast Food', 'Chinese']"
+ed8440d874a0b4205ddbcc0bc56f3d49,497.37959265231984,Alexandra Park,4.5,12,,10 Sannox Gardens,['Parks']
+ed8440d874a0b4205ddbcc0bc56f3d49,293.9265920559157,The Duchess of Duke Street,4.0,7,££,380 Duke Street,"['Bars', 'Restaurants']"
+ed8440d874a0b4205ddbcc0bc56f3d49,255.32648997208588,Swallow Cafe,2.0,6,,582 Alexandra Parade,"['Coffee & Tea', 'Fast Food']"
+ed8440d874a0b4205ddbcc0bc56f3d49,344.27858829337566,Neptune Fish & Chips Dennistoun,4.0,6,£,6 Whitehill Street,"['Fish & Chips', 'Pizza', 'Kebab']"
+ed8440d874a0b4205ddbcc0bc56f3d49,149.8205033171064,Lee Wah,3.0,2,,699 Alexandra Parade,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,396.4320145273301,Baking For You,3.0,1,,398-400 Cumbernauld Road,['Bakeries']
+ed8440d874a0b4205ddbcc0bc56f3d49,231.24697494740073,Caffe Euro,4.0,7,£,549 Duke Street,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,57.62340385017871,Crown Creighton,3.5,2,££,476-480 Duke Street,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,224.38324816323282,Black Vanilla,3.5,5,£,553 Duke Street,"['Desserts', 'Candy Stores']"
+ed8440d874a0b4205ddbcc0bc56f3d49,212.71984500528814,Subway,4.0,1,,557 Duke St,['Sandwiches']
+ed8440d874a0b4205ddbcc0bc56f3d49,89.68688000673403,The Alexandra,4.0,1,,470 Duke Street,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,212.5586142822877,Claudios Fast Food,3.5,5,£,416 Duke Street,['Fish & Chips']
+ed8440d874a0b4205ddbcc0bc56f3d49,175.29450950641154,Mesa,3.5,2,,567 Duke Street,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,313.29899227305185,The Palais,3.0,2,,380 Duke Street,"['Bars', 'British']"
+ed8440d874a0b4205ddbcc0bc56f3d49,175.10469213474926,Gills Coffee House,4.0,1,,567 Duke Street,['Coffee & Tea']
+ed8440d874a0b4205ddbcc0bc56f3d49,75.93573868082537,Happy Day,2.0,3,,629 Duke Street,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,198.9923473689342,Gamba,4.5,40,£££,225a West George Street,"['Seafood', 'British']"
+ed8440d874a0b4205ddbcc0bc56f3d49,79.47710824097653,The Grill On the Corner,3.5,67,£££,21-25 Bothwell Street,"['Steakhouses', 'Seafood']"
+ed8440d874a0b4205ddbcc0bc56f3d49,288.65796171023226,Gusto,4.0,24,££,14-18 Bothwell Street,"['Pizza', 'Italian']"
+ed8440d874a0b4205ddbcc0bc56f3d49,115.49758274110064,The Admiral,4.0,18,£,72a Waterloo Street,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,1376.8990061380355,Buck's Bar,4.0,13,££,111 W Regent Street,"['Bars', 'Chicken Wings']"
+ed8440d874a0b4205ddbcc0bc56f3d49,88.32918798765036,La Lanterna,4.0,21,££,35 Hope Street,['Italian']
+ed8440d874a0b4205ddbcc0bc56f3d49,34.819131890331235,Springfield Quay Harvester,2.5,12,££,Springfield Quay,['British']
+ed8440d874a0b4205ddbcc0bc56f3d49,1099.123150027096,Viva Brazil,3.5,51,£££,87-91 Bothwell Street,['Brazilian']
+ed8440d874a0b4205ddbcc0bc56f3d49,83.50818683118615,Meat Bar,4.0,61,££,142 West Regent Street,"['Bars', 'Burgers', 'Steakhouses']"
+ed8440d874a0b4205ddbcc0bc56f3d49,225.61820474652095,Saramago at the CCA,4.0,43,££,350 Sauchiehall Street,"['Cafes', 'Bars', 'Vegan']"
+ed8440d874a0b4205ddbcc0bc56f3d49,138.06965277955928,Two Fat Ladies,4.5,28,£££,118a Blythswood Street,['Seafood']
+ed8440d874a0b4205ddbcc0bc56f3d49,160.9712263849843,Slouch,4.0,43,££,203-205 Bath Street,['Lounges']
+ed8440d874a0b4205ddbcc0bc56f3d49,98.35865495018773,Red Onion,4.0,50,££,257 W Campbell Street,"['Brasseries', 'Wine Bars']"
+ed8440d874a0b4205ddbcc0bc56f3d49,167.3721199945351,The Tiki Bar & Kitsch Inn,4.0,64,££,214 Bath Street,"['Thai', 'Tiki Bars', 'Cocktail Bars']"
+ed8440d874a0b4205ddbcc0bc56f3d49,99.22324255911794,The Tea Rooms,4.0,38,££,151 Bath Street,"['Tea Rooms', 'British', 'Sandwiches']"
+ed8440d874a0b4205ddbcc0bc56f3d49,175.4557770350696,Cafe Antipasti,4.0,33,££,305 Sauchiehall Street,"['Italian', 'Coffee & Tea']"
+ed8440d874a0b4205ddbcc0bc56f3d49,21.637800337293495,Sapori d'Italia,5.0,16,££,1021 Cathcart Road,['Italian']
+ed8440d874a0b4205ddbcc0bc56f3d49,63.25688251029322,Battlefield Rest,4.5,27,££,55 Battlefield Road,"['Italian', 'Brasseries']"
+ed8440d874a0b4205ddbcc0bc56f3d49,19.16373356582516,Hooked,4.5,17,£,1027 Cathcart Road,['Fish & Chips']
+ed8440d874a0b4205ddbcc0bc56f3d49,464.40108001536964,Clockwork Beer Co,3.5,41,££,1153-1155 Cathcart Road,"['Pubs', 'Gastropubs']"
+ed8440d874a0b4205ddbcc0bc56f3d49,19.857162340993792,New Pearl India,5.0,4,,1021 Cathcart Road,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,154.20077819574158,Shezan Tandoori,4.5,8,££,1096 Cathcart Road,"['Indian', 'Pakistani']"
+ed8440d874a0b4205ddbcc0bc56f3d49,117.05967162340693,Tinto Tapas Bar,3.5,26,££,138 Battlefield Road,"['Tapas Bars', 'Spanish']"
+ed8440d874a0b4205ddbcc0bc56f3d49,40.88085695661441,New York Jacks,4.5,3,££,1009 Cathcart Road,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,28.859921092920473,Loafers,2.5,4,,10 Clincart Rd,"['Sandwiches', 'Coffee & Tea', 'Delis']"
+ed8440d874a0b4205ddbcc0bc56f3d49,194.60086377572944,Stefano's Pizzeria,4.0,6,,1108 Cathcart Road,['Pizza']
+ed8440d874a0b4205ddbcc0bc56f3d49,107.08375148277197,Milk Cafe,5.0,10,£,452 Victoria Road,"['Cafes', 'Community Service/Non-Profit']"
+ed8440d874a0b4205ddbcc0bc56f3d49,229.1936670703516,Wee China,4.0,5,,1106 Cathcart Rd,"['Malaysian', 'Thai', 'Chinese']"
+ed8440d874a0b4205ddbcc0bc56f3d49,294.0051419059588,Arturo's Deli,4.5,2,£,1 Carmunnock Road,"['Delicatessen', 'Coffee & Tea', 'Portuguese']"
+ed8440d874a0b4205ddbcc0bc56f3d49,147.4853384015582,Frosoulla's,3.5,11,££,33 Sinclair Drive,['Greek']
+ed8440d874a0b4205ddbcc0bc56f3d49,117.38146240661136,Gusto & Relish,4.0,17,£,729-731 Pollokshaws Road,"['Delis', 'Cafes', 'Breakfast & Brunch']"
+ed8440d874a0b4205ddbcc0bc56f3d49,82.45094606354382,Minnesota Fats,5.0,1,,1055 Cathcart Road,"['Pool Halls', 'Bars']"
+ed8440d874a0b4205ddbcc0bc56f3d49,145.5946342623499,Allison Arms,4.0,16,£,720 Pollokshaws Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,509.7094564236571,Da Vinci Takeaway,4.0,7,££,126 Holmlea Road,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,94.44659795596196,SeeWoo Restaurant,3.5,9,££,The Point,['Chinese']
+ed8440d874a0b4205ddbcc0bc56f3d49,142.9548301701127,Black Sheep Bistro,5.0,14,££,10 Clarendon Street,['British']
+ed8440d874a0b4205ddbcc0bc56f3d49,181.33955770549284,Ka Ka Lok,4.5,23,££,175 Saint Georges Road,['Chinese']
+ed8440d874a0b4205ddbcc0bc56f3d49,226.56108606647805,Yelp Event: Food Photography & Styling Masterclass at Ocho,5.0,13,,Ocho,['Yelp Events']
+ed8440d874a0b4205ddbcc0bc56f3d49,1073.650201099361,Chinatown Restaurant Glasgow,3.5,15,££,42-66 New City Rd,['Chinese']
+ed8440d874a0b4205ddbcc0bc56f3d49,1281.0110628898449,Asian Gourmet,4.0,11,££,17 West Princes Street,['Chinese']
+ed8440d874a0b4205ddbcc0bc56f3d49,649.5644223707496,Ocho,4.0,3,££,8 Speirs Wharf,"['Scottish', 'Breakfast & Brunch', 'Vegan']"
+ed8440d874a0b4205ddbcc0bc56f3d49,1260.3650591686535,Asiama,4.5,6,,185 St Georges Road,['Asian Fusion']
+ed8440d874a0b4205ddbcc0bc56f3d49,1197.985662104592,Surface+ Café,4.0,4,££,91-93 Great Western Road,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,645.5864771734736,Forth & Clyde Canal,4.0,6,,Start at Speirs Wharf,['Local Flavor']
+ed8440d874a0b4205ddbcc0bc56f3d49,532.2412871405933,Street Food Putter Club,3.5,3,,Warehouse,"['Golf', 'Burgers']"
+ed8440d874a0b4205ddbcc0bc56f3d49,1071.22197227427,Rawnchy,4.0,1,,58 Maryhill Rd,"['Coffee & Tea', 'Desserts', 'Patisserie/Cake Shop']"
+ed8440d874a0b4205ddbcc0bc56f3d49,701.4392874514207,China Court Bakery,5.0,2,£,265-267 Garscube Road,['Bakeries']
+ed8440d874a0b4205ddbcc0bc56f3d49,282.4544200702025,Up On The Hill,2.0,1,,26 Eagle Street,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,367.0659508320242,Spring Park Bar,4.0,1,,439 Keppochhill Road,['Bars']
+ed8440d874a0b4205ddbcc0bc56f3d49,1073.650201099361,Wahkee Bakery,5.0,2,,Dundas Business Centre,['Bakeries']
+ed8440d874a0b4205ddbcc0bc56f3d49,810.5030064149703,Cube Cafe,4.0,1,,675 Garscube Road,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,296.12120743294713,Amber's Cafe,4.0,1,,18 Balmore Road,"['Cafes', 'Delis']"
+ed8440d874a0b4205ddbcc0bc56f3d49,1058.6057067607394,Posh Nosh,4.0,1,,86 Maryhill Road,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,1078.7950533949465,Chan's Chinese Takeaway,5.0,1,,38 Clarendon Place,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,303.7938595841155,The Left Bank,4.0,66,££,33-35 Gibson Street,"['Wine Bars', 'Breakfast & Brunch', 'Cocktail Bars']"
+ed8440d874a0b4205ddbcc0bc56f3d49,172.1983018181791,Shish Mahal,4.5,28,££,66-68 Park Road,"['Indian', 'Pakistani']"
+ed8440d874a0b4205ddbcc0bc56f3d49,223.22235424238644,The Hug & Pint,4.5,30,£,171 Great Western Road,"['Bars', 'Music Venues']"
+ed8440d874a0b4205ddbcc0bc56f3d49,155.69265442962475,Paradise,4.0,34,££,411-413 Great Western Road,['Persian/Iranian']
+ed8440d874a0b4205ddbcc0bc56f3d49,176.9719201617298,Eusebi Deli,4.0,32,££,152 Park Road,"['Delicatessen', 'Italian']"
+ed8440d874a0b4205ddbcc0bc56f3d49,219.8025745050188,Lupe Pintos Deli,4.5,34,££,313 Great Western Road,['Delis']
+ed8440d874a0b4205ddbcc0bc56f3d49,25.33587217353226,Inn Deep,4.0,51,££,445 Great Western Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,103.33847753131927,Cottonrake,4.5,42,££,497 Great Western Road,['Bakeries']
+ed8440d874a0b4205ddbcc0bc56f3d49,201.17918873770125,Wudon,4.0,46,££,535 Great Western Road,"['Japanese', 'Sushi Bars']"
+ed8440d874a0b4205ddbcc0bc56f3d49,261.0499156449381,Munro's,3.5,30,££,185 Great Western Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,251.2555541152962,Tchai-Ovna House of Tea,4.0,62,££,42 Otago Lane,"['Vegetarian', 'Tea Rooms', 'Hookah Bars']"
+ed8440d874a0b4205ddbcc0bc56f3d49,255.1469619612895,The Lansdowne Bar & Kitchen,3.5,26,££,7a Lansdowne Crescent,['Gastropubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,1101.6576811476684,Artisan Roast,4.0,68,£,15-17 Gibson Street,"['Coffee & Tea', 'Cafes']"
+ed8440d874a0b4205ddbcc0bc56f3d49,83.3230130141704,Paesano Pizza,4.5,9,££,471 Great Western Road,['Pizza']
+ed8440d874a0b4205ddbcc0bc56f3d49,1042.961318192738,Chillies West End,4.5,15,££,176-182 Woodlands Road,"['Fast Food', 'Indian', 'Pakistani']"
+ed8440d874a0b4205ddbcc0bc56f3d49,455.34295484786503,The Yarn Cake,4.5,12,££,148 Queen Margaret Drive,"['Coffee & Tea', 'Knitting Supplies']"
+ed8440d874a0b4205ddbcc0bc56f3d49,510.7351118162492,Smile Café,4.5,16,£,102 Queen Margaret Drive,"['Breakfast & Brunch', 'Cafes']"
+ed8440d874a0b4205ddbcc0bc56f3d49,505.07972477297716,North Star Café & Bistro,4.5,20,£,108 Queen Margaret Drive,"['Bistros', 'Cafes']"
+ed8440d874a0b4205ddbcc0bc56f3d49,976.8288264142781,The Belle,4.0,30,££,617 Great Western Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,1007.916184249772,BRGR,3.5,24,£,526 Great Western Road,['Burgers']
+ed8440d874a0b4205ddbcc0bc56f3d49,963.7751698606877,Loop & Scoop,4.5,7,££,665 Great Western Road,['Ice Cream & Frozen Yogurt']
+ed8440d874a0b4205ddbcc0bc56f3d49,525.7123988779407,William Cafe,4.0,9,£,94 Queen Margaret Drive,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,670.941495788388,River Kelvin Walkway,5.0,12,,,"['Local Flavor', 'Landmarks & Historical Buildings', 'Parks']"
+ed8440d874a0b4205ddbcc0bc56f3d49,58.797678737335325,Happy Date,2.0,1,,150 Saracen Street,['Chinese']
+ed8440d874a0b4205ddbcc0bc56f3d49,201.6935209878628,Spicy Bite,1.0,1,,219-221 Saracen Street,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,870.130326967687,Flames All In One,5.0,1,££,135-139 Ashfield Street,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,856.8541006511888,Ashfield Bar,3.0,2,,404 Hawthorn Street,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,1342.063317855113,Thistle,3.0,2,££,94-8 Maryhill Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,914.8574371609411,Vito's,1.5,2,£,419 Hawthorn Street,['Fish & Chips']
+ed8440d874a0b4205ddbcc0bc56f3d49,891.026260759071,Tower Bar,2.5,2,,8 Possil Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,925.1195844052243,Star & Garter,2.0,2,,687 Garscube Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,1321.5834453666114,Marco's FishBar,1.0,1,,116 Maryhill Road,['Fish & Chips']
+ed8440d874a0b4205ddbcc0bc56f3d49,1304.1240530299517,Royalty Ale House,2.5,2,,144 Maryhill Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,392.46912914220593,The Forge Market,4.0,6,£,1201 Duke St,"['Market Stalls', 'Indoor Playcentre', 'Food Court']"
+ed8440d874a0b4205ddbcc0bc56f3d49,178.81921516891325,Bensons,2.5,3,££,Unit 44- 46,"['Coffee & Tea', 'Desserts', 'Fish & Chips']"
+ed8440d874a0b4205ddbcc0bc56f3d49,108.21764702923764,Old Black Bull,5.0,1,,1316-1318 Gallowgate,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,198.96871007554154,McDonald's,3.5,2,££,Forge,"['Fast Food', 'Burgers']"
+ed8440d874a0b4205ddbcc0bc56f3d49,137.6298671296766,KFC,3.0,2,£,2 Forge Shopping Centre,"['Fast Food', 'Chicken Shop', 'Chicken Wings']"
+ed8440d874a0b4205ddbcc0bc56f3d49,198.9687100746388,McChans,3.0,1,,Unit 55 Forge Shopping Centre,['Chinese']
+ed8440d874a0b4205ddbcc0bc56f3d49,198.9687100746388,BB's Coffee and Muffins,3.0,1,,The Forge Shopping Centre,['Coffee & Tea']
+ed8440d874a0b4205ddbcc0bc56f3d49,256.59576668492167,Kerrydale Bar,2.5,3,,Celtic Park,['Sports Bars']
+ed8440d874a0b4205ddbcc0bc56f3d49,258.8775685091727,Glasgow 2014 Athletes' Village,5.0,1,,Springfield Road,['Local Flavor']
+ed8440d874a0b4205ddbcc0bc56f3d49,279.7252733081867,Rab Haws Kitchens,5.0,2,,111 Helenvale Street,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,323.72961935168144,The Bank,3.0,1,,1450 Gallowgate,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,723.7652360859225,Pizza Hut,2.5,3,,Unit 2 921 Gallowgate,"['Pizza', 'Italian']"
+ed8440d874a0b4205ddbcc0bc56f3d49,896.5565065561872,British Bakeries,4.0,1,,783 Duke St,['Bakeries']
+ed8440d874a0b4205ddbcc0bc56f3d49,122.00325182295674,Porter & Rye,4.5,28,£££,1131 Argyle Street,['Steakhouses']
+ed8440d874a0b4205ddbcc0bc56f3d49,138.1601579695611,Mother India,4.5,73,££,28 Westminster Terrace,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,273.3183740326769,Bibi's,4.5,52,££,599 Dumbarton Road,['Mexican']
+ed8440d874a0b4205ddbcc0bc56f3d49,42.69190257090188,St Louis,3.5,16,££,734 Dumbarton Road,"['Bars', 'Cafes']"
+ed8440d874a0b4205ddbcc0bc56f3d49,382.56862272795894,6 Degrees North,4.5,20,££,566 Dumbarton Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,15.687509891726089,The Thornwood,4.5,8,£,724 Dumbarton Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,288.6526409043899,Wee Lochan,5.0,15,£££,340 Crow Road,['Scottish']
+ed8440d874a0b4205ddbcc0bc56f3d49,236.32652153316172,Roastit Bubbly Jocks,4.5,22,££,450 Dumbarton Road,"['Scottish', 'Seafood', 'Bistros']"
+ed8440d874a0b4205ddbcc0bc56f3d49,312.6461563709813,Meadow Road,4.5,25,£,579 Dumbarton Road,"['Coffee & Tea', 'Delis']"
+ed8440d874a0b4205ddbcc0bc56f3d49,54.27189121745523,Epicures of Hyndland,3.5,49,££,159 Hyndland Road,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,61.9920897281133,Ceqwa,4.0,6,£,692 Dumbarton Road,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,150.0839926948965,Grillicious Partick,3.5,8,£,643 Dumbarton Road,['Mediterranean']
+ed8440d874a0b4205ddbcc0bc56f3d49,159.92835825321268,The Hyndland Fox,3.5,30,££,43 Clarence Drive,"['Cafes', 'Scottish', 'Bars']"
+ed8440d874a0b4205ddbcc0bc56f3d49,53.611629367457915,Riverside Museum,4.0,45,,100 Pointhouse Place,['Museums']
+ed8440d874a0b4205ddbcc0bc56f3d49,139.28230399703145,Deoch an Dorus,4.0,10,£,427-429 Dumbarton Road,['Bars']
+ed8440d874a0b4205ddbcc0bc56f3d49,499.0595258043056,The Hyndland Cafe,4.0,17,£,96 Clarence Drive,"['Coffee & Tea', 'Breakfast & Brunch', 'British']"
+ed8440d874a0b4205ddbcc0bc56f3d49,79.45925272408029,Nick's Italian Kitchen & Bar,3.5,19,££,168 Hyndland Road,['Italian']
+ed8440d874a0b4205ddbcc0bc56f3d49,250.3540374490785,Cafe Circa,5.0,5,£,322 Crow Road,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,67.24170767024287,Cafe Avanti,4.0,9,£,24-26 Merkland Street,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,248.65722018647415,Victoria Park,4.5,17,,12 Victoria Park Drive North,['Landmarks & Historical Buildings']
+ed8440d874a0b4205ddbcc0bc56f3d49,512.6239223525649,The Manchurian,3.0,15,££,494 Dumbarton Road,"['Chinese', 'Bars']"
+ed8440d874a0b4205ddbcc0bc56f3d49,94.4168900293136,Roscoe's Deli Bar,5.0,8,££,23 Clarence Drive,"['Delicatessen', 'Gluten-Free']"
+ed8440d874a0b4205ddbcc0bc56f3d49,238.78488438448335,Cafezique,4.0,52,££,70-72 Hyndland Street,"['Delis', 'Breakfast & Brunch']"
+ed8440d874a0b4205ddbcc0bc56f3d49,175.91279066662548,Kimchi Cult,4.5,44,£,14 Chancellor Street,['Korean']
+ed8440d874a0b4205ddbcc0bc56f3d49,47.41138317798346,The Sparkle Horse,4.0,44,££,16 Dowanhill Street,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,105.16547112077481,Kelvingrove Art Gallery & Museum,4.5,153,,Argyle Street,['Museums']
+ed8440d874a0b4205ddbcc0bc56f3d49,215.45027389443112,Kember & Jones,4.5,51,££,134 Byres Road,"['Breakfast & Brunch', 'Bakeries', 'Cafes']"
+ed8440d874a0b4205ddbcc0bc56f3d49,247.35095947931458,Ashoka,4.5,43,££,19 Ashton Lane,"['Indian', 'Fast Food']"
+ed8440d874a0b4205ddbcc0bc56f3d49,234.24915155237073,The Wee Curry Shop,4.5,27,££,29 Ashton Lane,"['Indian', 'Pakistani']"
+ed8440d874a0b4205ddbcc0bc56f3d49,202.23102238782755,Balbir's,4.5,35,££,7 Church Street,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,104.0031494266433,Scotia Bar,4.0,27,£,112 Stockwell Street,"['Pubs', 'Music Venues', 'Gastropubs']"
+ed8440d874a0b4205ddbcc0bc56f3d49,156.0723291347581,Mussel Inn,4.0,37,££,157 Hope Street,"['Seafood', 'Scottish', 'British']"
+ed8440d874a0b4205ddbcc0bc56f3d49,36.665449850570226,Papa Johns,3.5,4,£,273 Duke Street,"['Food Delivery Services', 'Pizza']"
+ed8440d874a0b4205ddbcc0bc56f3d49,27.83734672010532,Grants The Bakers,5.0,4,£,100 Bellgrove St,['Bakeries']
+ed8440d874a0b4205ddbcc0bc56f3d49,201.1025667060475,Cathedral House Hotel,4.0,15,££,28-32 Cathedral Square,"['Hotels', 'Scottish']"
+ed8440d874a0b4205ddbcc0bc56f3d49,112.19992340113829,Lidl,3.5,6,£,285 Duke Street,"['Grocery', 'Bakeries']"
+ed8440d874a0b4205ddbcc0bc56f3d49,38.14055011278121,Oriental Cuisine,2.5,3,£,292 Duke Street,"['Fast Food', 'Chinese', 'Thai']"
+ed8440d874a0b4205ddbcc0bc56f3d49,160.7408605454104,Winners,2.0,2,£,140 Sword Street,['Chinese']
+ed8440d874a0b4205ddbcc0bc56f3d49,153.38336444583933,Amore Ristorante e Pizzeria,3.5,31,££,30 Ingram Street,"['Italian', 'Pizza']"
+ed8440d874a0b4205ddbcc0bc56f3d49,150.41930074042253,Sapporo Teppanyaki,3.5,33,£££,2-6 Ingram Street,"['Japanese', 'Sushi Bars']"
+ed8440d874a0b4205ddbcc0bc56f3d49,171.75204525479253,Obsession of India,5.0,13,,25 High Street,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,1198.197290106363,Merchant Square,4.5,21,,71 Albion Street,['Local Flavor']
+ed8440d874a0b4205ddbcc0bc56f3d49,1230.200375040488,Metropolitan,3.5,38,££,60 Candleriggs,"['Lounges', 'Champagne Bars', 'Cocktail Bars']"
+ed8440d874a0b4205ddbcc0bc56f3d49,1018.7841624651801,Maggie May's,3.5,41,££,60 Trongate,"['Bars', 'Music Venues', 'Dance Clubs']"
+ed8440d874a0b4205ddbcc0bc56f3d49,965.9041145709484,Tron Theatre,4.0,12,££,63 Trongate,"['Performing Arts', 'Bars', 'Scottish']"
+ed8440d874a0b4205ddbcc0bc56f3d49,1045.107352387105,Cafe India,4.5,8,££,29 Albion Street,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,1195.856649238708,Khublai Khan's,3.5,32,££,26 Candleriggs,['Mongolian']
+ed8440d874a0b4205ddbcc0bc56f3d49,1180.9354434083793,Home,3.5,25,££,80 Albion Street,"['Pubs', 'British']"
+ed8440d874a0b4205ddbcc0bc56f3d49,169.57726677476657,La Vita,4.0,28,££,161 Queen St,"['Pizza', 'Italian']"
+ed8440d874a0b4205ddbcc0bc56f3d49,185.24123701032346,Atlantic Bar & Brasserie,4.5,14,£££,12-16 St Vincent Place,"['Cocktail Bars', 'Seafood', 'French']"
+ed8440d874a0b4205ddbcc0bc56f3d49,198.3004317183177,Ambala Restaurant,5.0,1,£,11 Forth Street,"['Pakistani', 'Kebab', 'Indian']"
+ed8440d874a0b4205ddbcc0bc56f3d49,426.6405608675138,Ollie's,4.5,7,££,122 Nithsdale Road,"['Breakfast & Brunch', 'Pizza', 'Sandwiches']"
+ed8440d874a0b4205ddbcc0bc56f3d49,231.04664064261596,Cafe Coco,4.5,2,£,12 Albert Drive,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,216.8295898230132,Buddy's Bar Diner Grill,3.0,31,££,677-681 Pollokshaws Road,"['American (Traditional)', 'Barbeque', 'Bars']"
+ed8440d874a0b4205ddbcc0bc56f3d49,108.79272234969616,The Chicken Hut Pollokshields,4.0,1,,162 Albert Drive,['Chicken Wings']
+ed8440d874a0b4205ddbcc0bc56f3d49,335.7483507009363,McDonald's,4.5,2,£,489 Pollokshaws Road,['Burgers']
+ed8440d874a0b4205ddbcc0bc56f3d49,370.7222712800747,Kebabish Grill,4.0,9,££,323-325 Victoria Road,"['Indian', 'Japanese', 'Pakistani']"
+ed8440d874a0b4205ddbcc0bc56f3d49,105.19760100599693,Mulberry Street,4.0,18,££,778 Pollokshaws Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,242.9512711391538,Panda House,4.0,6,££,665-667 Pollokshaws Rd,['Chinese']
+ed8440d874a0b4205ddbcc0bc56f3d49,278.28512254833777,Cricklewood Hotel,3.0,5,££,27 Hamilton Road,['British']
+ed8440d874a0b4205ddbcc0bc56f3d49,883.9574177114928,Rustico,1.0,1,,16 Grantlea Terrace,['Coffee & Tea']
+ed8440d874a0b4205ddbcc0bc56f3d49,23.506585515641778,Rossano's Bar Bistro,4.0,1,,846 Crow Road,['Italian']
+ed8440d874a0b4205ddbcc0bc56f3d49,90.07110959733406,Ecco 808 il Cafe,5.0,4,£,808 Crow Road,"['Italian', 'Butcher']"
+ed8440d874a0b4205ddbcc0bc56f3d49,292.80161337385465,Esquire House,3.0,13,£,Clevelands,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,25.561240091136558,B J's,1.5,3,,828 Crow Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,60.83947408388945,Thomas Auld & Sons,4.5,3,,1632 Great Western Road,['Bakeries']
+ed8440d874a0b4205ddbcc0bc56f3d49,86.12787101663851,Subway,4.0,1,£,1617 Great Western Road,"['Fast Food', 'Sandwiches']"
+ed8440d874a0b4205ddbcc0bc56f3d49,87.63113713183061,Lunch,4.5,3,,1620 Great Western Road,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,90.07110959733406,Beefcake Cafe,5.0,1,,808 Crow Road,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,192.68774553484073,Gennaro Fish & Chicken Bar,3.5,3,,3 Herschell Street,"['Fast Food', 'Fish & Chips']"
+ed8440d874a0b4205ddbcc0bc56f3d49,926.7259472606515,Three Craws,3.5,12,££,501 Crow Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,65.33419399449176,1051 GWR,3.5,6,££,1051 Gt Western Road,['British']
+ed8440d874a0b4205ddbcc0bc56f3d49,443.1501687796325,Ichai,4.0,2,,1015 Crow Road,['Chinese']
+ed8440d874a0b4205ddbcc0bc56f3d49,435.8342704139416,NG's Dynasty,3.5,3,,60 Fulton Street,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,410.45984967787695,Bawarchi Indian Restaurant,4.0,1,,995 Crow Street,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,111.1614378454959,Cafe Mancini,3.0,2,£££,Great Western Rd,['Italian']
+ed8440d874a0b4205ddbcc0bc56f3d49,71.13241715206084,Stazione,4.0,2,£££,1051 Great Western Road,"['Specialty Food', 'British', 'Italian']"
+ed8440d874a0b4205ddbcc0bc56f3d49,473.8793878177904,McDonald's,3.0,3,£,1841 Great Western Road,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,816.9171139002416,Little SoHo Jordanhill,3.0,1,,512 Crow Rd,"['Italian', 'Pizza', 'Cocktail Bars']"
+ed8440d874a0b4205ddbcc0bc56f3d49,694.1122082649988,A Tomasso,2.5,2,,550 Crow Road,['Ice Cream & Frozen Yogurt']
+ed8440d874a0b4205ddbcc0bc56f3d49,1013.8397193796382,Dawsholm Park,4.0,1,,Ilay Road,['Parks']
+ed8440d874a0b4205ddbcc0bc56f3d49,149.72419883228557,The Butchershop Bar & Grill,4.5,90,£££,1055 Sauchiehall Street,"['Steakhouses', 'Wine Bars']"
+ed8440d874a0b4205ddbcc0bc56f3d49,150.66956007383047,Mother India's Café,4.5,112,££,1355 Argyle Street,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,34.713746588340044,La Lanterna,4.0,5,,447 Great Western Road,"['Italian', 'Wine Bars', 'Cocktail Bars']"
+ed8440d874a0b4205ddbcc0bc56f3d49,170.3558605359778,BrewDog Glasgow,4.5,107,££,1397 Argyle Street,['Bars']
+ed8440d874a0b4205ddbcc0bc56f3d49,203.56915676799485,Firebird,4.0,57,££,1321 Argyle Street,"['Italian', 'Pizza', 'Pubs']"
+ed8440d874a0b4205ddbcc0bc56f3d49,220.53953330823197,Roast,4.5,37,£,1299 Argyle Street,['Sandwiches']
+ed8440d874a0b4205ddbcc0bc56f3d49,78.00639064343041,The 78,4.0,74,£,10-14 Kelvinhaugh Street,"['Bars', 'Vegan']"
+ed8440d874a0b4205ddbcc0bc56f3d49,220.49560308634594,Dukes,4.5,20,£,41 Old Dumbarton Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,131.54554658311702,The Finnieston,4.0,56,££,1125 Argyle Street,"['Seafood', 'Cocktail Bars']"
+ed8440d874a0b4205ddbcc0bc56f3d49,139.36874806149476,Baffo,4.0,14,££,1377 Argyle Street,['Pizza']
+ed8440d874a0b4205ddbcc0bc56f3d49,222.45492486390694,Kelvingrove Park,4.5,44,,Kelvingrove Park,"['Parks', 'Playgrounds']"
+ed8440d874a0b4205ddbcc0bc56f3d49,175.44631197501542,Dining In with Mother India,4.5,16,££,1347 Argyll Street,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,73.66891000081526,The Gannet,4.5,28,£££,1155 Argyle Street,"['Scottish', 'Bistros']"
+ed8440d874a0b4205ddbcc0bc56f3d49,187.1306320049424,Bier Halle,3.5,80,££,7-9 Gordon Street,"['Pubs', 'Gastropubs', 'Pizza']"
+ed8440d874a0b4205ddbcc0bc56f3d49,137.86282102995426,Dumpling Monkey,4.5,93,£,121 Dumbarton Road,"['Dim Sum', 'Fast Food']"
+ed8440d874a0b4205ddbcc0bc56f3d49,389.0195948808734,For Fika Sake,4.0,19,£,7 Keith Street,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,92.38248735553172,Three Judges,4.0,41,£,141 Dumbarton Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,188.5060916226849,My Home Bakery,4.5,29,££,59 Hyndland Street,['Bakeries']
+ed8440d874a0b4205ddbcc0bc56f3d49,100.21890738017866,Lebowskis,4.0,65,££,1008 Argyle Street,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,188.45051999240556,Fanny Trollopes Bistro,4.5,27,£££,1066 Argyle Street,"['British', 'Seafood']"
+ed8440d874a0b4205ddbcc0bc56f3d49,73.74492186321525,Kelvingrove Café,4.0,67,££,1161 Argyle Street,"['Cocktail Bars', 'Cafes']"
+ed8440d874a0b4205ddbcc0bc56f3d49,192.6855197628093,The Hidden Lane Tearoom,4.5,64,££,1103 Argyle Street,"['Tea Rooms', 'Cafes']"
+ed8440d874a0b4205ddbcc0bc56f3d49,153.35187079002952,The Sisters,4.5,26,££,36 Kelvingrove Street,['British']
+ed8440d874a0b4205ddbcc0bc56f3d49,104.00894029013179,Tarantino,4.5,18,££,916 Sauchihall Street,['Italian']
+ed8440d874a0b4205ddbcc0bc56f3d49,121.66502867450095,The Steamie Coffee Roasters,4.5,29,£,1024 Argyle Street,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,221.33276965576462,Distill,4.0,29,££,1102-1106 Argyle Street,"['Pubs', 'British']"
+ed8440d874a0b4205ddbcc0bc56f3d49,121.61023913006622,Horn Please,4.5,13,££,914-916 Sauchiehall Street,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,5.065955956844781,Danny Singh's Gandhi,5.0,1,,441 Victoria Road,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,71.02183960560473,Queens Cafe,4.0,14,£,515-517 Victoria Road,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,31.781154552224706,Continental Delicatessen,4.5,3,,503 Victoria Road,['Delis']
+ed8440d874a0b4205ddbcc0bc56f3d49,175.51826533206665,Desi Curry Palace Halal Takeaway,4.5,3,£,144 Allison Street,"['Fast Food', 'Pizza', 'Kebab']"
+ed8440d874a0b4205ddbcc0bc56f3d49,89.56860745056491,Anarkali Indian,3.5,12,££,531 Victoria Road,"['Indian', 'Pakistani']"
+ed8440d874a0b4205ddbcc0bc56f3d49,21.862471285921803,Brodies,4.0,1,,777 Pollokshaws Road,"['Beer Bar', 'Fish & Chips', 'Burgers']"
+ed8440d874a0b4205ddbcc0bc56f3d49,120.51680607515846,Marchtown,4.5,2,,741 Pollokshaws Road,"['Wine Bars', 'Venues & Event Spaces', 'Bistros']"
+ed8440d874a0b4205ddbcc0bc56f3d49,251.8129335748164,Lebowskis South,3.5,5,££,69 Nithsdale Road,"['Pubs', 'Breakfast & Brunch', 'Cafes']"
+ed8440d874a0b4205ddbcc0bc56f3d49,525.6718572547958,111 By Nico,4.5,12,£££,111 Cleveden Road,"['Bars', 'British']"
+ed8440d874a0b4205ddbcc0bc56f3d49,389.6365228391462,Cafe Source Too,3.5,6,££,Hillhead Sports Club,['Gastropubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,1328.8600072184063,Di Maggio's,4.0,9,££,61 Ruthven Lane,"['Pizza', 'Italian', 'Gluten-Free']"
+ed8440d874a0b4205ddbcc0bc56f3d49,469.0225454673252,Caffe Parma,3.5,3,££,Western Tennis Club,['Italian']
+ed8440d874a0b4205ddbcc0bc56f3d49,1077.5907473700006,The Rock,3.5,14,£,205 Hyndland Rd,"['Pubs', 'Gastropubs']"
+ed8440d874a0b4205ddbcc0bc56f3d49,925.1938807168098,The Butterscotch Bakery,5.0,4,££,175 Hyndland Road,['Bakeries']
+ed8440d874a0b4205ddbcc0bc56f3d49,61.40904902589558,Bingham Pond,2.0,3,,1057 Great Western Rd,['Local Flavor']
+ed8440d874a0b4205ddbcc0bc56f3d49,970.6732053844748,Jellyhill,3.5,14,££,195 Hyndland Road,"['Coffee & Tea', 'Breakfast & Brunch']"
+ed8440d874a0b4205ddbcc0bc56f3d49,18.63223319301227,The Ben Nevis,4.5,36,££,1147 Argyle Street,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,638.3093000412841,Cuningar Loop,4.5,2,,Downiebrae Road,['Parks']
+ed8440d874a0b4205ddbcc0bc56f3d49,867.0605780272152,McDonalds,4.0,1,,Dalmarnock Road,"['Fast Food', 'Burgers']"
+ed8440d874a0b4205ddbcc0bc56f3d49,281.8132146360097,Celtic View,3.0,2,,Parkhead,"['Print Media', 'Local Flavor']"
+ed8440d874a0b4205ddbcc0bc56f3d49,280.0342631531674,Supreme Steak Bar,3.0,1,,Celtic Park,['Food Stands']
+ed8440d874a0b4205ddbcc0bc56f3d49,125.46321051674721,Light Bite,5.0,4,£,19 Sinclair Drive,"['Coffee & Tea', 'Sandwiches']"
+ed8440d874a0b4205ddbcc0bc56f3d49,186.38315842400704,blether,4.5,3,£,49 Sinclair Drive,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,82.10975029246461,Mr V's Fast Food,3.0,10,£,118 Battlefield Road,['Fish & Chips']
+ed8440d874a0b4205ddbcc0bc56f3d49,398.0358274669194,Church On The Hill,3.0,25,££,16 Algie Street,"['Pubs', 'British']"
+ed8440d874a0b4205ddbcc0bc56f3d49,147.19869113263653,Baguette Express,4.0,1,,120 Battlefield Road,['Sandwiches']
+ed8440d874a0b4205ddbcc0bc56f3d49,225.17925244510883,Trevi Italian,5.0,1,,9 Lochleven Road,"['Pizza', 'Italian', 'Burgers']"
+ed8440d874a0b4205ddbcc0bc56f3d49,195.61766550646553,Cherry & Heather,4.5,15,£,7 North Gower Street,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,191.38523643687643,House For An Art Lover,4.5,25,££,10 Dumbreck Road,"['Landmarks & Historical Buildings', 'Modern European']"
+ed8440d874a0b4205ddbcc0bc56f3d49,221.01504605721735,The Balcony Cafe,4.0,4,£,534 Paisley Road W,"['Cafes', 'Coffee & Tea']"
+ed8440d874a0b4205ddbcc0bc56f3d49,189.47778138410018,Beirut Star,5.0,2,,450 Paisley Rd W,['Lebanese']
+ed8440d874a0b4205ddbcc0bc56f3d49,425.99891613874865,The Louden Tavern: Ibrox Stadium,2.5,10,£,111 Copland Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,149.24390429929696,Subway,1.5,2,,470 Paisley Road W,['Sandwiches']
+ed8440d874a0b4205ddbcc0bc56f3d49,191.38523643687643,Art Lovers Cafe,5.0,3,£,House for an Art Lover,"['French', 'British']"
+ed8440d874a0b4205ddbcc0bc56f3d49,303.0430985981839,Bellahouston Park,4.5,11,,16 Dumbreck Road,['Parks']
+ed8440d874a0b4205ddbcc0bc56f3d49,163.20526599229578,The Kensington,2.5,6,£,408 Paisley Rd W,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,191.7557167370713,Copper Pot,4.0,2,,424 Paisley Road West,"['Coffee & Tea', 'Cafes']"
+ed8440d874a0b4205ddbcc0bc56f3d49,414.0434347704264,The Sportsman,4.0,6,£,144 Copland Road,['Fish & Chips']
+ed8440d874a0b4205ddbcc0bc56f3d49,206.8458537816026,The Criterion Fish & Chip Shop,3.0,1,£,432 Paisley Road West,['Fish & Chips']
+ed8440d874a0b4205ddbcc0bc56f3d49,361.99489633954477,Kismet Tandoori,5.0,1,,170 Copland Road,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,64.0623747441606,Chicago Grill,3.5,4,£,379 Paisley Road W,"['Barbeque', 'Burgers']"
+ed8440d874a0b4205ddbcc0bc56f3d49,824.7017788402668,Glasgow Tower,4.5,2,,50 Pacific Quay,['Landmarks & Historical Buildings']
+ed8440d874a0b4205ddbcc0bc56f3d49,59.67887118603694,Serene Coffee House,4.0,1,,381 Paisley Road W,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,40.01142678751666,One 2 Wan,4.0,2,,376 Paisley Road W,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,64.59362828619601,Tartan Fish & Chips,3.0,4,,Paisley Road West,['Fish & Chips']
+ed8440d874a0b4205ddbcc0bc56f3d49,855.4835916582459,Moyra Janes,4.0,9,££,20 Kildrostan Street,"['Coffee & Tea', 'Breakfast & Brunch']"
+ed8440d874a0b4205ddbcc0bc56f3d49,956.3363590484175,New Anand,3.5,9,£,76 Nithsdale Road,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,360.71780215031185,Pollokshields Burgh Hall,5.0,2,,70 Glencairn Drive,['Landmarks & Historical Buildings']
+ed8440d874a0b4205ddbcc0bc56f3d49,1265.640493755544,Cook & Indi's World Buffet,3.0,10,££,251 Paisley Road,['Buffets']
+ed8440d874a0b4205ddbcc0bc56f3d49,1298.028812615025,Tasty by Tony Singh,3.0,4,£££,Alea Casino,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,22.408399781327876,Oriental Express,3.5,4,,155 Springburn Way,"['Fast Food', 'Chinese']"
+ed8440d874a0b4205ddbcc0bc56f3d49,173.98679375615146,Greggs,5.0,1,,Unit 27 Springburn Way,['Bakeries']
+ed8440d874a0b4205ddbcc0bc56f3d49,18.31323071115324,Bells Bar,1.0,2,,143 Springburn Way,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,69.57462287803573,Oriental Cuisine,4.5,2,,209 Springburn Way,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,176.6717794312329,Thomsons Public House,5.0,1,,275 Springburn Way,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,106.35934444975108,Lets Wok N Roll,3.0,2,,8a Angus Street,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,157.6748925442222,Chakwal Tandoori,1.0,2,,94 Springburn Way,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,958.399244516953,KFC,2.5,5,£,1171 Springburn Road,"['Fast Food', 'Chicken Shop', 'Chicken Wings']"
+ed8440d874a0b4205ddbcc0bc56f3d49,79.02699120432055,Barbarossa Restaurant,4.0,12,£££,1/7 Clarkston Road,"['Wine Bars', 'Italian']"
+ed8440d874a0b4205ddbcc0bc56f3d49,8.622696104272231,Gerry's,3.0,1,£,245 Newlands Road,"['Fast Food', 'Fish & Chips']"
+ed8440d874a0b4205ddbcc0bc56f3d49,185.36956272230907,Soup's On and The Cake Lady,4.5,2,£,115 Clarkston Road,"['Coffee & Tea', 'Breakfast & Brunch', 'Soup']"
+ed8440d874a0b4205ddbcc0bc56f3d49,185.36956272230907,Caffe Coupa,4.5,2,££,115 Clarkston Road,"['Fast Food', 'Sandwiches']"
+ed8440d874a0b4205ddbcc0bc56f3d49,717.4815459945765,Ashoka Southside,4.0,11,££,268 Clarkston Road,"['Indian', 'Fast Food']"
+ed8440d874a0b4205ddbcc0bc56f3d49,412.26951158774716,Old Smiddy,4.0,14,££,131 Old Castle Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,48.989816808072945,Reeva,4.0,1,,21 Clarkston Road,"['Coffee & Tea', 'Sandwiches']"
+ed8440d874a0b4205ddbcc0bc56f3d49,48.476452387770294,Beechings Public House,3.0,5,£££,34 Clarkston Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,192.24837618859465,Cathay Cuisine,3.5,3,£,121 Clarkston Road,"['Japanese', 'Thai', 'Cantonese']"
+ed8440d874a0b4205ddbcc0bc56f3d49,937.5315062804531,The Bank,3.5,11,££,443 Clarkston Rd,"['Pubs', 'Gastropubs']"
+ed8440d874a0b4205ddbcc0bc56f3d49,544.3778577377254,The Fifteen,4.0,9,£,Clarkston Road,"['Chinese', 'Fast Food']"
+ed8440d874a0b4205ddbcc0bc56f3d49,143.72901469738048,The River Cart,5.0,1,,Cathcart,"['Local Flavor', 'Lakes']"
+ed8440d874a0b4205ddbcc0bc56f3d49,107.13068689055525,Costa Coffee,3.0,1,,Glasgow Road,['Coffee & Tea']
+ed8440d874a0b4205ddbcc0bc56f3d49,409.4011726376491,Real Madras,5.0,1,,185 Clarkston Road,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,552.4702731671201,The White Elephant,2.5,10,££,128 Merrylee Road,"['Bars', 'British', 'Gastropubs']"
+ed8440d874a0b4205ddbcc0bc56f3d49,711.1556531742563,Jist Misto,4.5,3,,1835 Paisley Rd W,['Italian']
+ed8440d874a0b4205ddbcc0bc56f3d49,774.1963024833366,Baxters Take Away,5.0,1,,835 Mosspark Drive,['British']
+ed8440d874a0b4205ddbcc0bc56f3d49,1207.1979997958247,Wee Indian,1.0,1,,325 Forge Street,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,841.0273325680063,punjab karahi,3.5,3,,525 Carntyne Road,"['Fast Food', 'Indian']"
+ed8440d874a0b4205ddbcc0bc56f3d49,839.2704287878994,China Chef,1.0,1,,529 Carntyne Road,['Chinese']
+ed8440d874a0b4205ddbcc0bc56f3d49,888.9965211751712,New Panda House,1.0,2,,7 Murrayfield Street,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,966.3732826056009,Cafe Spice,3.0,1,,331-335 Cumbernauld Road,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,1207.1979997958247,The Hot Spot,1.0,1,,325 Forge Street,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,110.19360514570829,Jaconelli's,4.5,11,£,1419 Maryhill Road,"['Fast Food', 'Ice Cream & Frozen Yogurt']"
+ed8440d874a0b4205ddbcc0bc56f3d49,289.0564040239949,The Spice Room,5.0,3,£££,1348 Maryhill Rd,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,187.9093309551535,Fireman Gates,5.0,2,,Maryhill Fire Station,['Landmarks & Historical Buildings']
+ed8440d874a0b4205ddbcc0bc56f3d49,81.38903085567712,Maryhill Burgh Halls,3.0,1,££,10-24 Gairbraid Avenue,"['Cultural Center', 'Music Venues', 'Coffee & Tea']"
+ed8440d874a0b4205ddbcc0bc56f3d49,1095.2213169935292,Killermont Polo Club,4.5,5,££,2022 Maryhill Road,"['Indian', 'Pakistani']"
+ed8440d874a0b4205ddbcc0bc56f3d49,157.8020695859407,The Lockhouse Bar & Restaurant,2.5,2,,1397 Maryhill Road,['Bars']
+ed8440d874a0b4205ddbcc0bc56f3d49,1041.5114789264776,Spice Of India,5.0,1,,123 Cleveden Road,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,22.112337536119192,McDonald's Restaurants,2.5,6,£,1200 Maryhill Road,['Restaurants']
+ed8440d874a0b4205ddbcc0bc56f3d49,1028.7423514155817,North Kelvin Meadow,4.0,1,,Clouston Street,"['Parks', 'Community Service/Non-Profit']"
+ed8440d874a0b4205ddbcc0bc56f3d49,176.53657282992205,Greggs,3.0,1,,1061 Maryhill Rd,['Bakeries']
+ed8440d874a0b4205ddbcc0bc56f3d49,895.2033973740658,Rams Head,3.5,3,£,1969 Maryhill Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,35.54363319920445,Viking Bar,2.0,4,£,1190 Maryhill Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,62.40707807281985,Frampton's Night Clubs,2.5,3,£,1236 Maryhill Road,"['Bars', 'Dance Clubs']"
+ed8440d874a0b4205ddbcc0bc56f3d49,1072.565411116634,Wongs Restaurant,2.5,7,££,920 Maryhill Rd,"['Chinese', 'Fast Food']"
+ed8440d874a0b4205ddbcc0bc56f3d49,1040.936883390571,Kelbourne Street Playpark,4.0,2,,Kelbourne Street,"['Local Flavor', 'Parks']"
+ed8440d874a0b4205ddbcc0bc56f3d49,181.58379055257717,Jacqui's,3.0,1,,1057 Maryhill Rd,['Breakfast & Brunch']
+ed8440d874a0b4205ddbcc0bc56f3d49,1041.4799205645415,Wok Cuisine,2.5,2,,121 Cleveden Road,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,271.15669745477913,Yelp Event: Backstage Tour at Citizens Theatre,5.0,6,,119 Gorbals Street,['Yelp Events']
+ed8440d874a0b4205ddbcc0bc56f3d49,251.4741919923119,Brazen Head,5.0,4,££,1-3 Cathcart Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,11.600381776988236,Ann's Fry,4.0,1,,196 Crown Street,['Fish & Chips']
+ed8440d874a0b4205ddbcc0bc56f3d49,1058.3571203520096,Macsorley's,4.0,25,££,42 Jamaica Street,"['Pubs', 'Music Venues']"
+ed8440d874a0b4205ddbcc0bc56f3d49,131.78660260005913,Sharkeys Bar,4.0,4,£,51 Old Rutherglen Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,1023.5588053839574,Nic's NYC Deli,4.5,22,£,50 St Enoch Square,"['American (New)', 'Fast Food', 'Donuts']"
+ed8440d874a0b4205ddbcc0bc56f3d49,845.2715940314356,Babylon Cafe,4.5,12,£,7 Clyde Place,"['Middle Eastern', 'Persian/Iranian', 'Turkish']"
+ed8440d874a0b4205ddbcc0bc56f3d49,993.5593493616769,Nando's,4.0,24,££,st Enoch Square,"['Fast Food', 'Chicken Shop']"
+ed8440d874a0b4205ddbcc0bc56f3d49,312.51149509097917,Gin 71,4.5,42,££,71 Renfield Street,['Cocktail Bars']
+ed8440d874a0b4205ddbcc0bc56f3d49,298.04426028406226,Ardnamurchan,4.5,15,,325 Hope Street,"['Scottish', 'Wine Bars']"
+ed8440d874a0b4205ddbcc0bc56f3d49,310.5377994373674,Cup Tea Lounge,4.0,32,££,71 Renfield Street,"['Coffee & Tea', 'Breakfast & Brunch', 'Sandwiches']"
+ed8440d874a0b4205ddbcc0bc56f3d49,182.46922511181836,Cafe Serena,3.5,3,,328-330 Maxwell Road,"['Indian', 'Pakistani']"
+ed8440d874a0b4205ddbcc0bc56f3d49,1094.0822998809863,Sholeh,4.5,4,,146 Nelson Street,['Persian/Iranian']
+ed8440d874a0b4205ddbcc0bc56f3d49,428.2255378254314,Sugar Rush,4.5,3,££,32 St Andrew's Road,['Ice Cream & Frozen Yogurt']
+ed8440d874a0b4205ddbcc0bc56f3d49,1002.1488936495306,Village Curry House,4.0,3,£,119 W Street,"['Indian', 'Pakistani']"
+ed8440d874a0b4205ddbcc0bc56f3d49,379.4154348085356,Subway,3.0,1,,38 Herriet St,"['Sandwiches', 'Fast Food']"
+ed8440d874a0b4205ddbcc0bc56f3d49,178.17807292353257,Two Fat Ladies,5.0,14,£££,88 Dumbarton Road,['Seafood']
+ed8440d874a0b4205ddbcc0bc56f3d49,32.062111681155486,Cafe 13,4.0,8,£,794 Govan Road,['Coffee & Tea']
+ed8440d874a0b4205ddbcc0bc56f3d49,116.4297470854897,Usha's,4.0,29,££,2 Byres Road,"['Indian', 'Vegetarian']"
+ed8440d874a0b4205ddbcc0bc56f3d49,176.56668892708396,Tall Ship At Glasgow Harbour,4.0,9,,100 Stobcross Road,"['Museums', 'Local Flavor']"
+ed8440d874a0b4205ddbcc0bc56f3d49,28.753462049122618,Subway,1.0,1,,Unit 3,['Sandwiches']
+ed8440d874a0b4205ddbcc0bc56f3d49,32.31165365080628,Bag O Nails,4.5,7,££,165 Dumbarton Road,"['Bars', 'Music Venues']"
+ed8440d874a0b4205ddbcc0bc56f3d49,1208.526012387185,Little Curry House,4.5,8,££,41 Byres Road,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,1293.0574732713926,Bar Gumbo,4.0,34,££,71-77 Byres Road,"['Cajun/Creole', 'Bars', 'British']"
+ed8440d874a0b4205ddbcc0bc56f3d49,191.38523643687643,Rainbow Bridge,5.0,1,,Art Park,['Landmarks & Historical Buildings']
+ed8440d874a0b4205ddbcc0bc56f3d49,593.1555737803872,KFC,4.0,3,£,382 Helen st,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,423.6619395933391,McDonald's Restaurants,3.0,4,£,Helen Street,['American (Traditional)']
+ed8440d874a0b4205ddbcc0bc56f3d49,483.03368062893173,The Argyle House Restaurant,4.5,2,,150 Edmiston Drive,['British']
+ed8440d874a0b4205ddbcc0bc56f3d49,531.7152437679308,Posh Deli,4.5,3,,1256 Paisley Road West,['Delis']
+ed8440d874a0b4205ddbcc0bc56f3d49,558.7714839903642,Pizza Hut,2.0,1,,380 Helen Street,['Pizza']
+ed8440d874a0b4205ddbcc0bc56f3d49,888.5103002350219,Dragon City Takeaway,5.0,2,,144 Craigton Road,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,1173.539193601321,Ocean Palace,1.5,2,£,8 Summertown Road,"['Fast Food', 'Cantonese']"
+ed8440d874a0b4205ddbcc0bc56f3d49,835.8944474095699,Caprese - Don Costanzo,4.5,13,££,13 Woodside Crescent,['Italian']
+ed8440d874a0b4205ddbcc0bc56f3d49,768.7260307231996,The Drake,4.0,35,££,1 Lynedoch Street,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,260.58553229800094,The Cabin,3.5,10,£££,998 Dumbarton Road,"['Irish', 'Karaoke']"
+ed8440d874a0b4205ddbcc0bc56f3d49,214.95315143700427,Abarcrombys Cafe Bar,5.0,2,,180 Dumbarton Road,"['Bars', 'Cafes']"
+ed8440d874a0b4205ddbcc0bc56f3d49,212.56700250742918,Kothel,3.5,22,£,300 Crow Road,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,291.18629205629355,Papa Johns,3.5,8,££,12 Norby Road,"['Pizza', 'Fast Food']"
+ed8440d874a0b4205ddbcc0bc56f3d49,34.44477277456343,The Pavillion,4.0,5,,231 Crow Road,"['Coffee & Tea', 'Breakfast & Brunch']"
+ed8440d874a0b4205ddbcc0bc56f3d49,437.6179224245915,Ninos West End,4.0,1,£,911 Dumbarton Road,"['Italian', 'Burgers']"
+ed8440d874a0b4205ddbcc0bc56f3d49,295.24878705354183,Po'Boyz,4.0,6,,Broomhill Shopping Centre,['American (New)']
+ed8440d874a0b4205ddbcc0bc56f3d49,173.1650755282489,Brazuca Cafe,4.0,1,,1 Methill Street,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,241.59677284863113,Broomhill Church Of Scotland,4.0,1,,64-66 Randolph Road,"['Churches', 'Local Flavor']"
+ed8440d874a0b4205ddbcc0bc56f3d49,49.38366833954336,Magic Grill,5.0,1,£,1341 Dumbarton Road,['Restaurants']
+ed8440d874a0b4205ddbcc0bc56f3d49,120.86481904869645,Granny Gibbs,3.5,3,£,1305 Dumbarton Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,214.74532670875303,Cupcakes For You & West End Vintage,5.0,1,££,1251 Dumbarton Road,['Cupcakes']
+ed8440d874a0b4205ddbcc0bc56f3d49,380.8177479905694,Tollcross Park,4.5,5,,254B Wellshot Road,['Parks']
+ed8440d874a0b4205ddbcc0bc56f3d49,136.16696298269835,McDonald's Restaurants,5.0,1,,10 Westhorn Drive,['American (Traditional)']
+ed8440d874a0b4205ddbcc0bc56f3d49,1014.3821503537579,Ruby Murrys,4.0,3,,1198 Shettleston Road,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,260.46650809767675,Mmm Delicious,1.0,1,,933 Tollcross Road,"['Cafes', 'Ice Cream & Frozen Yogurt']"
+ed8440d874a0b4205ddbcc0bc56f3d49,1016.8935768500842,Enzos Fish & Chips,5.0,1,£,1200 Shettleston Road,"['Fish & Chips', 'Fast Food']"
+ed8440d874a0b4205ddbcc0bc56f3d49,960.9195486006514,The Drum,5.0,1,,1071 Shettleston Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,1063.176314321519,The Portland Arms,3.0,1,££,1169 Shettleston Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,897.3589283934821,Garlic Delicatessens,5.0,1,,793 Shettleston Road,"['Delis', 'Delicatessen']"
+ed8440d874a0b4205ddbcc0bc56f3d49,706.2618091331954,Cotters Bar,2.0,1,££,498 Tollcross Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,914.1327979290361,The Favorite Cafe,4.0,1,,1078 Shettleston Road,"['Candy Stores', 'Cafes']"
+ed8440d874a0b4205ddbcc0bc56f3d49,1113.6706449941166,Cafe Shama,4.0,1,,1207 Shettleston Road,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,676.1774052359103,Gourmet House,5.0,1,,1280 Tollcross Road,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,137.76851737303275,Orion Way,3.0,1,,30-40 Westhorn Drive,"['Pubs', 'Casinos']"
+ed8440d874a0b4205ddbcc0bc56f3d49,892.5005036065929,Pelican Cafe,1.0,1,,763 Shettleston Road,['Coffee & Tea']
+ed8440d874a0b4205ddbcc0bc56f3d49,855.8487774167132,Lucky Way Chinese Carry Out,1.0,1,,900 Shettleston Road,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,585.02080640114,Wans Golden Corner,4.0,2,,171 Westmuir Street,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,905.8956919451851,The Electric Gardens at The Botanics,4.0,21,,The Botanics,['Local Flavor']
+ed8440d874a0b4205ddbcc0bc56f3d49,932.9254146871141,The Maggie,4.5,7,£,Queen Margaret Drive,"['Fast Food', 'British']"
+ed8440d874a0b4205ddbcc0bc56f3d49,923.6298175444743,Kibble Palace,4.5,6,,730 Great Western Road,['Botanical Gardens']
+ed8440d874a0b4205ddbcc0bc56f3d49,598.4944228679714,Kelbourne Saint,4.5,2,,182 Queen Margaret Drive,['Lounges']
+ed8440d874a0b4205ddbcc0bc56f3d49,1231.6738785867187,Greek Orthodox Cathedral of St Luke,5.0,3,,27 Dundonald Road,"['Churches', 'Local Flavor']"
+ed8440d874a0b4205ddbcc0bc56f3d49,622.2241977999264,Zensation,3.5,8,££,160 Queen Margaret Drive,['Asian Fusion']
+ed8440d874a0b4205ddbcc0bc56f3d49,713.3435451115682,Caffè Da Sara,5.0,1,,102 Queen Margaret Drive,"['Italian', 'Coffee & Tea', 'Breakfast & Brunch']"
+ed8440d874a0b4205ddbcc0bc56f3d49,39.72767801745123,Buongiorno,3.5,11,££,1012 Pollokshaws Rd,"['Brasseries', 'Italian']"
+ed8440d874a0b4205ddbcc0bc56f3d49,24.49190189369083,Star Coffee Patisserie,4.5,2,£,1002 Pollokshaws Road,"['Patisserie/Cake Shop', 'Cafes']"
+ed8440d874a0b4205ddbcc0bc56f3d49,101.08876634261112,Brooklyn Café,3.5,26,££,21-23 Minard Road,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,175.40286327066605,Sweeney's on the Park,3.5,5,£,958 Pollokshaws Road,"['Pubs', 'Music Venues']"
+ed8440d874a0b4205ddbcc0bc56f3d49,18.968674644164576,Southside Street Food Showdown,4.0,5,££,1006 Pollokshaws Road,['Street Vendors']
+ed8440d874a0b4205ddbcc0bc56f3d49,316.3388936720739,Green Chilli Cafe,4.0,22,££,1293 Argyle Street,"['Indian', 'Fast Food']"
+ed8440d874a0b4205ddbcc0bc56f3d49,34.35181546082307,Ad Lib,4.0,49,££,111 Hope Street,"['Bars', 'American (Traditional)']"
+ed8440d874a0b4205ddbcc0bc56f3d49,29.344308791694136,The Sir John Moore,3.0,37,£,260-292 Argyle Street,['Gastropubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,228.77084660807566,Barca Tapas & Cava Bar,3.5,27,££,Glasgow City Centre 2nd Floor Princes Square,"['Wine Bars', 'British', 'Tapas Bars']"
+ed8440d874a0b4205ddbcc0bc56f3d49,92.45743933575193,Cafe Sizzler,4.0,2,,351 Paisley Road West,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,65.66475334632581,New Star,3.5,4,,387 Paisley Road West,['Chinese']
+ed8440d874a0b4205ddbcc0bc56f3d49,110.44896054694478,Chilli Cottage,3.5,3,,404 Paisley Road W,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,319.8354849657643,District Bar,2.5,7,£,252 Paisley Road West,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,1029.7429757716561,La Rotunda,3.5,12,££,28 Tunnel Street,['Italian']
+ed8440d874a0b4205ddbcc0bc56f3d49,26.72195079024271,Star Bar,3.0,7,£,537-539 Eglinton Street,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,31.271623141664637,Saint Andrew's Cross,4.0,1,,Pollokshaws Road,['Local Flavor']
+ed8440d874a0b4205ddbcc0bc56f3d49,100.38881021064334,Smooth Boys Deli,3.5,2,££,26 Maxwell Road,"['Fast Food', 'Delicatessen', 'Delis']"
+ed8440d874a0b4205ddbcc0bc56f3d49,253.3319453557053,Little Italy,4.0,58,£,205 Byres Road,"['Fast Food', 'Italian', 'Pizza']"
+ed8440d874a0b4205ddbcc0bc56f3d49,216.5059980363424,Ramen Dayo!,4.0,22,,31 Ashton Lane,['Ramen']
+ed8440d874a0b4205ddbcc0bc56f3d49,30.362888352869536,Caffe 393 Bar,3.0,1,,393 Alexandra Parade,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,163.38548126054943,Subway,4.0,1,,433 Alexandra Parade,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,1080.6222174661323,Glasgow International Comedy Festival,4.5,6,,278 High Street,"['Local Flavor', 'Festivals', 'Comedy Clubs']"
+ed8440d874a0b4205ddbcc0bc56f3d49,85.70386828426497,Food On Parade,2.0,2,,417 Alexandra Parade,"['Coffee & Tea', 'Cafes']"
+ed8440d874a0b4205ddbcc0bc56f3d49,883.9367947377216,Asha's,5.0,2,,4 Glebe Street,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,848.4794676056347,St Mungo Museum of Religious Life & Art,4.5,13,,2 Castle St,['Museums']
+ed8440d874a0b4205ddbcc0bc56f3d49,894.438612985684,Provand's Lordship,4.0,8,,3 Castle Street,['Museums']
+ed8440d874a0b4205ddbcc0bc56f3d49,723.5525785234285,Pollok House,4.5,3,,Pollok Country Park,['Museums']
+ed8440d874a0b4205ddbcc0bc56f3d49,723.5525785234285,Pollok House,5.0,1,,2060 Pollokshaws Rd,"['Venues & Event Spaces', 'Landmarks & Historical Buildings']"
+ed8440d874a0b4205ddbcc0bc56f3d49,696.82555527951,Pollok Gardens,4.0,1,,2060 Pollokshaws Road,['Botanical Gardens']
+ed8440d874a0b4205ddbcc0bc56f3d49,785.5688819518313,Old Courtyard Stables,4.0,2,,2060 Pollokshaws Road,['Landmarks & Historical Buildings']
+ed8440d874a0b4205ddbcc0bc56f3d49,516.0732097357401,Maxwell Park,5.0,2,,Terregles Avenue,['Parks']
+ed8440d874a0b4205ddbcc0bc56f3d49,950.4847400394722,La Tea Doh,3.5,7,,136 Nithsdale Road,"['Delis', 'Cafes']"
+ed8440d874a0b4205ddbcc0bc56f3d49,986.7748917887474,Rajas Fast Foods,5.0,1,,246 Albert Drive,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,1224.372762728455,The Bay Horse,2.5,2,,962 Pollokshaws Rd,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,1191.921093516178,Danny Singh's,2.0,3,,26 Minard Road,"['Indian', 'Fast Food']"
+ed8440d874a0b4205ddbcc0bc56f3d49,146.55019440211504,Michael's Superchippy,4.0,4,£££,891 Aikenhead Rd,"['Fast Food', 'Fish & Chips']"
+ed8440d874a0b4205ddbcc0bc56f3d49,406.8750906984431,The Scottish Football Museum,5.0,1,,Hampden Park,"['Soccer', 'Museums']"
+ed8440d874a0b4205ddbcc0bc56f3d49,281.31062647355907,Montford House,3.0,4,£££,23-27 Curtis Avenue,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,492.72705080720885,The Beechwood,3.0,1,,156-164 Ardmay Crescent,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,658.0198233767219,Good Chois Cuisine,2.5,2,,13 Cumming Drive Mount Florida,['Chinese']
+ed8440d874a0b4205ddbcc0bc56f3d49,981.6598295309578,Ali Shan Indian Take Away,4.0,1,,250 Battlefield Road,"['Indian', 'Fast Food']"
+ed8440d874a0b4205ddbcc0bc56f3d49,481.6730956689182,Wanamoka,3.5,3,,1005 Aikenhead Rd,"['Coffee & Tea', 'Sandwiches']"
+ed8440d874a0b4205ddbcc0bc56f3d49,981.6598295309578,Alishan Tandoori,2.5,5,££,250 Battlefield Road,"['Indian', 'Pakistani', 'Fast Food']"
+ed8440d874a0b4205ddbcc0bc56f3d49,1086.133885705362,Cafe Royale,4.0,3,£,172 Holmlea Road,"['Coffee & Tea', 'Fast Food']"
+ed8440d874a0b4205ddbcc0bc56f3d49,238.78488438448335,Delizique,4.0,26,££,66 Hyndland Street,['Delis']
+ed8440d874a0b4205ddbcc0bc56f3d49,119.25040505722937,Curry Pot,4.5,11,££,139 Dumbarton Road,['British']
+ed8440d874a0b4205ddbcc0bc56f3d49,1284.1571778583805,Delhi Darbar,4.5,9,££,4 Woodhill Road,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,336.869320031253,Aroma Cafe,4.0,1,£,New Stobhill Hospital,['Coffee & Tea']
+ed8440d874a0b4205ddbcc0bc56f3d49,832.6825422468256,Spices,4.0,1,,93 Auchinairn Rd,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,1161.4073799840023,Thomas Muir Coffee Shop,4.5,3,££,100 Crowhill Road,['Coffee & Tea']
+ed8440d874a0b4205ddbcc0bc56f3d49,1316.2483147893186,briggs bar,4.0,1,,,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,834.1902688782841,Cha Cha G'z,4.0,1,,104a Auchinairn Road,['Turkish']
+ed8440d874a0b4205ddbcc0bc56f3d49,1031.026043149358,Stan's Chinese Carryout,4.0,1,,1349 Springburn Road,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,827.2040616847703,Springburn Park,3.5,3,,Balgrayhill Rd,['Parks']
+ed8440d874a0b4205ddbcc0bc56f3d49,1102.1239662763494,Star 5 In 1,2.5,3,,560a Broomfield Road,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,983.87712506271,Hong Kong House Take Away,3.0,1,,140 Red Road,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,864.7409355140838,The Bistro,4.0,1,,23A Hamilton Road,"['Fast Food', 'Bistros']"
+ed8440d874a0b4205ddbcc0bc56f3d49,1319.3655038586553,Auld Boathouse,2.0,1,£,21 River Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,625.6801755896778,La Bodega Tapas Bar,4.5,6,£,1120 South Street,"['Tapas Bars', 'Music Venues']"
+ed8440d874a0b4205ddbcc0bc56f3d49,446.4108024870653,Macks Diner,5.0,2,£,45 Harland Street,['Diners']
+ed8440d874a0b4205ddbcc0bc56f3d49,509.96882497085966,Pizza Amore Takeaway,5.0,1,££,1499 Dumbarton Road,"['Food Delivery Services', 'Pizza']"
+ed8440d874a0b4205ddbcc0bc56f3d49,370.0348098974171,Harbour Cafe,5.0,1,,719 South Street,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,915.7639814188416,Clyde Tunnel,3.5,11,,,"['Transportation', 'Local Flavor']"
+ed8440d874a0b4205ddbcc0bc56f3d49,828.8044398587392,Neelim Restaurant,5.0,1,,1590 Dumbarton Road,['Restaurants']
+ed8440d874a0b4205ddbcc0bc56f3d49,480.9972852532966,Mario and Sons,3.0,2,,,['Fish & Chips']
+ed8440d874a0b4205ddbcc0bc56f3d49,980.7119041115585,Ninja Turtles Pizzeria,1.0,3,,911 Dumbarton Road,['Italian']
+ed8440d874a0b4205ddbcc0bc56f3d49,123.12412399031346,Rawlings - Love To Eat,5.0,4,,583 Mosspark Boulevard,"['Cafes', 'Bakeries', 'Scottish']"
+ed8440d874a0b4205ddbcc0bc56f3d49,124.34067156501625,Bella Vita,4.0,5,££,597 Mosspark Boulevard,"['Italian', 'Burgers']"
+ed8440d874a0b4205ddbcc0bc56f3d49,100.29330191179454,Leo's Express,4.0,1,£,1456 Paisley Road West,['American (Traditional)']
+ed8440d874a0b4205ddbcc0bc56f3d49,123.77768902925958,Boulevard Fish Bar,5.0,1,£,595 Mosspark Boulevard,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,57.158917164820465,Mcharg Bakers' Shops,5.0,1,£,1493 Paisley Road West,['Bakeries']
+ed8440d874a0b4205ddbcc0bc56f3d49,834.7513923643097,Himalaya,4.0,2,££,1878 Paisley Road West,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,707.6460380374951,Casa Ole,4.5,2,,1835 Paisley Road W,['Spanish']
+ed8440d874a0b4205ddbcc0bc56f3d49,797.9788430301354,Quo Vadis,3.0,1,££,1860 Paisley Road West,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,708.4955554212398,Subway,3.0,2,,1832 Paisley Road West,"['Fast Food', 'Sandwiches']"
+ed8440d874a0b4205ddbcc0bc56f3d49,580.4278063325498,Chilli's Take Away Food Shops,4.0,1,,1783 Paisley Road West,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,1318.5941521073867,Garngads Fish & Chip Shop,2.0,1,,132 Royston Road,['Fish & Chips']
+ed8440d874a0b4205ddbcc0bc56f3d49,920.6708417447219,Sighthill Stone Circle,4.0,1,,Sighthill park,['Landmarks & Historical Buildings']
+ed8440d874a0b4205ddbcc0bc56f3d49,15.49949028818945,Blue Sky Chinese Take Away,3.5,3,££,248 Crow Road,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,436.9421923112674,Domino's Pizza,4.5,3,££,Unit 2 117 Crow Road,['Pizza']
+ed8440d874a0b4205ddbcc0bc56f3d49,637.05781144193,Knightswood Chinese Takeaway,5.0,1,,247 Alderman Road,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,553.8149845175512,Lincoln Inn,1.5,2,,2131 Great Western Road,"['Pubs', 'Gastropubs']"
+ed8440d874a0b4205ddbcc0bc56f3d49,453.2136212413747,Knightswood Golf Course,2.5,3,,Loanfoot Avenue,"['Golf', 'Parks']"
+ed8440d874a0b4205ddbcc0bc56f3d49,557.4710536510876,Freddie's Food Club,2.5,3,,2139 Great Western Road,['Fast Food']
+ed8440d874a0b4205ddbcc0bc56f3d49,778.540931257924,Knightswood Deli,1.0,2,,302 Dyke Road,['Delis']
+ed8440d874a0b4205ddbcc0bc56f3d49,867.9912449815013,Little India,1.0,1,,477 Blairdardie Road,['Indian']
+ed8440d874a0b4205ddbcc0bc56f3d49,174.56733710340393,The Soup & Juice Co,3.5,3,££,Unit 1,"['Juice Bars & Smoothies', 'Soup', 'Sandwiches']"
+ed8440d874a0b4205ddbcc0bc56f3d49,278.4292270761648,Camden Food Co.,4.5,2,,Southern General Hospital,"['Coffee & Tea', 'Sandwiches']"
+ed8440d874a0b4205ddbcc0bc56f3d49,130.15261570852576,Aroma Cafe,3.0,3,£,1345 Govan Road Govan,['Coffee & Tea']
+ed8440d874a0b4205ddbcc0bc56f3d49,1026.8413622378177,Steam Wheeler,3.5,8,££,1 Row Avenue,"['British', 'Pubs']"
+ed8440d874a0b4205ddbcc0bc56f3d49,607.2724917476729,The Amethyst,4.0,3,££,1209 Govan Road,['Pubs']
+ed8440d874a0b4205ddbcc0bc56f3d49,363.09606389476926,M&S Simply Food,5.0,1,,South Glasgow University Hospital,"['Fast Food', 'Sandwiches']"
+ed8440d874a0b4205ddbcc0bc56f3d49,922.7191232958047,Dowanhill Park,4.5,7,,Havelock St/ Highburgh Rd,"['Playgrounds', 'Parks']"
+ed8440d874a0b4205ddbcc0bc56f3d49,643.4824331148782,McDonald's,3.0,4,£,Braehead Shopping Centre,"['Fast Food', 'Burgers']"
+ed8440d874a0b4205ddbcc0bc56f3d49,632.3307554926599,Polka Dot Caffe,4.0,1,,10 Holmfauldhead Place,['Cafes']
+ed8440d874a0b4205ddbcc0bc56f3d49,768.2444570997213,Roll With It,1.0,1,££,1145 Govan Road,"['Cafes', 'Delis', 'Soup']"
+ed8440d874a0b4205ddbcc0bc56f3d49,805.5418201093079,Ralphs Tastybites,3.0,1,,307 Shieldhall Road,['Fish & Chips']
