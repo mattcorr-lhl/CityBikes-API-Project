@@ -41,6 +41,8 @@ The goal of this project was to pull bike station data for a specific city from 
 
 - Parsing the data from the API into the Pandas DataFrame was the biggest hurdle to overcome for me. I had written out most of the code for the `notebooks/yelp_foursquare_EDA.ipynb` notebook when I realized that the station ID needed to be included in the API result DataFrame. This meant I had to go back and rewrite a lot of my previous work to account for this.
 
+- I found the lack of a "Restauraunt" category in the Yelp API kind of frustrating. They had subcategories (e.g. Scottish Food), but a general tag to encompass all of them would have been nice for analysis reasons
+
 - The tight limitation of the Yelp API meant that I had to consider how often I could query the API. Resulting in me making multiple API keys to compensate.
 
 ## Future Goals
